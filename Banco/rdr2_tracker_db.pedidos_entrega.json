@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "6951b3c408bd668f5ee6aeb5"
+  },
+  "nome": "Exóticos: Pedido 1 (Algernon Wasp)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "5x Penas de Egreta-pequena",
+      "check": false
+    },
+    {
+      "nome": "5x Penas de Egreta-avermelhada",
+      "check": false
+    },
+    {
+      "nome": "5x Penas de Egreta-grande",
+      "check": false
+    },
+    {
+      "nome": "15x Orquídea Lady of the Night",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3c408bd668f5ee6aeb6"
+  },
+  "nome": "Exóticos: Pedido 2 (Algernon Wasp)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "20x Penas de Garça-real (Heron)",
+      "check": false
+    },
+    {
+      "nome": "7x Orquídea Lady Slipper",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Moccasin",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3c408bd668f5ee6aeb7"
+  },
+  "nome": "Pedido de Caça 1 (Mrs. Hobbs)",
+  "localizacao": "Agência de Correios",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Esquilo Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Coelho Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3c408bd668f5ee6aeb8"
+  },
+  "nome": "Pedido de Caça 2 (Mrs. Hobbs)",
+  "localizacao": "Agência de Correios",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Cardeal Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Rato Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Pica-pau Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aeba"
+  },
+  "nome": "Exóticos: Pedido 3 (Algernon Wasp)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "25x Ovos de Jacaré",
+      "check": false
+    },
+    {
+      "nome": "3x Orquídea Estrela de Acuña",
+      "check": false
+    },
+    {
+      "nome": "7x Orquídea Charuto (Cigar)",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Fantasma (Ghost)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aebb"
+  },
+  "nome": "Exóticos: Pedido 4 (Algernon Wasp)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "30x Penas de Colhereiro",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Cheiro da Noite",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Cauda de Rato",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Aranha",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aebc"
+  },
+  "nome": "Exóticos: Pedido 5 (Algernon Wasp)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "5x Orquídea Concha (Clamshell)",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Boca de Dragão",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea da Rainha",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Ovo de Pardal",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aebd"
+  },
+  "nome": "Pedido de Caça 3 (Mrs. Hobbs)",
+  "localizacao": "Agência de Correios",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Tamias (Chipmunk) Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Oriole Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Robin Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Gambá (Opossum) Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aebe"
+  },
+  "nome": "Pedido de Caça 4 (Mrs. Hobbs)",
+  "localizacao": "Agência de Correios",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Pássaro Canoro Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Pardal Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Sapo Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Rã-touro Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Esquilo Terrestre Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b3f408bd668f5ee6aebf"
+  },
+  "nome": "Pedido de Caça 5 (Mrs. Hobbs)",
+  "localizacao": "Agência de Correios",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Waxwing Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Morcego Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Melro (Bluejay) Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Corvo Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Carcaça de Castor Perfeita",
+      "check": false
+    }
+  ]
+}]

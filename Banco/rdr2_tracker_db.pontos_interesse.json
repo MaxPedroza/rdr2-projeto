@@ -1,0 +1,260 @@
+[{
+  "_id": {
+    "$oid": "6951c01c3af1100ac220d05c"
+  },
+  "nome": "Esqueleto de Humano Gigante",
+  "localizacao": "Mount Shann (Grizzlies West)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre os ossos enormes numa saliência da montanha."
+},
+{
+  "_id": {
+    "$oid": "6951c01c3af1100ac220d05d"
+  },
+  "nome": "Casa Pequena (Hobbit Home)",
+  "localizacao": "Grizzlies East (Perto de Donner Falls)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a casa com o teto de grama e o símbolo misterioso."
+},
+{
+  "_id": {
+    "$oid": "6951c01c3af1100ac220d05e"
+  },
+  "nome": "Meteorito",
+  "localizacao": "Roanoke Ridge (Casa Meteorite)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a cratera dentro da casa atingida."
+},
+{
+  "_id": {
+    "$oid": "6951c01c3af1100ac220d05f"
+  },
+  "nome": "Pagan Ritual (Local de Ritual)",
+  "localizacao": "Owanjila (Extremo Oeste)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre o local do sacrifício e a máscara."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d068"
+  },
+  "nome": "Esqueleto de Humano Gigante",
+  "localizacao": "Mount Shann (Grizzlies West)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre os ossos enormes numa saliência da montanha."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d069"
+  },
+  "nome": "Casa Pequena (Hobbit Home)",
+  "localizacao": "Grizzlies East (Perto de Donner Falls)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a casa com o teto de grama e o símbolo misterioso."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06a"
+  },
+  "nome": "Meteorito (Cratera)",
+  "localizacao": "Roanoke Ridge (Casa Meteorite)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a cratera dentro da casa atingida e recolha o pedaço de meteoro."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06b"
+  },
+  "nome": "Pagan Ritual (Local de Ritual)",
+  "localizacao": "Owanjila (Extremo Oeste)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre o local do sacrifício e a máscara de crânio."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06c"
+  },
+  "nome": "Braithwaite Secret (A rapariga na latrina)",
+  "localizacao": "Braithwaite Manor (Sul)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre a pequena cabana de madeira acorrentada com uma pessoa dentro."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06d"
+  },
+  "nome": "Homem Meditante (Meditation Monk)",
+  "localizacao": "Grizzlies East (Pico da Montanha)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre o monge sentado na borda do precipício ao sul de O'Creagh's Run."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06e"
+  },
+  "nome": "O Comboio Descarrilado",
+  "localizacao": "Granite Pass (Debaixo da ponte)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione as carruagens caídas na ravina (há ouro aqui!)."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d06f"
+  },
+  "nome": "Árvores com Rostos (Face Trees)",
+  "localizacao": "Owanjila (Margem Oeste)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre as árvores com rostos esculpidos nos troncos."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d070"
+  },
+  "nome": "Igreja Minúscula (Tiny Church)",
+  "localizacao": "Lakay (Bayou Nwa)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a igreja em miniatura no pântano."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d071"
+  },
+  "nome": "O Avião Primitivo (Flying Machine)",
+  "localizacao": "Big Valley (NW de Little Creek River)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre os destroços de uma máquina voadora antiga."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d072"
+  },
+  "nome": "Grave of the Unknown Settler",
+  "localizacao": "Big Valley (Norte de Little Creek)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Uma sepultura decorada com chifres e pedras."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d073"
+  },
+  "nome": "Serpente Gigante (Giant Snake)",
+  "localizacao": "Lemoyne (Perto de Pleasance)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre a serpente morta pendurada numa árvore."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d074"
+  },
+  "nome": "O Circo Acidentado",
+  "localizacao": "Tall Trees (W de Beecher's Hope)",
+  "personagem": "John",
+  "obtido": false,
+  "dica": "Encontre a carruagem de circo destruída."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d075"
+  },
+  "nome": "Esqueleto de Cachalote (Whale Bone)",
+  "localizacao": "Big Valley (Oeste)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Ossos de baleia no topo de uma colina seca."
+},
+{
+  "_id": {
+    "$oid": "6951c0663af1100ac220d076"
+  },
+  "nome": "Barris de Petróleo (Warped Tree)",
+  "localizacao": "Heartlands (Perto de Oil Fields)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre as árvores que cresceram de forma estranha entre objetos."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d078"
+  },
+  "nome": "O Relógio de Sol (Sundial)",
+  "localizacao": "Topo do Mount Shann",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione a estrutura de pedras no pico da montanha (ligado ao mistério dos OVNIs)."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d079"
+  },
+  "nome": "Pinturas Rupestres (Window Rock)",
+  "localizacao": "Window Rock (Grizzlies West)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione as pinturas coloridas debaixo do arco de pedra (enigma das estátuas)."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d07a"
+  },
+  "nome": "O Cemitério de Animais (Pet Cemetery)",
+  "localizacao": "Norte de Van Horn",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre o pequeno cemitério com lápides para cães e gatos."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d07b"
+  },
+  "nome": "Homem Gigante na Caverna (Giant Cave)",
+  "localizacao": "Grizzlies East (Norte de O'Creagh's Run)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Fale com o 'gigante' escondido atrás das rochas na caverna."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d07c"
+  },
+  "nome": "A Árvore de Moedas (Coin Tree)",
+  "localizacao": "Dewberry Creek (Lemoyne)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Encontre a árvore com dezenas de moedas presas no tronco."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d07d"
+  },
+  "nome": "O Obelisco",
+  "localizacao": "Extremo Oeste de West Elizabeth",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Inspecione o monumento de pedra solitário no topo da colina."
+},
+{
+  "_id": {
+    "$oid": "6951c0bb3af1100ac220d07e"
+  },
+  "nome": "Laboratório do Mutante (Manmade Mutant)",
+  "localizacao": "Perto de Van Horn (Mansão Abandonada)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "dica": "Entre pela janela do segundo andar para encontrar a criatura costurada."
+}]

@@ -1,0 +1,272 @@
+[{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae56"
+  },
+  "nome": "Talismã de Garra de Urso",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Garra de Urso Pardo Lendário",
+      "check": false
+    },
+    {
+      "nome": "Algema de Prata Civil (Joia Rara)",
+      "check": false
+    },
+    {
+      "nome": "Pedaço de Quartzo (Recompensa de Colecionável)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae57"
+  },
+  "nome": "Talismã de Dente de Bisão",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Dente de Bisão Branco Lendário",
+      "check": false
+    },
+    {
+      "nome": "Relógio de Bolso de Prata (Joia)",
+      "check": false
+    },
+    {
+      "nome": "Fragmento de Casca de Ovo de Abalone (Rhodes)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae58"
+  },
+  "nome": "Talismã de Chifre de Bisão Tatanka",
+  "localizacao": "Loja de Penhores",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Chifre de Bisão Tatanka Lendário",
+      "check": false
+    },
+    {
+      "nome": "Relógio de Bolso de Prata (Joia)",
+      "check": false
+    },
+    {
+      "nome": "Madeira Petrificada (Ambarino)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae59"
+  },
+  "nome": "Talismã de Canino de Javali",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Canino de Javali Lendário",
+      "check": false
+    },
+    {
+      "nome": "Brinco de Ouro de Argola (Joia)",
+      "check": false
+    },
+    {
+      "nome": "Madeira Petrificada Cobalto (Lake Isabella)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5a"
+  },
+  "nome": "Amuleto de Coração de Lobo",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Coração de Lobo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5b"
+  },
+  "nome": "Amuleto de Chifre de Antílope",
+  "localizacao": "Loja de Penhores",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Chifre de Antílope Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5c"
+  },
+  "nome": "Amuleto de Chifre de Carneiro",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Chifre de Carneiro-Selvagem Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5d"
+  },
+  "nome": "Amuleto de Chifre de Cervo (Buck)",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Galhada de Cervo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5e"
+  },
+  "nome": "Amuleto de Dente de Alce (Elk)",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Dente de Alce Macho Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae5f"
+  },
+  "nome": "Amuleto de Garra de Puma",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Garra de Puma Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a87608bd668f5ee6ae60"
+  },
+  "nome": "Amuleto de Olho de Pantera",
+  "localizacao": "Loja de Penhores",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Olho de Pantera Giaguaro Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a88108bd668f5ee6ae62"
+  },
+  "nome": "Amuleto de Garra de Falcão",
+  "localizacao": "Deadboot Creek (Ambarino)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar no baú em Deadboot Creek",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a88108bd668f5ee6ae63"
+  },
+  "nome": "Amuleto de Casco de Tartaruga",
+  "localizacao": "Gaptooth Breach (New Austin)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar no baú em Gaptooth Breach",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a88108bd668f5ee6ae64"
+  },
+  "nome": "Amuleto de Bico de Corvo",
+  "localizacao": "Bolger Glade (Lemoyne)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar no baú em Bolger Glade",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a88108bd668f5ee6ae65"
+  },
+  "nome": "Amuleto de Dente de Tubarão",
+  "localizacao": "Annesburg (Naufrágio)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar no baú ao leste de Annesburg",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a88108bd668f5ee6ae66"
+  },
+  "nome": "Amuleto de Casca de Iguana",
+  "localizacao": "Ilha de Flat Iron Lake",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar no baú da ilha dos piratas",
+      "check": false
+    }
+  ]
+}]

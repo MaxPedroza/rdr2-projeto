@@ -1,0 +1,371 @@
+[{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6ade7"
+  },
+  "nome": "Bolsa de Tônicos",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Cervo Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Uapiti Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6ade8"
+  },
+  "nome": "Bolsa de Ingredientes",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Texugo Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Esquilo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6ade9"
+  },
+  "nome": "Bolsa de Kit",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Uapiti Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Pantera Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6adea"
+  },
+  "nome": "Bolsa de Provisões",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Bisão Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Guaxinim Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6adeb"
+  },
+  "nome": "Bolsa de Materiais",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Javali Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Iguana Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6adec"
+  },
+  "nome": "Bolsa de Itens de Valor",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Castor Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Coelho Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a37108bd668f5ee6aded"
+  },
+  "nome": "Bolsa Lenda do Oeste",
+  "localizacao": "Acampamento (Pearson)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Puma Perfeita",
+      "check": false
+    },
+    {
+      "nome": "1x Pele de Lobo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adef"
+  },
+  "nome": "Capa de Couro de Boi (Alojamento)",
+  "localizacao": "Alojamento do Arthur",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Couro de Boi Perfeito",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf0"
+  },
+  "nome": "Crânio de Jacaré (Alojamento)",
+  "localizacao": "Alojamento do Arthur",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Jacaré Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf1"
+  },
+  "nome": "Manta de Couro de Lobo (Alojamento)",
+  "localizacao": "Alojamento do Arthur",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Lobo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf2"
+  },
+  "nome": "Baú de Couro de Suçuarana (Alojamento John/Bill)",
+  "localizacao": "Alojamento dos Membros",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Pele de Suçuarana Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf3"
+  },
+  "nome": "Crânio de Carneiro-Selvagem (Alojamento)",
+  "localizacao": "Alojamento dos Membros",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Carcaça de Carneiro-Selvagem Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf4"
+  },
+  "nome": "Manta de Couro de Cervo (Alojamento)",
+  "localizacao": "Alojamento dos Membros",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Cervo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf5"
+  },
+  "nome": "Tapete de Couro de Boi (Alojamento)",
+  "localizacao": "Alojamento Principal (Dutch)",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Couro de Boi Perfeito",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf6"
+  },
+  "nome": "Manta de Couro de Raposa (Alojamento)",
+  "localizacao": "Alojamento da Sra. Grimshaw",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Raposa Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf7"
+  },
+  "nome": "Chifres de Alce (Área Comum)",
+  "localizacao": "Fogueira de Patrulha",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Galhada de Alce",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf8"
+  },
+  "nome": "Banqueta de Cabeça de Cobra (Área Comum)",
+  "localizacao": "Fogueira Principal",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Pele de Cobra Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adf9"
+  },
+  "nome": "Assentos de Couro de Castor (Área Comum)",
+  "localizacao": "Fogueira Principal",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Pele de Castor Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adfa"
+  },
+  "nome": "Assentos de Couro de Antílope (Área de Jogos)",
+  "localizacao": "Mesa de Dominó",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "2x Pele de Antílope Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adfb"
+  },
+  "nome": "Capa de Couro de Bisão (Área de Refeição)",
+  "localizacao": "Mesa de Refeições",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Pele de Bisão Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a3a808bd668f5ee6adfc"
+  },
+  "nome": "Chifres de Cervo (Área de Refeição)",
+  "localizacao": "Mesa do Pearson",
+  "personagem": "Arthur",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1x Galhada de Cervo",
+      "check": false
+    }
+  ]
+}]

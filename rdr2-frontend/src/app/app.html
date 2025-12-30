@@ -1,0 +1,375 @@
+<div class="dashboard-container">
+  <!-- =============================================== -->
+  <!-- SEÇÃO 1 - HEADER PRINCIPAL -->
+  <!-- =============================================== -->
+  <!-- Título, progresso global e menu de navegação -->
+  
+  <header class="main-header">
+    <div class="header-content">
+      <div class="title-section">
+        <h1 class="red-text"><i class="fas fa-map"></i> RDR2: GUIA DO DESBRAVADOR</h1>
+        <div class="global-progress-wrapper">
+          <div class="progress-container global">
+            <div class="progress-bar global-bar" [style.width.%]="getProgressoGlobal()"></div>
+          </div>
+          <p class="progress-label">{{ getProgressoGlobal() }}% CONCLUÍDO</p>
+        </div>
+      </div>
+
+      <!-- =============================================== -->
+      <!-- SEÇÃO 2 - MENU DE NAVEGAÇÃO -->
+      <!-- =============================================== -->
+      <!-- Ícones das categorias principais para trocar colecções -->
+      
+      <nav class="icon-menu">
+  <div class="menu-item" [class.active]="colecaoAtiva === 'animais'" (click)="carregar('animais')">
+    <div class="circle-icon"><i class="fas fa-paw"></i></div>
+    <span class="menu-label-main">ANIMAIS</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'peixes_lendarios'" (click)="carregar('peixes_lendarios')">
+    <div class="circle-icon"><i class="fas fa-fish"></i></div>
+    <span class="menu-label-main">PEIXES</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'desafios'" (click)="carregar('desafios')">
+    <div class="circle-icon"><i class="fas fa-trophy"></i></div>
+    <span class="menu-label-main">DESAFIOS</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'amuletos'" (click)="carregar('amuletos')">
+    <div class="circle-icon"><i class="fas fa-clover"></i></div>
+    <span class="menu-label-main">AMULETOS</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'equipamentos'" (click)="carregar('equipamentos')">
+    <div class="circle-icon"><i class="fas fa-briefcase"></i></div>
+    <span class="menu-label-main">ITENS</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'pearson'" (click)="carregar('pearson')">
+    <div class="circle-icon"><i class="fas fa-campground"></i></div>
+    <span class="menu-label-main">PEARSON</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'colecionaveis'" (click)="carregar('colecionaveis')">
+    <div class="circle-icon"><i class="fas fa-search-location"></i></div>
+    <span class="menu-label-main">COLETAS</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva.includes('trapper')" (click)="carregarTrapperTipo('conjuntos')">
+    <div class="circle-icon"><i class="fas fa-hat-cowboy"></i></div>
+    <span class="menu-label-main">ARMADILHEIRO</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'missoes_mundo'" (click)="carregar('missoes_mundo')">
+    <div class="circle-icon"><i class="fas fa-globe-americas"></i></div>
+    <span class="menu-label-main">MUNDO</span>
+  </div>
+  <div class="menu-item" [class.active]="colecaoAtiva === 'receitas'" (click)="carregar('receitas')">
+    <div class="circle-icon"><i class="fas fa-scroll"></i></div>
+    <span class="menu-label-main">RECEITAS</span>
+  </div>
+  <div class="menu-item-separator"></div>
+  <button class="btn-restaurar-tudo-mini" (click)="restaurarTudo()" title="Remove todos os itens marcados de todas as categorias">
+    <i class="fas fa-undo"></i>
+  </button>
+</nav>
+    </div>
+  </header>
+
+  <!-- ================================================= -->
+  <!-- SEÇÃO 3 - CONTEÚDO PRINCIPAL -->
+  <!-- ================================================= -->
+  <!-- Lista de itens e painel de estatísticas -->
+
+  <main class="content-grid">
+    <!-- ================================================= -->
+    <!-- SEÇÃO 3.1 - PAINEL DE LISTA -->
+    <!-- ================================================= -->
+    <!-- Filtros, busca e lista de itens -->
+
+    <section class="panel list-panel">
+      <div class="panel-header">
+        <div class="panel-controls">
+          <h2 class="panel-title"><i class="fas" [ngClass]="getIconeCategoria()"></i> {{ tituloAtual }}</h2>
+          
+          <!-- ========================================= -->
+          <!-- SEÇÃO 3.2 - FILTROS PRINCIPAIS -->
+          <!-- ========================================= -->
+          <!-- Abas do armadilheiro e filtro de personagem -->
+          
+          <!-- ABAS DO ARMADILHEIRO -->
+          <div class="trapper-tabs" *ngIf="colecaoAtiva.includes('trapper')">
+            <button class="trapper-tab" [class.active]="trapperTipo === 'conjuntos'" (click)="carregarTrapperTipo('conjuntos')">
+              <i class="fas fa-shirt"></i> CONJUNTOS
+            </button>
+            <button class="trapper-tab" [class.active]="trapperTipo === 'roupas'" (click)="carregarTrapperTipo('roupas')">
+              <i class="fas fa-hat-cowboy"></i> ROUPAS
+            </button>
+          </div>
+
+          <!-- FILTRO DE PERSONAGEM -->
+          <div class="character-filter">
+            <button (click)="personagemSelecionado = 'Todos'" [class.active]="personagemSelecionado === 'Todos'">TODOS</button>
+            <button (click)="personagemSelecionado = 'Arthur'" [class.active]="personagemSelecionado === 'Arthur'">ARTHUR</button>
+            <button (click)="personagemSelecionado = 'John'" [class.active]="personagemSelecionado === 'John'">JOHN</button>
+          </div>
+        </div>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 3.3 - FILTROS DE SUBCATEGORIA -->
+        <!-- ========================================= -->
+        <!-- Abas de subcategorias com botões de ação em massa -->
+
+        <div class="sub-menu-row" *ngIf="getGrupos().length > 1 && !colecaoAtiva.includes('trapper')">
+          <div class="sub-tab" [class.active]="subFiltroAtivo === 'Todos'" (click)="subFiltroAtivo = 'Todos'">
+            <i class="fas fa-list"></i>
+            <span>TODOS</span>
+          </div>
+          <div *ngFor="let grupo of getGrupos()" class="sub-tab" [class.active]="subFiltroAtivo === grupo" (click)="subFiltroAtivo = grupo">
+            <i class="fas" [ngClass]="getIconeSub(grupo)"></i>
+            <span>{{ grupo }}</span>
+          </div>
+          <div class="subcat-actions" *ngIf="subFiltroAtivo !== 'Todos'">
+            <button class="btn-marcar" (click)="marcarTodosSubcategoria()" title="Marcar todos da subcategoria"><i class="fas fa-check-double"></i></button>
+            <button class="btn-remover" (click)="removerTodosSubcategoria()" title="Desmarcar todos da subcategoria"><i class="fas fa-times"></i></button>
+          </div>
+        </div>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 3.4 - AÇÕES EM MASSA E BUSCA -->
+        <!-- ========================================= -->
+        <!-- Botões para marcar/desmarcar em massa e campo de busca -->
+
+        <!-- Botões para categorias sem subcategorias (animais, peixes_lendarios, missoes_mundo) -->
+        <div class="subcat-actions" *ngIf="!temSubcategorias() && !colecaoAtiva.includes('trapper')" style="margin-top: 12px; margin-left: 0;">
+          <button class="btn-marcar" (click)="marcarTodosCategoria()" title="Marcar todos os itens"><i class="fas fa-check-double"></i></button>
+          <button class="btn-remover" (click)="removerTodosCategoria()" title="Desmarcar todos os itens"><i class="fas fa-times"></i></button>
+        </div>
+
+        <!-- CAMPO DE BUSCA -->
+        <div class="search-box">
+          <i class="fas fa-search search-icon"></i>
+          <input type="text" [(ngModel)]="termoBusca" placeholder="Pesquisar no Compêndio...">
+        </div>
+
+        <!-- BOTÃO RESTAURAR TUDO REMOVIDO (agora só no menu) -->
+      </div>
+
+      <!-- ========================================= -->
+      <!-- SEÇÃO 3.5 - LISTA DE ITENS -->
+      <!-- ========================================= -->
+      <!-- Área scrollável com itens organizados por tipo -->
+
+      <div class="scroll-area">
+        <!-- ========================================= -->
+        <!-- SEÇÃO 3.5.1 - MODO TRAPPER (GRUPOS) -->
+        <!-- ========================================= -->
+        <!-- Lista em grupos expansíveis para Armadilheiro -->
+
+        <!-- MODO GRUPOS (TRAPPER) -->
+        <ng-container *ngIf="colecaoAtiva.includes('trapper')">
+          <div *ngFor="let grupo of getGrupos()" class="grupo-container">
+            <!-- HEADER DO GRUPO -->
+            <div class="grupo-header" (click)="alternarGrupo(grupo)">
+              <div class="grupo-expand-icon">
+                <i class="fas" [class.fa-chevron-down]="gruposExpandidos.has(grupo)" [class.fa-chevron-right]="!gruposExpandidos.has(grupo)"></i>
+              </div>
+              <div class="grupo-info">
+                <h3 class="grupo-titulo">{{ grupo }}</h3>
+                <span class="grupo-contador" [class.completo]="isConjuntoCompleto(grupo)">
+                  {{ getContagemGrupo(grupo).completos }} / {{ getContagemGrupo(grupo).total }}
+                </span>
+              </div>
+              <div class="grupo-checkbox">
+                <div class="custom-checkbox" [class.checked]="isConjuntoCompleto(grupo)">
+                  <i class="fas fa-check" *ngIf="isConjuntoCompleto(grupo)"></i>
+                </div>
+              </div>
+              <div class="grupo-buttons" (click)="$event.stopPropagation()">
+                <button class="btn-marcar" (click)="marcarTodosCategorias(grupo)" title="Marcar todos os itens desta categoria">
+                  <i class="fas fa-check-double"></i>
+                </button>
+                <button class="btn-remover" (click)="removerTodosCategorias(grupo)" title="Remover todos os itens desta categoria">
+                  <i class="fas fa-times"></i>
+                </button>
+              </div>
+            </div>
+
+            <!-- ITENS DO GRUPO -->
+            <div *ngIf="gruposExpandidos.has(grupo)" class="grupo-itens">
+              <div *ngFor="let item of getItensPorGrupo(grupo)" class="item-card" [class.item-obtained]="item.obtido">
+                <div class="item-main-info" (click)="alternarStatus(item)">
+                  <div class="item-identity">
+                    <span class="item-icon-indicator">
+                      <i class="fas" [ngClass]="getIconeItem(item)"></i>
+                    </span>
+                    <span class="item-name">
+                      {{ formatarNomeExibicao(item) }}
+                      <span class="character-tag" *ngIf="item.personagem">{{ item.personagem }}</span>
+                    </span>
+                  </div>
+                  <div class="item-status">
+                    <div class="custom-checkbox" [class.checked]="item.obtido">
+                      <i class="fas fa-check" *ngIf="item.obtido"></i>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="materials-container" *ngIf="item.materiais">
+                  <div *ngFor="let m of item.materiais" class="material-row" (click)="alternarSubItem(item, m, $event)">
+                    <i class="far" [class.fa-check-circle]="m.check" [class.fa-circle]="!m.check" [class.gold-text]="m.check"></i>
+                    <span [class.text-strikethrough]="m.check">{{ m.nome }}</span>
+                  </div>
+                </div>
+                
+                <div class="item-details" *ngIf="!item.obtido">
+                  <p *ngIf="item.localizacao"><i class="fas fa-map-marker-alt"></i> {{ item.localizacao }}</p>
+                  <p *ngIf="item.dica || item.isca"><i class="fas fa-circle-info"></i> {{ item.dica || item.isca }}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ng-container>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 3.5.2 - MODO NORMAL (outras coleções) -->
+        <!-- ========================================= -->
+        <!-- Lista simples de itens para categorias não-TRAPPER -->
+
+        <!-- MODO NORMAL (OUTRAS COLEÇÕES) -->
+        <ng-container *ngIf="!colecaoAtiva.includes('trapper')">
+          <div *ngFor="let item of itensFiltrados" class="item-card" [class.item-obtained]="item.obtido">
+            <div class="item-main-info" (click)="alternarStatus(item)">
+              <div class="item-identity">
+                <span class="item-icon-indicator">
+                  <i class="fas" [ngClass]="getIconeSub(extrairSubcategoria(item))"></i>
+                </span>
+                <span class="item-name">
+                  {{ formatarNomeExibicao(item) }}
+                  <span class="character-tag" *ngIf="item.personagem">{{ item.personagem }}</span>
+                </span>
+              </div>
+              <div class="item-status">
+                <div class="custom-checkbox" [class.checked]="item.obtido">
+                  <i class="fas fa-check" *ngIf="item.obtido"></i>
+                </div>
+              </div>
+            </div>
+
+            <div class="materials-container" *ngIf="item.materiais">
+              <div *ngFor="let m of item.materiais" class="material-row" (click)="alternarSubItem(item, m, $event)">
+                <i class="far" [class.fa-check-circle]="m.check" [class.fa-circle]="!m.check" [class.gold-text]="m.check"></i>
+                <span [class.text-strikethrough]="m.check">{{ m.nome }}</span>
+              </div>
+            </div>
+            
+            <div class="item-details" *ngIf="!item.obtido">
+              <p *ngIf="item.localizacao"><i class="fas fa-map-marker-alt"></i> {{ item.localizacao }}</p>
+              <p *ngIf="item.dica || item.isca"><i class="fas fa-circle-info"></i> {{ item.dica || item.isca }}</p>
+            </div>
+          </div>
+        </ng-container>
+      </div>
+    </section>
+
+    <!-- ========================================= -->
+    <!-- SEÇÃO 4 - PAINEL DE ESTATÍSTICAS -->
+    <!-- ========================================= -->
+    <!-- Progresso, ranking e últimas obtidas -->
+
+    <section class="panel info-panel">
+      <div class="panel-header"><h2 class="panel-title">ESTATÍSTICAS</h2></div>
+      <div class="stats-content">
+        <!-- ========================================= -->
+        <!-- SEÇÃO 4.1 - ESTATÍSTICAS DA CATEGORIA -->
+        <!-- ========================================= -->
+        <!-- Progresso e contadores da categoria ativa -->
+
+        <!-- CATEGORIA ATUAL -->
+        <div class="stat-card">
+          <p class="small-label">CATEGORIA ATUAL</p>
+          <div class="progress-container"><div class="progress-bar" [style.width.%]="calcularProgresso()"></div></div>
+          <h2 class="gold-text">{{ getContagemObtidos() }} / {{ listaItens.length }}</h2>
+        </div>
+
+        <!-- ITENS FALTANDO -->
+        <div class="stat-card">
+          <p class="small-label">ITENS FALTANDO</p>
+          <h2 class="red-text">{{ getItensFaltando() }}</h2>
+          <p class="stat-description">Tempo estimado: <span class="gold-text">{{ getTempoEstimado() }}</span></p>
+        </div>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 4.2 - ESTATÍSTICAS POR PERSONAGEM -->
+        <!-- ========================================= -->
+        <!-- Contadores separados para Arthur e John -->
+
+        <!-- POR PERSONAGEM -->
+        <div class="stat-card">
+          <p class="small-label">POR PERSONAGEM</p>
+          <div class="personagem-stats">
+            <div class="personagem-stat">
+              <span>Arthur:</span>
+              <span class="gold-text">{{ getContagemPorPersonagem('Arthur') }}</span>
+            </div>
+            <div class="personagem-stat">
+              <span>John:</span>
+              <span class="gold-text">{{ getContagemPorPersonagem('John') }}</span>
+            </div>
+          </div>
+        </div> <br><br>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 4.3 - RANKING DE CATEGORIAS -->
+        <!-- ========================================= -->
+        <!-- Top 3 categorias por percentual de conclusão -->
+
+        <!-- TOP CATEGORIAS -->
+        <div class="stat-card">
+          <p class="small-label">TOP CATEGORIAS</p>
+          <div class="ranking-list">
+            <div *ngFor="let cat of getRankingCategorias()" class="ranking-item">
+              <span class="ranking-nome">{{ cat.nome }}</span>
+              <div class="ranking-progresso">
+                <div class="progress-bar" [style.width.%]="cat.percentual"></div>
+              </div>
+              <span class="ranking-percent">{{ cat.percentual }}%</span>
+            </div>
+          </div>
+        </div> <br><br>
+
+        <!-- ========================================= -->
+        <!-- SEÇÃO 4.4 - ÚLTIMAS OBTIDAS -->
+        <!-- ========================================= -->
+        <!-- Últimos 5 itens marcados como obtidos -->
+
+        <!-- ÚLTIMAS OBTIDAS -->
+        <div class="stat-card" *ngIf="ultimosObtidos.length > 0">
+          <p class="small-label">ÚLTIMAS OBTIDAS</p>
+          <div class="ultimas-list">
+            <div *ngFor="let item of ultimosObtidos" class="ultima-item">
+              <i class="fas fa-check-circle gold-text"></i>
+              <span>{{ formatarNomeExibicao(item) }}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ================================================= -->
+  <!-- SEÇÃO 5 - MODAL DE CONFIRMAÇÃO -->
+  <!-- ================================================= -->
+  <!-- Modal estiloso para confirmar ações destrutivas -->
+
+  <!-- Modal de Confirmação Estiloso -->
+  <div class="modal-overlay" *ngIf="confirmarVisivel" (click)="cancelar()">
+    <div class="modal-container" (click)="$event.stopPropagation()">
+      <div class="modal-header">
+        <i class="fas fa-exclamation-triangle"></i>
+        <span>Confirmação</span>
+      </div>
+      <div class="modal-body">
+        <p>{{ mensagemConfirmacao }}</p>
+      </div>
+      <div class="modal-footer">
+        <button class="modal-btn-cancel" (click)="cancelar()">Cancelar</button>
+        <button class="modal-btn-confirm" (click)="confirmar()">Confirmar</button>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,864 @@
+[{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec2"
+  },
+  "nome": "Revólver do Flaco Hernandez",
+  "localizacao": "Cairn Lake",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Vencer o duelo com Flaco Hernandez",
+      "check": false
+    },
+    {
+      "nome": "Saquear a arma do chão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec3"
+  },
+  "nome": "Revólver do Granger",
+  "localizacao": "Próximo a Flatneck Station",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Vencer o duelo com Emmet Granger",
+      "check": false
+    },
+    {
+      "nome": "Saquear a arma do chão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec4"
+  },
+  "nome": "Pistola do Midnight",
+  "localizacao": "Estação de Rhodes (Trem)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Vencer o duelo com Billy Midnight",
+      "check": false
+    },
+    {
+      "nome": "Saquear a arma do chão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec5"
+  },
+  "nome": "Revólver do Calloway",
+  "localizacao": "Brandywine Drop",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Finalizar a missão 'O Nobre de Todos os Homens'",
+      "check": false
+    },
+    {
+      "nome": "Saquear a arma do chão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec6"
+  },
+  "nome": "Revólver do Algernon",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Completar todas as 5 listas de Exóticos",
+      "check": false
+    },
+    {
+      "nome": "Receber de presente de Algernon Wasp",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec7"
+  },
+  "nome": "Revólver do Otis Miller",
+  "localizacao": "Cholla Springs (Caverna)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar as duas metades do Mapa Rasgado",
+      "check": false
+    },
+    {
+      "nome": "Abrir o baú na caverna oculta",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec8"
+  },
+  "nome": "Machadinha Viking",
+  "localizacao": "Old Tomb (Roanoke Ridge)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Localizar a tumba viking",
+      "check": false
+    },
+    {
+      "nome": "Pegar a machadinha no altar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b44208bd668f5ee6aec9"
+  },
+  "nome": "Faca de Chifre de Cervo",
+  "localizacao": "Norte de Hanging Dog Ranch",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar o cadáver do urso e do caçador",
+      "check": false
+    },
+    {
+      "nome": "Retirar a faca do cadáver",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aecb"
+  },
+  "nome": "Espada Pirata Quebrada",
+  "localizacao": "Pântanos de Saint Denis (Ilhota)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Localizar o barco naufragado ao sul da ponte ferroviária",
+      "check": false
+    },
+    {
+      "nome": "Pegar a espada no esqueleto dentro do barco",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aecc"
+  },
+  "nome": "Faca de Guerra Civil",
+  "localizacao": "Fort Brennand (Roanoke Ridge)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Entrar no porão do forte abandonado",
+      "check": false
+    },
+    {
+      "nome": "Pegar a faca em cima da caixa",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aecd"
+  },
+  "nome": "Elmo Viking",
+  "localizacao": "Old Tomb (Roanoke Ridge)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Explorar as prateleiras dentro da tumba viking",
+      "check": false
+    },
+    {
+      "nome": "Pegar o elmo (está próximo a um crânio)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aece"
+  },
+  "nome": "Máscara de Porco",
+  "localizacao": "Butcher Creek",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Localizar o açougue ao ar livre em Butcher Creek",
+      "check": false
+    },
+    {
+      "nome": "Pegar a máscara pendurada num pilar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aecf"
+  },
+  "nome": "Máscara de Carnaval de Carneiro",
+  "localizacao": "Rathskeller Fork (New Austin)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Explorar o cercado atrás da casa em Rathskeller Fork",
+      "check": false
+    },
+    {
+      "nome": "Pegar a máscara pendurada na parede",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aed0"
+  },
+  "nome": "Máscara de Crânio de Gato",
+  "localizacao": "Lakay (Pântanos)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Localizar a cabana submersa em Lakay",
+      "check": false
+    },
+    {
+      "nome": "Entrar e pegar a máscara na parede dos fundos",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aed1"
+  },
+  "nome": "Machado de Lâmina Dupla",
+  "localizacao": "Norte de Wallace Station",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar o toco de árvore com o machado preso",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b46608bd668f5ee6aed2"
+  },
+  "nome": "Faca de Pedra (Stone Hatchet)",
+  "localizacao": "Owanjila (NW de Strawberry)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Completar os desafios de GTA Online (se aplicável)",
+      "check": false
+    },
+    {
+      "nome": "Localizar o altar indígena ao norte do lago",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aed7"
+  },
+  "nome": "Chapéu: Elmo Viking",
+  "localizacao": "Old Tomb (Roanoke Ridge)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Localizar a tumba antiga",
+      "check": false
+    },
+    {
+      "nome": "Recolher o elmo na prateleira de pedra",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aed8"
+  },
+  "nome": "Chapéu: Tricórnio de Pirata",
+  "localizacao": "Ilha em Flat Iron Lake",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Navegar até a ilha maior em frente a Clemens Point",
+      "check": false
+    },
+    {
+      "nome": "Encontrar o barco naufragado e pegar o chapéu",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aed9"
+  },
+  "nome": "Chapéu: Mineiro (com lanterna)",
+  "localizacao": "Mina de Beryl's Dream",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Explodir a entrada da mina com o detonador",
+      "check": false
+    },
+    {
+      "nome": "Recolher o chapéu no cadáver dentro da mina",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aeda"
+  },
+  "nome": "Chapéu: Civil War Hardee",
+  "localizacao": "Fort Brennand",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Entrar no porão do forte abandonado",
+      "check": false
+    },
+    {
+      "nome": "Recolher o chapéu junto à faca de guerra civil",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aedb"
+  },
+  "nome": "Chapéu: Espantalho",
+  "localizacao": "Guthrie Farm (Heartlands)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar o chapéu do espantalho com um tiro",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar no inventário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aedc"
+  },
+  "nome": "Chapéu: Nevascon (Nevada Hat)",
+  "localizacao": "Window Rock",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Subir atrás da cachoeira em Whinyard Strait",
+      "check": false
+    },
+    {
+      "nome": "Pegar o chapéu próximo à nota de suicídio",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b50108bd668f5ee6aedd"
+  },
+  "nome": "Chapéu: Guaxinim (Raccoon Mountain)",
+  "localizacao": "Saloon de Valentine",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Nautear o homem barulhento (Jon) no Saloon",
+      "check": false
+    },
+    {
+      "nome": "Roubar o chapéu dele após a briga",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aedf"
+  },
+  "nome": "Chapéu: Boina de Pano (Cloth Bolero)",
+  "localizacao": "NPCs aleatórios em New Austin (Del Lobos)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um membro da gangue Del Lobo",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee0"
+  },
+  "nome": "Chapéu: Panama de Palha (Sun Hat)",
+  "localizacao": "NPCs em Guarma ou Plantações de Lemoyne",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um guarda em Guarma (Cap. 5) ou trabalhadores rurais",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee1"
+  },
+  "nome": "Chapéu: Condutor de Carrinha (Baggy Canvas)",
+  "localizacao": "NPCs condutores de carroças/diligências",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um condutor de diligência aleatório",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee2"
+  },
+  "nome": "Chapéu: Caçador de Guaxinim (Raccoon)",
+  "localizacao": "Valentine (NPC Jon no Saloon)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrotar o NPC Jon no Saloon de Valentine",
+      "check": false
+    },
+    {
+      "nome": "Roubar o chapéu após a briga",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee3"
+  },
+  "nome": "Chapéu: Militar (Roanoke)",
+  "localizacao": "NPCs no acampamento de Butcher Creek",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um morador hostil em Butcher Creek",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee4"
+  },
+  "nome": "Chapéu: Derby de Copa Alta (High Hat)",
+  "localizacao": "NPCs elegantes em Saint Denis ou Strawberry",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um NPC de classe alta em Saint Denis",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b59008bd668f5ee6aee5"
+  },
+  "nome": "Chapéu: Fazendeiro de Aba Larga (Wide-Frame)",
+  "localizacao": "Fazendeiros aleatórios (ex: Emerald Ranch)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um fazendeiro trabalhando nos campos",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aee7"
+  },
+  "nome": "Chapéu: Sombrero Bolero",
+  "localizacao": "Membros da Gangue Del Lobo (Fort Mercer)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Saquear de um membro Del Lobo em Fort Mercer",
+      "check": false
+    },
+    {
+      "nome": "Verificar se o chapéu brilha no chão antes de pegar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aee8"
+  },
+  "nome": "Chapéu: Sombrero de Aba Larga",
+  "localizacao": "Membros da Gangue Del Lobo (Solomon's Folly)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrotar membros Del Lobo em New Austin",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar permanentemente",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aee9"
+  },
+  "nome": "Chapéu: Trilby Desleixado (Slouch Hat)",
+  "localizacao": "Trabalhadores em Annesburg ou Butcher Creek",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um minerador ou trabalhador rural",
+      "check": false
+    },
+    {
+      "nome": "Verificar se brilha no chão após cair",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aeea"
+  },
+  "nome": "Chapéu: De Feltro Amassado (Cutter Hat)",
+  "localizacao": "Fazendeiros em Emerald Ranch ou Guthrie Farm",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar o fazendeiro que usa este modelo específico",
+      "check": false
+    },
+    {
+      "nome": "Provocar uma briga ou atirar no chapéu para ele cair",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aeeb"
+  },
+  "nome": "Chapéu: Homburg de Plantação",
+  "localizacao": "Guardas das Plantações (Braithwaite ou Caliga Hall)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um guarda nas propriedades de Lemoyne",
+      "check": false
+    },
+    {
+      "nome": "Colocar na cabeça para salvar",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b5c908bd668f5ee6aeec"
+  },
+  "nome": "Chapéu: Gorro de Pescador",
+  "localizacao": "Pescadores nas docas de Van Horn ou Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar um marinheiro/pescador com o gorro",
+      "check": false
+    },
+    {
+      "nome": "Recolher o item do chão após ele cair",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aeee"
+  },
+  "nome": "Chapéu: Boina de Pano (Cloth Bolero)",
+  "localizacao": "Membros da Gangue Del Lobo (New Austin)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Saquear de um Del Lobo em Thieves Landing",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aeef"
+  },
+  "nome": "Chapéu: Panama de Palha",
+  "localizacao": "Trabalhadores em Braithwaite Manor ou Guarma",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um trabalhador do campo",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aef0"
+  },
+  "nome": "Chapéu: Derby de Copa Alta (High Hat)",
+  "localizacao": "NPCs ricos em Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um cavalheiro bem vestido",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aef1"
+  },
+  "nome": "Chapéu: Western de Copa Alta",
+  "localizacao": "NPCs em Van Horn ou Rhodes",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um viajante aleatório",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aef2"
+  },
+  "nome": "Chapéu: Cavaleiro de Milícia (Militaire)",
+  "localizacao": "NPCs em Butcher Creek",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um morador hostil de Roanoke Ridge",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aef3"
+  },
+  "nome": "Chapéu: Caubói Flácido (Floppy Cowboy)",
+  "localizacao": "NPCs em Cumberland Forest ou perto de Valentine",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um cavaleiro solitário nas trilhas",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b60608bd668f5ee6aef4"
+  },
+  "nome": "Chapéu: Gorro de Marinheiro (Fisherman's)",
+  "localizacao": "NPCs nas docas de Annesburg",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Derrubar de um trabalhador portuário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b61808bd668f5ee6aef6"
+  },
+  "nome": "Chapéu: Libertador (Morion Helmet)",
+  "localizacao": "Mount Hagen",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar o cadáver congelado no pico da montanha",
+      "check": false
+    },
+    {
+      "nome": "Recolher o elmo espanhol",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b61808bd668f5ee6aef7"
+  },
+  "nome": "Chapéu: Oficial da Guerra Civil",
+  "localizacao": "Fort Brennand",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Explorar o porão do forte abandonado",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b61808bd668f5ee6aef8"
+  },
+  "nome": "Chapéu: Mineiro com Lanterna",
+  "localizacao": "Mina de Beryl's Dream",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Entrar na mina após a explosão e saquear o cadáver",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b61808bd668f5ee6aef9"
+  },
+  "nome": "Máscara: Crânio de Carneiro",
+  "localizacao": "Rathskeller Fork (New Austin)",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Recolher no poste no canto do assentamento",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b61808bd668f5ee6aefa"
+  },
+  "nome": "Máscara: Crânio de Porco",
+  "localizacao": "Butcher Creek",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Recolher no talho ao ar livre",
+      "check": false
+    }
+  ]
+}]

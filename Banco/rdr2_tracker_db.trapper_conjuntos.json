@@ -1,0 +1,859 @@
+[{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50d9"
+  },
+  "nome": "Chapéu Cabeça de Urso Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador de Urso",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Urso Pardo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50da"
+  },
+  "nome": "Casaco Urso Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador de Urso",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Urso Pardo Lendário",
+      "check": false
+    },
+    {
+      "nome": "Pele de Bisão Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50db"
+  },
+  "nome": "Roper Urso Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador de Urso",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Urso Pardo Lendário",
+      "check": false
+    },
+    {
+      "nome": "Couro de Touro Perfeito",
+      "check": false
+    },
+    {
+      "nome": "Couro de Javali Perfeito",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50dc"
+  },
+  "nome": "Luvas de Equitação Javali",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador de Urso",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Javali Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Coelho Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50dd"
+  },
+  "nome": "Chapéu Mole de Suçuaruna Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Fera Caçadora",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Suçuaruna Lendária",
+      "check": false
+    },
+    {
+      "nome": "Pena de Peru x2",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50de"
+  },
+  "nome": "Casaco Suçuaruna Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Fera Caçadora",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Suçuaruna Lendária",
+      "check": false
+    },
+    {
+      "nome": "Pele de Lobo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50df"
+  },
+  "nome": "Perneiras de Lobo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Fera Caçadora",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Lobo Lendário",
+      "check": false
+    },
+    {
+      "nome": "Pele de Cabra Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50e0"
+  },
+  "nome": "Mocassins de Lobo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Fera Caçadora",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Lobo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50e1"
+  },
+  "nome": "Chapéu de Bisão Branco Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Vingança do Fantasma",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Bisão Branco Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50e2"
+  },
+  "nome": "Casaco de Bisão Branco Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Vingança do Fantasma",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Bisão Branco Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530bd7aca3b418145a50e3"
+  },
+  "nome": "Luvas de Alce Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Vingança do Fantasma",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Alce Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50e5"
+  },
+  "nome": "Chapéu de Uapiti Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Uapiti Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50e6"
+  },
+  "nome": "Casaco de Lobo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Lobo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50e7"
+  },
+  "nome": "Perneiras de Uapiti Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Uapiti Lendário",
+      "check": false
+    },
+    {
+      "nome": "Pele de Carneiro Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50e8"
+  },
+  "nome": "Mocassins de Javali Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Javali Lendário",
+      "check": false
+    },
+    {
+      "nome": "Pele de Cabra Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50e9"
+  },
+  "nome": "Chapéu de Carneiro Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50ea"
+  },
+  "nome": "Casaco de Carneiro Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50eb"
+  },
+  "nome": "Luvas de Carneiro Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50ec"
+  },
+  "nome": "Botas de Caça de Veado",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Veado Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Porco Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50ed"
+  },
+  "nome": "Chapéu de Jacaré Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador da Morte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Jacaré Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50ee"
+  },
+  "nome": "Colete de Jacaré Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador da Morte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Jacaré Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c3faca3b418145a50ef"
+  },
+  "nome": "Botas de Jacaré Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Caçador da Morte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Jacaré Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f1"
+  },
+  "nome": "Chapéu de Raposa Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Apanhador de Sonhos",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Raposa Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f2"
+  },
+  "nome": "Casaco de Bisonte Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Apanhador de Sonhos",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Bisonte Tatanka Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f3"
+  },
+  "nome": "Chaparreiras de Couro de Alce Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Apanhador de Sonhos",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Alce Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f4"
+  },
+  "nome": "Mocassins de Raposa Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Apanhador de Sonhos",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Raposa Lendária",
+      "check": false
+    },
+    {
+      "nome": "Pele de Uapiti Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f5"
+  },
+  "nome": "Chapéu de Carneiro Chifrudo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Chifrudo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f6"
+  },
+  "nome": "Casaco de Carneiro Chifrudo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Chifrudo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f7"
+  },
+  "nome": "Luvas de Carneiro Chifrudo Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Chifrudo Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f8"
+  },
+  "nome": "Mocassins de Cervo",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Veado Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50f9"
+  },
+  "nome": "Chapéu de Pantera Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Pantera Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50fa"
+  },
+  "nome": "Capa de Pantera Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Pantera Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50fb"
+  },
+  "nome": "Botas de Pantera Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho da Noite",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Pantera Lendária",
+      "check": false
+    },
+    {
+      "nome": "Pele de Cabra Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50fc"
+  },
+  "nome": "Chapéu de Antilocapra Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho do Deserto",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Antilocapra Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50fd"
+  },
+  "nome": "Casaco de Antilocapra Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho do Deserto",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Antilocapra Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50fe"
+  },
+  "nome": "Mocassins de Antilocapra Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho do Deserto",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Antilocapra Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a50ff"
+  },
+  "nome": "Luvas de Antilocapra Lendária",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho do Deserto",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Antilocapra Lendária",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a5100"
+  },
+  "nome": "Chapéu de Javali Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Caçador de Prêmios",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Javali Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a5101"
+  },
+  "nome": "Colete de Javali Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Caçador de Prêmios",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Javali Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530c79aca3b418145a5102"
+  },
+  "nome": "Botas de Javali Lendário",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Caçador de Prêmios",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Javali Lendário",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5104"
+  },
+  "nome": "Chapéu de Boiadeiro",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Boiadeiro",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Boi Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Javali Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5105"
+  },
+  "nome": "Casaco de Trabalho de Couro",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Boiadeiro",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Vaca Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Veado Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5106"
+  },
+  "nome": "Colete de Pele de Carneiro",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Boiadeiro",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5107"
+  },
+  "nome": "Botas de Trabalho de Couro",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Boiadeiro",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Touro Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Javali Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5108"
+  },
+  "nome": "Chapéu de Fronteira",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Andarilho do Deserto",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Antilocapra Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5109"
+  },
+  "nome": "Casaco de Couro de Carneiro",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Homem das Neves",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Carneiro Perfeita x2",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510a"
+  },
+  "nome": "Colete de Couro de Cervo",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Homem das Neves",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Cervo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510b"
+  },
+  "nome": "Luvas de Couro de Coelho",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Homem das Neves",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Coelho Perfeita x2",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510c"
+  },
+  "nome": "Capa de Couro de Bisonte",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Andarilho do Norte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Bisonte Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510d"
+  },
+  "nome": "Luvas de Couro de Teixo",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Andarilho do Norte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Teixo Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510e"
+  },
+  "nome": "Botas de Couro de Alce",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "O Andarilho do Norte",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Alce Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a510f"
+  },
+  "nome": "Casaco de Couro de Urso",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Urso Perfeita",
+      "check": false
+    },
+    {
+      "nome": "Pele de Bisonte Perfeita",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "69530cadaca3b418145a5110"
+  },
+  "nome": "Chapéu de Couro de Castor",
+  "colecao": "trapper-conjuntos",
+  "subcategoria": "Explorador da Montanha",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pele de Castor Perfeita x2",
+      "check": false
+    }
+  ]
+}]

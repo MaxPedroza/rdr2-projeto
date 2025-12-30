@@ -1,0 +1,810 @@
+[{
+  "_id": {
+    "$oid": "6950b79250292326b8d35180"
+  },
+  "nome": "Bandido 1",
+  "obtido": false,
+  "dica": "Assalte 5 cidadãos.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35181"
+  },
+  "nome": "Bandido 2",
+  "obtido": false,
+  "dica": "Assalte 2 carruagens ou venda 2 carruagens roubadas à cerca.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35182"
+  },
+  "nome": "Bandido 3",
+  "obtido": false,
+  "dica": "Assalte a caixa registadora de 4 lojas num único dia.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35183"
+  },
+  "nome": "Bandido 4",
+  "obtido": false,
+  "dica": "Assalte 3 carruagens num único dia.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35184"
+  },
+  "nome": "Bandido 5",
+  "obtido": false,
+  "dica": "Consiga uma recompensa de $250 num único estado.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35185"
+  },
+  "nome": "Bandido 6",
+  "obtido": false,
+  "dica": "Roube 5 cavalos e venda-os aos negociantes de cavalos em Clemens Cove.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35186"
+  },
+  "nome": "Bandido 7",
+  "obtido": false,
+  "dica": "Roube $50 em dinheiro e objetos de valor de cidadãos e viajantes.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35187"
+  },
+  "nome": "Bandido 8",
+  "obtido": false,
+  "dica": "Roube 7 carroças e venda-as à cerca na Emerald Ranch.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35188"
+  },
+  "nome": "Bandido 9",
+  "obtido": false,
+  "dica": "Amarre 3 pessoas e deixe-as nos trilhos do comboio.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b79250292326b8d35189"
+  },
+  "nome": "Bandido 10",
+  "obtido": false,
+  "dica": "Complete 5 assaltos a comboios sem morrer ou ser apanhado.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d3518b"
+  },
+  "nome": "Estrategista 1",
+  "obtido": false,
+  "dica": "Vença 5 mãos de Poker.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d3518c"
+  },
+  "nome": "Estrategista 2",
+  "obtido": false,
+  "dica": "No Blackjack, vença 3 mãos com 3 ou mais cartas adicionais (hit).",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d3518d"
+  },
+  "nome": "Estrategista 3",
+  "obtido": false,
+  "dica": "Vença 3 partidas de Jogo da Faca (Five Finger Fillet).",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d3518e"
+  },
+  "nome": "Estrategista 4",
+  "obtido": false,
+  "dica": "Limpe uma mesa de Poker em Flatneck Station, Saint Denis e Valentine.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d3518f"
+  },
+  "nome": "Estrategista 5",
+  "obtido": false,
+  "dica": "Vença 3 rodadas de Dominó sem comprar peças contra 1 ou 2 oponentes.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d35190"
+  },
+  "nome": "Estrategista 6",
+  "obtido": false,
+  "dica": "Vença o dealer de Blackjack em Rhodes e Van Horn em menos de 2 mãos.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d35191"
+  },
+  "nome": "Estrategista 7",
+  "obtido": false,
+  "dica": "Vença o jogador de Faca em Strawberry, Valentine e Van Horn.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d35192"
+  },
+  "nome": "Estrategista 8",
+  "obtido": false,
+  "dica": "Vença 3 mãos de Blackjack com 3 hits ou mais (A mais difícil!).",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d35193"
+  },
+  "nome": "Estrategista 9",
+  "obtido": false,
+  "dica": "Vença 3 partidas de Dominó seguidas.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b79d50292326b8d35194"
+  },
+  "nome": "Estrategista 10",
+  "obtido": false,
+  "dica": "Vença 3 mãos de Poker seguidas.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d35196"
+  },
+  "nome": "Atirador de Elite 1",
+  "obtido": false,
+  "dica": "Mate 3 pequenos pássaros com o arco.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d35197"
+  },
+  "nome": "Atirador de Elite 2",
+  "obtido": false,
+  "dica": "Mate 2 espécies diferentes de animais no mesmo uso do Dead Eye.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d35198"
+  },
+  "nome": "Atirador de Elite 3",
+  "obtido": false,
+  "dica": "Mate 5 pássaros voando de um comboio em movimento.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d35199"
+  },
+  "nome": "Atirador de Elite 4",
+  "obtido": false,
+  "dica": "Mate alguém a pelo menos 25 metros com um machado de arremesso.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519a"
+  },
+  "nome": "Atirador de Elite 5",
+  "obtido": false,
+  "dica": "Mate 6 animais sem trocar de arma ou recarregar.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519b"
+  },
+  "nome": "Atirador de Elite 6",
+  "obtido": false,
+  "dica": "Mate alguém a pelo menos 200 metros com um rifle de precisão.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519c"
+  },
+  "nome": "Atirador de Elite 7",
+  "obtido": false,
+  "dica": "Consiga 7 tiros na cabeça seguidos.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519d"
+  },
+  "nome": "Atirador de Elite 8",
+  "obtido": false,
+  "dica": "Desarme 3 inimigos sem recarregar ou trocar de arma.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519e"
+  },
+  "nome": "Atirador de Elite 9",
+  "obtido": false,
+  "dica": "Atire no chapéu de 3 pessoas no mesmo uso do Dead Eye.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b7d650292326b8d3519f"
+  },
+  "nome": "Atirador de Elite 10",
+  "obtido": false,
+  "dica": "Mate 3 pássaros voando com 3 tiros consecutivos de rifle de precisão.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a1"
+  },
+  "nome": "Equitador 1",
+  "obtido": false,
+  "dica": "Mate 5 coelhos montado no seu cavalo.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a2"
+  },
+  "nome": "Equitador 2",
+  "obtido": false,
+  "dica": "Salte 3 obstáculos em 15 segundos.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a3"
+  },
+  "nome": "Equitador 3",
+  "obtido": false,
+  "dica": "Cavalguem de Valentine a Rhodes em menos de 5 minutos.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a4"
+  },
+  "nome": "Equitador 4",
+  "obtido": false,
+  "dica": "Enquanto montado, use um laço para arrastar uma vítima por 1000 metros.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a5"
+  },
+  "nome": "Equitador 5",
+  "obtido": false,
+  "dica": "Atropele 5 animais com o seu cavalo.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a6"
+  },
+  "nome": "Equitador 6",
+  "obtido": false,
+  "dica": "Cavalguem de Strawberry a Saint Denis em menos de 9 minutos sem tocar na água.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a7"
+  },
+  "nome": "Equitador 7",
+  "obtido": false,
+  "dica": "Mate 7 inimigos montado no cavalo sem desmontar.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a8"
+  },
+  "nome": "Equitador 8",
+  "obtido": false,
+  "dica": "Mate 9 predadores montado no cavalo.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351a9"
+  },
+  "nome": "Equitador 9",
+  "obtido": false,
+  "dica": "Cavalguem de Van Horn a Blackwater em menos de 17 minutos sem tocar na água.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b7e650292326b8d351aa"
+  },
+  "nome": "Equitador 10",
+  "obtido": false,
+  "dica": "Domine todos os tipos de raças de cavalos selvagens.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351ac"
+  },
+  "nome": "Explorador 1",
+  "obtido": false,
+  "dica": "Encontre um mapa do tesouro.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351ad"
+  },
+  "nome": "Explorador 2",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351ae"
+  },
+  "nome": "Explorador 3",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351af"
+  },
+  "nome": "Explorador 4",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b0"
+  },
+  "nome": "Explorador 5",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b1"
+  },
+  "nome": "Explorador 6",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b2"
+  },
+  "nome": "Explorador 7",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b3"
+  },
+  "nome": "Explorador 8",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b4"
+  },
+  "nome": "Explorador 9",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b82a50292326b8d351b5"
+  },
+  "nome": "Explorador 10",
+  "obtido": false,
+  "dica": "Encontre um tesouro.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351b7"
+  },
+  "nome": "Sobrevivente 1",
+  "obtido": false,
+  "dica": "Pesque 3 peixes do tipo Bluegill.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351b8"
+  },
+  "nome": "Sobrevivente 2",
+  "obtido": false,
+  "dica": "Entregue 5 carcaças de animais inteiras para o acampamento ou caçador.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351b9"
+  },
+  "nome": "Sobrevivente 3",
+  "obtido": false,
+  "dica": "Mate 5 animais com o rifle Varmint.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351ba"
+  },
+  "nome": "Sobrevivente 4",
+  "obtido": false,
+  "dica": "Crie uma flecha incendiária, uma flecha de fogo, uma flecha de dinamite, uma faca de arremesso aprimorada e um coquetel molotov volátil.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351bb"
+  },
+  "nome": "Sobrevivente 5",
+  "obtido": false,
+  "dica": "Pesque um peixe em Bayou de um barco e de cima dos trilhos do trem.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351bc"
+  },
+  "nome": "Sobrevivente 6",
+  "obtido": false,
+  "dica": "Mate um animal que esteja se alimentando de uma carcaça 5 vezes.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351bd"
+  },
+  "nome": "Sobrevivente 7",
+  "obtido": false,
+  "dica": "Mate 8 animais pequenos com tiros consecutivos usando flechas para caça pequena.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351be"
+  },
+  "nome": "Sobrevivente 8",
+  "obtido": false,
+  "dica": "Crie um machado de guerra, um machado de arremesso aprimorado, um coquetel molotov volátil e uma dinamite volátil.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351bf"
+  },
+  "nome": "Sobrevivente 9",
+  "obtido": false,
+  "dica": "Pesque um peixe que pese pelo menos 19 libras (8.6 kg).",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6950b83650292326b8d351c0"
+  },
+  "nome": "Sobrevivente 10",
+  "obtido": false,
+  "dica": "Pesque um de cada tipo de peixe do mundo (15 tipos).",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6aefd"
+  },
+  "nome": "Herborista 1",
+  "obtido": false,
+  "dica": "Colha 6 plantas de Milefólio (Yarrow).",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6aefe"
+  },
+  "nome": "Herborista 2",
+  "obtido": false,
+  "dica": "Colha e coma 4 espécies de bagas (berries).",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6aeff"
+  },
+  "nome": "Herborista 3",
+  "obtido": false,
+  "dica": "Crie 7 itens usando sálvia (sage) como ingrediente.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af00"
+  },
+  "nome": "Herborista 4",
+  "obtido": false,
+  "dica": "Colha 5 cogumelos e dê de comer ao seu cavalo.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af01"
+  },
+  "nome": "Herborista 5",
+  "obtido": false,
+  "dica": "Crie 9 itens usando tabaco indiano como ingrediente.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af02"
+  },
+  "nome": "Herborista 6",
+  "obtido": false,
+  "dica": "Colha 15 espécies diferentes de plantas.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af03"
+  },
+  "nome": "Herborista 7",
+  "obtido": false,
+  "dica": "Crie e use 5 tônicos milagrosos especiais.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af04"
+  },
+  "nome": "Herborista 8",
+  "obtido": false,
+  "dica": "Use Oleandro para criar 6 armas venenosas.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af05"
+  },
+  "nome": "Herborista 9",
+  "obtido": false,
+  "dica": "Colha uma de cada espécie de planta do mundo (43 espécies).",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6951b6a508bd668f5ee6af06"
+  },
+  "nome": "Herborista 10",
+  "obtido": false,
+  "dica": "Cozinhe e coma todos os 11 tipos de carne temperada.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af08"
+  },
+  "nome": "Especialista em Armas 1",
+  "obtido": false,
+  "dica": "Mate 3 inimigos com uma faca.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af09"
+  },
+  "nome": "Especialista em Armas 2",
+  "obtido": false,
+  "dica": "Mate 3 inimigos em 10 segundos usando apenas facas de arremesso.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0a"
+  },
+  "nome": "Especialista em Armas 3",
+  "obtido": false,
+  "dica": "Mate 3 aves de rapina usando apenas um machado de arremesso.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0b"
+  },
+  "nome": "Especialista em Armas 4",
+  "obtido": false,
+  "dica": "Mate 10 inimigos com uma espingarda usando munição artesanal.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0c"
+  },
+  "nome": "Especialista em Armas 5",
+  "obtido": false,
+  "dica": "Mate 5 inimigos montados com uma única faca de arremesso por morte.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0d"
+  },
+  "nome": "Especialista em Armas 6",
+  "obtido": false,
+  "dica": "Mate 4 inimigos ao mesmo tempo com uma única banana de dinamite.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0e"
+  },
+  "nome": "Especialista em Armas 7",
+  "obtido": false,
+  "dica": "Mate 4 inimigos consecutivos lançando e recuperando o mesmo machado.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af0f"
+  },
+  "nome": "Especialista em Armas 8",
+  "obtido": false,
+  "dica": "Mate 15 inimigos usando uma arma de cano longo (sidearm).",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af10"
+  },
+  "nome": "Especialista em Armas 9",
+  "obtido": false,
+  "dica": "Mate 9 inimigos distraídos pelas costas usando um arco.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6951b6b108bd668f5ee6af11"
+  },
+  "nome": "Especialista em Armas 10",
+  "obtido": false,
+  "dica": "Mate um urso pardo sem sofrer danos usando apenas facas de arremesso.",
+  "nivel": 10
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af13"
+  },
+  "nome": "Atirador de Elite 1",
+  "obtido": false,
+  "dica": "Mate 3 aves voando.",
+  "nivel": 1
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af14"
+  },
+  "nome": "Atirador de Elite 2",
+  "obtido": false,
+  "dica": "Mate 2 espécies diferentes de animais no mesmo uso do Dead Eye.",
+  "nivel": 2
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af15"
+  },
+  "nome": "Atirador de Elite 3",
+  "obtido": false,
+  "dica": "Mate 5 aves voando de um trem em movimento.",
+  "nivel": 3
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af16"
+  },
+  "nome": "Atirador de Elite 4",
+  "obtido": false,
+  "dica": "Mate alguém a pelo menos 80 pés de distância com um machado de arremesso.",
+  "nivel": 4
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af17"
+  },
+  "nome": "Atirador de Elite 5",
+  "obtido": false,
+  "dica": "Mate 6 animais sem trocar de arma ou recarregar.",
+  "nivel": 5
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af18"
+  },
+  "nome": "Atirador de Elite 6",
+  "obtido": false,
+  "dica": "Mate alguém a pelo menos 660 pés de distância com um rifle de precisão.",
+  "nivel": 6
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af19"
+  },
+  "nome": "Atirador de Elite 7",
+  "obtido": false,
+  "dica": "Consiga 7 tiros na cabeça consecutivos.",
+  "nivel": 7
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af1a"
+  },
+  "nome": "Atirador de Elite 8",
+  "obtido": false,
+  "dica": "Desarme 3 inimigos sem recarregar ou trocar de arma.",
+  "nivel": 8
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af1b"
+  },
+  "nome": "Atirador de Elite 9",
+  "obtido": false,
+  "dica": "Atire no chapéu de 3 pessoas no mesmo uso do Dead Eye.",
+  "nivel": 9
+},
+{
+  "_id": {
+    "$oid": "6951b6bd08bd668f5ee6af1c"
+  },
+  "nome": "Atirador de Elite 10",
+  "obtido": false,
+  "dica": "Mate 3 aves voando com 3 tiros consecutivos de rifle de precisão.",
+  "nivel": 10
+}]

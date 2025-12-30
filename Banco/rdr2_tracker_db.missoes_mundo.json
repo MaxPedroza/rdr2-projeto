@@ -1,0 +1,485 @@
+[{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af21"
+  },
+  "nome": "O Nobre de Todos os Homens (Pistoleiros)",
+  "localizacao": "Valentine (Saloon)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar e fotografar os 4 pistoleiros",
+      "check": false
+    },
+    {
+      "nome": "Duelo final com Calloway em Brandywine Drop",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af22"
+  },
+  "nome": "O Caminho do Artista (Charles Châtenay)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Completar as 4 partes da missão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af23"
+  },
+  "nome": "Oh, Brother (Gritando e Max)",
+  "localizacao": "Valentine",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Completar as 3 provas de coragem",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af24"
+  },
+  "nome": "Um Brinquedo Brilhante (Marko Dragic)",
+  "localizacao": "Saint Denis / Doverhill",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Testar o barco em Saint Denis",
+      "check": false
+    },
+    {
+      "nome": "Ajudar no laboratório em Doverhill",
+      "check": false
+    },
+    {
+      "nome": "Encontrar o robô no topo da montanha (Opcional)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af25"
+  },
+  "nome": "O Veterano (Hamish Sinclair)",
+  "localizacao": "O'Creagh's Run",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Completar as 4 partes (Caça e Pesca)",
+      "check": false
+    },
+    {
+      "nome": "Obter o cavalo Buell",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b87d08bd668f5ee6af26"
+  },
+  "nome": "A Viúva de Willard's Rest (Charlotte)",
+  "localizacao": "Willard's Rest (Extremo NE)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Ensinar Charlotte a caçar",
+      "check": false
+    },
+    {
+      "nome": "Prática de tiro",
+      "check": false
+    },
+    {
+      "nome": "Visitar como John no Epílogo",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af28"
+  },
+  "nome": "O Casal Britânico (He's British, of Course)",
+  "localizacao": "Lonnie's Shack",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar a Zebra (Burro)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar o Tigre (Puma)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar o Leão real",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af29"
+  },
+  "nome": "Uma Noite de Curiosidades (The Iniquities of History)",
+  "localizacao": "Rhodes",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Recuperar os itens na propriedade de Jeremiah Compson",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2a"
+  },
+  "nome": "Fecundidade das Flores (Idealism and Pragmatism for Beginners)",
+  "localizacao": "Saint Denis (Prefeito)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Ajudar o prefeito de Saint Denis em 3 tarefas",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2b"
+  },
+  "nome": "O Pescador de Peixes (Jeremy Gill)",
+  "localizacao": "Flat Iron Lake",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Enviar os 13 Peixes Lendários",
+      "check": false
+    },
+    {
+      "nome": "Completar a pescaria final em Rio Bravo (Epílogo)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2c"
+  },
+  "nome": "Um Sonho Americano (Serial Killer)",
+  "localizacao": "Próximo a Valentine",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar as 3 pistas nos cadáveres pendurados",
+      "check": false
+    },
+    {
+      "nome": "Capturar o assassino na cabana Lucky's Cabin",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2d"
+  },
+  "nome": "Vínculos que nos Unem (Sr. Black e Sr. White)",
+  "localizacao": "Rhodes",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Remover os cartazes de procurado",
+      "check": false
+    },
+    {
+      "nome": "Encontrar os fugitivos na floresta",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2e"
+  },
+  "nome": "Não se Deixe Enganar (The Ties that Bind Us)",
+  "localizacao": "Saint Denis",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Ajudar o inventor da Cadeira Elétrica",
+      "check": false
+    },
+    {
+      "nome": "Obter álcool ilegal (Moonshine) para o teste",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af2f"
+  },
+  "nome": "O Cheiro do Sucesso (The Smell of the Grease Paint)",
+  "localizacao": "Van Horn Trading Post",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar Magnifico na floresta",
+      "check": false
+    },
+    {
+      "nome": "Assistir ao show em Saint Denis",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951b8b708bd668f5ee6af30"
+  },
+  "nome": "Geologia para Iniciantes (Francis Sinclair)",
+  "localizacao": "West Elizabeth",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar as 10 Esculturas em Rocha",
+      "check": false
+    },
+    {
+      "nome": "Visitar a cabana para a revelação final",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d081"
+  },
+  "nome": "Assaltos Obrigatórios (4 Tipos)",
+  "localizacao": "Vários locais",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Assalto a Loja (Shop Robbery)",
+      "check": false
+    },
+    {
+      "nome": "Assalto a Casa (Home Robbery/Homestead)",
+      "check": false
+    },
+    {
+      "nome": "Assalto a Carruagem (Coach Robbery)",
+      "check": false
+    },
+    {
+      "nome": "Assalto a Comboio (Train Robbery)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d082"
+  },
+  "nome": "Jogos de Mesa (Table Games)",
+  "localizacao": "Saloon e Acampamentos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Jogar Pôquer (Poker)",
+      "check": false
+    },
+    {
+      "nome": "Jogar Blackjack",
+      "check": false
+    },
+    {
+      "nome": "Jogar Dominó",
+      "check": false
+    },
+    {
+      "nome": "Jogar Jogo da Faca (Five Finger Fillet)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d083"
+  },
+  "nome": "Entretenimento e Cuidados",
+  "localizacao": "Cidades (Valentine/Saint Denis)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Tomar um Banho (Hotel)",
+      "check": false
+    },
+    {
+      "nome": "Assistir a um Show (Show de Variedades)",
+      "check": false
+    },
+    {
+      "nome": "Ir ao Teatro (Teatro Raleur em Saint Denis)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d084"
+  },
+  "nome": "Personagens Especiais (Encontrar 5)",
+  "localizacao": "Encontros aleatórios",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar 1º Personagem (ex: Cego Cassidy)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar 2º Personagem (ex: Pregador Louco)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar 3º Personagem (ex: Thomas Downes)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar 4º Personagem (ex: Veterano em Valentine)",
+      "check": false
+    },
+    {
+      "nome": "Encontrar 5º Personagem (ex: Eugenia em Saint Denis)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d085"
+  },
+  "nome": "Exploração de Cabanas (Shacks)",
+  "localizacao": "Locais remotos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Investigar Cabana 1 (ex: Hani's Bethel)",
+      "check": false
+    },
+    {
+      "nome": "Investigar Cabana 2 (ex: Clawson's Rest)",
+      "check": false
+    },
+    {
+      "nome": "Investigar Cabana 3 (ex: Martha's Swain)",
+      "check": false
+    },
+    {
+      "nome": "Investigar Cabana 4 (ex: Osman Grove)",
+      "check": false
+    },
+    {
+      "nome": "Investigar Cabana 5 (ex: Vetter's Echo)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c11e3af1100ac220d086"
+  },
+  "nome": "Mestria em Artesanato (6 Categorias)",
+  "localizacao": "Fogueira de Acampamento",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Criar 1 Item de Culinária",
+      "check": false
+    },
+    {
+      "nome": "Criar 1 Tónico",
+      "check": false
+    },
+    {
+      "nome": "Criar 1 Tipo de Munição",
+      "check": false
+    },
+    {
+      "nome": "Criar 1 Item de Caça",
+      "check": false
+    },
+    {
+      "nome": "Criar 1 Item de Cuidado com Cavalo",
+      "check": false
+    },
+    {
+      "nome": "Criar 1 Arma (ex: Dinamite Volátil)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c15d3af1100ac220d088"
+  },
+  "nome": "Vínculo com Cavalo (Horse Bonding)",
+  "localizacao": "Global",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Alcançar Nível 4 de Vínculo com um cavalo",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951c15d3af1100ac220d089"
+  },
+  "nome": "Personagem Especial (Encontros)",
+  "localizacao": "Vários (Cidades/Estradas)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Encontrar e interagir com 5 NPCs especiais",
+      "check": false
+    }
+  ]
+}]

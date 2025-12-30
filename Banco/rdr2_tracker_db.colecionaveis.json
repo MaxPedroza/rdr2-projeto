@@ -1,0 +1,1352 @@
+[{
+  "_id": {
+    "$oid": "6951a95e08bd668f5ee6ae6d"
+  },
+  "nome": "Ossos de Dinossauro (Cumberland Forest & Valentine)",
+  "localizacao": "Vários locais",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Osso 1: Heartlands Cliff Face",
+      "check": false
+    },
+    {
+      "nome": "Osso 2: Heartlands Oil Well",
+      "check": false
+    },
+    {
+      "nome": "Osso 3: Heartlands Grassy Hill",
+      "check": false
+    },
+    {
+      "nome": "Osso 4: Cumberland Forest (Six Mile Point)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a95e08bd668f5ee6ae6e"
+  },
+  "nome": "Esculturas em Rocha (Geologia para Principiantes)",
+  "localizacao": "Vários locais",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Escultura 1: Mount Hagen",
+      "check": false
+    },
+    {
+      "nome": "Escultura 2: Whinyard Strait",
+      "check": false
+    },
+    {
+      "nome": "Escultura 3: Cumberland Falls",
+      "check": false
+    },
+    {
+      "nome": "Escultura 4: Bacchus Station",
+      "check": false
+    },
+    {
+      "nome": "Escultura 5: Moonstone Pond",
+      "check": false
+    },
+    {
+      "nome": "Escultura 6: Deer Cottage",
+      "check": false
+    },
+    {
+      "nome": "Escultura 7: Elysian Pool",
+      "check": false
+    },
+    {
+      "nome": "Escultura 8: Owanjila Lake",
+      "check": false
+    },
+    {
+      "nome": "Escultura 9: Mount Shann",
+      "check": false
+    },
+    {
+      "nome": "Escultura 10: Flatneck Station",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a98108bd668f5ee6ae70"
+  },
+  "nome": "Ossos de Dinossauro (Ambarino & Grizzlies)",
+  "localizacao": "Norte do Mapa",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Osso 5: Dakota River Rock Ledge",
+      "check": false
+    },
+    {
+      "nome": "Osso 6: Cumberland Forest (Bacchus Station)",
+      "check": false
+    },
+    {
+      "nome": "Osso 7: Grizzlies North (O'Creagh's Run)",
+      "check": false
+    },
+    {
+      "nome": "Osso 8: Grizzlies West (Deadboot Creek)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a98108bd668f5ee6ae71"
+  },
+  "nome": "Ossos de Dinossauro (Lemoyne & Roanoke Ridge)",
+  "localizacao": "Leste do Mapa",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Osso 9: Roanoke Ridge (Overlook)",
+      "check": false
+    },
+    {
+      "nome": "Osso 10: Roanoke Ridge (Valley)",
+      "check": false
+    },
+    {
+      "nome": "Osso 11: Roanoke Ridge (Kamassa River)",
+      "check": false
+    },
+    {
+      "nome": "Osso 12: Dewberry Creek",
+      "check": false
+    },
+    {
+      "nome": "Osso 13: Scarlett Meadows (South)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a98108bd668f5ee6ae72"
+  },
+  "nome": "Ossos de Dinossauro (Big Valley & West Elizabeth)",
+  "localizacao": "Oeste do Mapa",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Osso 14: Big Valley (Northern Cave)",
+      "check": false
+    },
+    {
+      "nome": "Osso 15: Big Valley (Rocky Slope)",
+      "check": false
+    },
+    {
+      "nome": "Osso 16: West Elizabeth (Beryl's Dream)",
+      "check": false
+    },
+    {
+      "nome": "Osso 17: West Elizabeth (Owanjila)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a98108bd668f5ee6ae73"
+  },
+  "nome": "Ossos de Dinossauro (New Austin - Exclusivo John)",
+  "localizacao": "Sul do Mapa",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Osso 18: Gaptooth Ridge (North)",
+      "check": false
+    },
+    {
+      "nome": "Osso 19: Gaptooth Ridge (South)",
+      "check": false
+    },
+    {
+      "nome": "Osso 20: Rio Bravo (San Luis River)",
+      "check": false
+    },
+    {
+      "nome": "Osso 21: Rio Bravo (Del Lobo Rock)",
+      "check": false
+    },
+    {
+      "nome": "Osso 22: Cholla Springs (High Desert)",
+      "check": false
+    },
+    {
+      "nome": "Osso 23: Cholla Springs (Jorge's Gap)",
+      "check": false
+    },
+    {
+      "nome": "Osso 24: Hennigan's Stead (Pike's Basin)",
+      "check": false
+    },
+    {
+      "nome": "Osso 25: Hennigan's Stead (North)",
+      "check": false
+    },
+    {
+      "nome": "Osso 26: Jorge's Gap (East)",
+      "check": false
+    },
+    {
+      "nome": "Osso 27: Armadillo Outskirts",
+      "check": false
+    },
+    {
+      "nome": "Osso 28: Tumbleweed South",
+      "check": false
+    },
+    {
+      "nome": "Osso 29: San Luis River (East)",
+      "check": false
+    },
+    {
+      "nome": "Osso 30: Stillwater Creek",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae75"
+  },
+  "nome": "Cartões: Atletas Famosos (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Marcum Solar",
+      "check": false
+    },
+    {
+      "nome": "2. Cooper Slane",
+      "check": false
+    },
+    {
+      "nome": "3. Paul Edith",
+      "check": false
+    },
+    {
+      "nome": "4. John Deering",
+      "check": false
+    },
+    {
+      "nome": "5. Bart Pickle",
+      "check": false
+    },
+    {
+      "nome": "6. George Fresh",
+      "check": false
+    },
+    {
+      "nome": "7. Felix Hawley",
+      "check": false
+    },
+    {
+      "nome": "8. Capt. Jack Page",
+      "check": false
+    },
+    {
+      "nome": "9. Axel McCormack",
+      "check": false
+    },
+    {
+      "nome": "10. Leland H. Harris",
+      "check": false
+    },
+    {
+      "nome": "11. J. N. Wagner",
+      "check": false
+    },
+    {
+      "nome": "12. Silas Henderson",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae76"
+  },
+  "nome": "Cartões: Artistas Prematuros (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Edith Corinne",
+      "check": false
+    },
+    {
+      "nome": "2. Elsie Rose",
+      "check": false
+    },
+    {
+      "nome": "3. W. G. Hoyt",
+      "check": false
+    },
+    {
+      "nome": "4. Aldous Bramley",
+      "check": false
+    },
+    {
+      "nome": "5. Preston T. Bayley",
+      "check": false
+    },
+    {
+      "nome": "6. Sinclair Ritchie",
+      "check": false
+    },
+    {
+      "nome": "7. Catherine Wheel",
+      "check": false
+    },
+    {
+      "nome": "8. Alice Heritage",
+      "check": false
+    },
+    {
+      "nome": "9. Edward G. Stills",
+      "check": false
+    },
+    {
+      "nome": "10. Nelson Edwards",
+      "check": false
+    },
+    {
+      "nome": "11. G. W. Elder",
+      "check": false
+    },
+    {
+      "nome": "12. Florence Smith",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae77"
+  },
+  "nome": "Cartões: Estrelas do Palco (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Laurence Dunn",
+      "check": false
+    },
+    {
+      "nome": "2. Louis Durand",
+      "check": false
+    },
+    {
+      "nome": "3. Jesse Raymond",
+      "check": false
+    },
+    {
+      "nome": "4. Humfrey Joy",
+      "check": false
+    },
+    {
+      "nome": "5. Mabel Surtiss",
+      "check": false
+    },
+    {
+      "nome": "6. Robin Koninsky",
+      "check": false
+    },
+    {
+      "nome": "7. Isadore Reid",
+      "check": false
+    },
+    {
+      "nome": "8. Irene Grubb",
+      "check": false
+    },
+    {
+      "nome": "9. Nettie Palmer",
+      "check": false
+    },
+    {
+      "nome": "10. Jim Abel",
+      "check": false
+    },
+    {
+      "nome": "11. Florence Abbey",
+      "check": false
+    },
+    {
+      "nome": "12. Nicholas G. Berry",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae78"
+  },
+  "nome": "Cartões: Cavalos (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. American Paint",
+      "check": false
+    },
+    {
+      "nome": "2. Appaloosa",
+      "check": false
+    },
+    {
+      "nome": "3. Andalusian",
+      "check": false
+    },
+    {
+      "nome": "4. American Standardbred",
+      "check": false
+    },
+    {
+      "nome": "5. Arabian",
+      "check": false
+    },
+    {
+      "nome": "6. Belgian",
+      "check": false
+    },
+    {
+      "nome": "7. Dutch Warmblood",
+      "check": false
+    },
+    {
+      "nome": "8. Hungarian Halfbred",
+      "check": false
+    },
+    {
+      "nome": "9. Mustang",
+      "check": false
+    },
+    {
+      "nome": "10. Nokota",
+      "check": false
+    },
+    {
+      "nome": "11. Thoroughbred",
+      "check": false
+    },
+    {
+      "nome": "12. Turkoman",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae79"
+  },
+  "nome": "Cartões: Flora da América (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Golden Currant",
+      "check": false
+    },
+    {
+      "nome": "2. Hummingbird Sage",
+      "check": false
+    },
+    {
+      "nome": "3. Oleander Sage",
+      "check": false
+    },
+    {
+      "nome": "4. Yarrow",
+      "check": false
+    },
+    {
+      "nome": "5. Indian Tobacco",
+      "check": false
+    },
+    {
+      "nome": "6. Black Mangrove",
+      "check": false
+    },
+    {
+      "nome": "7. Longleaf Pine",
+      "check": false
+    },
+    {
+      "nome": "8. Desert Fan Palm",
+      "check": false
+    },
+    {
+      "nome": "9. Coastal Redwood",
+      "check": false
+    },
+    {
+      "nome": "10. Horseweed",
+      "check": false
+    },
+    {
+      "nome": "11. Rams Head Lady Slipper",
+      "check": false
+    },
+    {
+      "nome": "12. Bitterroot",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951a9be08bd668f5ee6ae7a"
+  },
+  "nome": "Cartões: Gemas da Beleza (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Leila Stetson",
+      "check": false
+    },
+    {
+      "nome": "2. Isabelle Barlow",
+      "check": false
+    },
+    {
+      "nome": "3. Hattie Langtry",
+      "check": false
+    },
+    {
+      "nome": "4. Isabelle Standish",
+      "check": false
+    },
+    {
+      "nome": "5. Maude Engel",
+      "check": false
+    },
+    {
+      "nome": "6. Sadie Russell",
+      "check": false
+    },
+    {
+      "nome": "7. Geraldine Emerson",
+      "check": false
+    },
+    {
+      "nome": "8. Agnes Guyon",
+      "check": false
+    },
+    {
+      "nome": "9. Jennie Willetts",
+      "check": false
+    },
+    {
+      "nome": "10. Ilga Ulmer",
+      "check": false
+    },
+    {
+      "nome": "11. Fay-Helen Reed",
+      "check": false
+    },
+    {
+      "nome": "12. Pauline Henderson",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae7c"
+  },
+  "nome": "Cartões: Pistoleiros Famosos (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Frank Heck",
+      "check": false
+    },
+    {
+      "nome": "2. Otis Miller Boys",
+      "check": false
+    },
+    {
+      "nome": "3. Jack Hall Gang",
+      "check": false
+    },
+    {
+      "nome": "4. Butcher Brothers",
+      "check": false
+    },
+    {
+      "nome": "5. Flaco Hernandez",
+      "check": false
+    },
+    {
+      "nome": "6. Slim Grant",
+      "check": false
+    },
+    {
+      "nome": "7. Landon Ricketts",
+      "check": false
+    },
+    {
+      "nome": "8. Black Belle",
+      "check": false
+    },
+    {
+      "nome": "9. Billy Midnight",
+      "check": false
+    },
+    {
+      "nome": "10. Emmet Granger",
+      "check": false
+    },
+    {
+      "nome": "11. Jim 'Boy' Calloway",
+      "check": false
+    },
+    {
+      "nome": "12. Red Ben Clempson",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae7d"
+  },
+  "nome": "Cartões: Vistas da América (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Cholla Springs",
+      "check": false
+    },
+    {
+      "nome": "2. Rio Bravo",
+      "check": false
+    },
+    {
+      "nome": "3. Gaptooth Ridge",
+      "check": false
+    },
+    {
+      "nome": "4. Hennigan's Stead",
+      "check": false
+    },
+    {
+      "nome": "5. Lower Montana River",
+      "check": false
+    },
+    {
+      "nome": "6. Upper Montana River",
+      "check": false
+    },
+    {
+      "nome": "7. Cumberland Forest",
+      "check": false
+    },
+    {
+      "nome": "8. Grizzlies",
+      "check": false
+    },
+    {
+      "nome": "9. Roanoke Ridge",
+      "check": false
+    },
+    {
+      "nome": "10. Big Valley",
+      "check": false
+    },
+    {
+      "nome": "11. Heartlands",
+      "check": false
+    },
+    {
+      "nome": "12. Scarlett Meadows",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae7e"
+  },
+  "nome": "Cartões: Maravilhas do Mundo (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Persépolis",
+      "check": false
+    },
+    {
+      "nome": "2. Jardins Suspensos",
+      "check": false
+    },
+    {
+      "nome": "3. Templo de Ártemis",
+      "check": false
+    },
+    {
+      "nome": "4. Estátua de Zeus",
+      "check": false
+    },
+    {
+      "nome": "5. Mausoléu de Halicarnasso",
+      "check": false
+    },
+    {
+      "nome": "6. Colosso de Rodes",
+      "check": false
+    },
+    {
+      "nome": "7. Farol de Alexandria",
+      "check": false
+    },
+    {
+      "nome": "8. Grande Pirâmide de Gizé",
+      "check": false
+    },
+    {
+      "nome": "9. Muralha da China",
+      "check": false
+    },
+    {
+      "nome": "10. Taj Mahal",
+      "check": false
+    },
+    {
+      "nome": "11. Catedral de Notre Dame",
+      "check": false
+    },
+    {
+      "nome": "12. Basílica de São Pedro",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae7f"
+  },
+  "nome": "Cartões: Invenções Incríveis (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Máquina a Vapor",
+      "check": false
+    },
+    {
+      "nome": "2. Câmara Fotográfica",
+      "check": false
+    },
+    {
+      "nome": "3. Fonógrafo",
+      "check": false
+    },
+    {
+      "nome": "4. Máquina de Escrever",
+      "check": false
+    },
+    {
+      "nome": "5. Lâmpada Elétrica",
+      "check": false
+    },
+    {
+      "nome": "6. Caneta de Tinteiro",
+      "check": false
+    },
+    {
+      "nome": "7. Máquina de Lavar",
+      "check": false
+    },
+    {
+      "nome": "8. Piano Mecânico",
+      "check": false
+    },
+    {
+      "nome": "9. Cinema",
+      "check": false
+    },
+    {
+      "nome": "10. Telégrafo",
+      "check": false
+    },
+    {
+      "nome": "11. Telefone",
+      "check": false
+    },
+    {
+      "nome": "12. Relógio de Pulso",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae80"
+  },
+  "nome": "Cartões: Americanos Proeminentes (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Presidente Fisher",
+      "check": false
+    },
+    {
+      "nome": "2. Presidente Hardin",
+      "check": false
+    },
+    {
+      "nome": "3. Presidente Greene",
+      "check": false
+    },
+    {
+      "nome": "4. Presidente Isaacs",
+      "check": false
+    },
+    {
+      "nome": "5. Thaddeus Waxman",
+      "check": false
+    },
+    {
+      "nome": "6. Alfred MacAlister",
+      "check": false
+    },
+    {
+      "nome": "7. Alice Thompson",
+      "check": false
+    },
+    {
+      "nome": "8. W. W. Barron",
+      "check": false
+    },
+    {
+      "nome": "9. Jeremiah Shaw",
+      "check": false
+    },
+    {
+      "nome": "10. Emett Granger",
+      "check": false
+    },
+    {
+      "nome": "11. General Quincy Harris",
+      "check": false
+    },
+    {
+      "nome": "12. General Cornelius Fallon",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa2008bd668f5ee6ae81"
+  },
+  "nome": "Cartões: Navios do Mundo (12/12)",
+  "localizacao": "Diversos",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Junco",
+      "check": false
+    },
+    {
+      "nome": "2. Escuna",
+      "check": false
+    },
+    {
+      "nome": "3. Navio de Linha",
+      "check": false
+    },
+    {
+      "nome": "4. Barco de Rodas",
+      "check": false
+    },
+    {
+      "nome": "5. Navio Transatlântico",
+      "check": false
+    },
+    {
+      "nome": "6. Couraçado",
+      "check": false
+    },
+    {
+      "nome": "7. Rebocador",
+      "check": false
+    },
+    {
+      "nome": "8. Barco de Pesca",
+      "check": false
+    },
+    {
+      "nome": "9. Canoa",
+      "check": false
+    },
+    {
+      "nome": "10. Balsa",
+      "check": false
+    },
+    {
+      "nome": "11. Caiaque",
+      "check": false
+    },
+    {
+      "nome": "12. Fragata",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa5208bd668f5ee6ae83"
+  },
+  "nome": "Apanhadores de Sonhos (Parte 1: Heartlands e Scarlett Meadows)",
+  "localizacao": "Centro e Sul",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "1. Próximo a Caliban's Seat",
+      "check": false
+    },
+    {
+      "nome": "2. Ao sul de The Heartlands",
+      "check": false
+    },
+    {
+      "nome": "3. Próximo a Dewberry Creek",
+      "check": false
+    },
+    {
+      "nome": "4. Ao norte de Bluewater Marsh",
+      "check": false
+    },
+    {
+      "nome": "5. Scarlett Meadows (próximo a Lonnie's Shack)",
+      "check": false
+    },
+    {
+      "nome": "6. Ao norte de Emerald Ranch",
+      "check": false
+    },
+    {
+      "nome": "7. Heartlands (próximo a Guthrie Farm)",
+      "check": false
+    },
+    {
+      "nome": "8. Heartlands (próximo a Oil Derrick)",
+      "check": false
+    },
+    {
+      "nome": "9. Cumberland Forest (Oeste)",
+      "check": false
+    },
+    {
+      "nome": "10. Cumberland Forest (Leste)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aa5208bd668f5ee6ae84"
+  },
+  "nome": "Apanhadores de Sonhos (Parte 2: Roanoke Ridge e Grizzlies)",
+  "localizacao": "Norte e Leste",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "11. Roanoke Ridge (Norte de Annesburg)",
+      "check": false
+    },
+    {
+      "nome": "12. Roanoke Ridge (Próximo a Deer Cottage)",
+      "check": false
+    },
+    {
+      "nome": "13. Roanoke Ridge (Vale de Roanoke)",
+      "check": false
+    },
+    {
+      "nome": "14. Roanoke Ridge (Elysian Pool)",
+      "check": false
+    },
+    {
+      "nome": "15. Roanoke Ridge (Ao sul de Butcher Creek)",
+      "check": false
+    },
+    {
+      "nome": "16. Grizzlies East (O'Creagh's Run)",
+      "check": false
+    },
+    {
+      "nome": "17. Grizzlies East (Cerca de Fairvale Shanty)",
+      "check": false
+    },
+    {
+      "nome": "18. Grizzlies East (Próximo a Loft)",
+      "check": false
+    },
+    {
+      "nome": "19. Grizzlies West (Cattail Pond)",
+      "check": false
+    },
+    {
+      "nome": "20. Grizzlies West (Próximo ao rio Dakota)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aaef08bd668f5ee6ae86"
+  },
+  "nome": "Exóticos: Pedido 1",
+  "localizacao": "Saint Denis (Algernon Wasp)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "5x Penas de Egreta-pequena",
+      "check": false
+    },
+    {
+      "nome": "5x Penas de Egreta-avermelhada",
+      "check": false
+    },
+    {
+      "nome": "5x Penas de Egreta-grande",
+      "check": false
+    },
+    {
+      "nome": "15x Orquídea Lady of the Night",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aaef08bd668f5ee6ae87"
+  },
+  "nome": "Exóticos: Pedido 2",
+  "localizacao": "Saint Denis (Algernon Wasp)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "20x Penas de Garça-real (Heron)",
+      "check": false
+    },
+    {
+      "nome": "7x Orquídea Lady Slipper",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Moccasin",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aaef08bd668f5ee6ae88"
+  },
+  "nome": "Exóticos: Pedido 3",
+  "localizacao": "Saint Denis (Algernon Wasp)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "25x Penas de Jacaré (Couro/Dente)",
+      "check": false
+    },
+    {
+      "nome": "3x Orquídea Acuna's Star",
+      "check": false
+    },
+    {
+      "nome": "7x Orquídea Cigar",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Ghost",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aaef08bd668f5ee6ae89"
+  },
+  "nome": "Exóticos: Pedido 4",
+  "localizacao": "Saint Denis (Algernon Wasp)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "30x Penas de Colhereiro (Spoonbill)",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Night Scented",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Rat Tail",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Spider",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aaef08bd668f5ee6ae8a"
+  },
+  "nome": "Exóticos: Pedido 5",
+  "localizacao": "Saint Denis (Algernon Wasp)",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "5x Orquídea Clamshell",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Dragon's Mouth",
+      "check": false
+    },
+    {
+      "nome": "5x Orquídea Queen's",
+      "check": false
+    },
+    {
+      "nome": "10x Orquídea Sparrow's Egg",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abac08bd668f5ee6ae8c"
+  },
+  "nome": "Tesouro da Gangue Jack Hall",
+  "localizacao": "Início em Seat de Caliban",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Mapa 1: Comprado do Máximo (ou saqueado)",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Encontrada em Caliban's Seat",
+      "check": false
+    },
+    {
+      "nome": "Pista 3: Encontrada em O'Creagh's Run",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado em Cotorra Springs",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abac08bd668f5ee6ae8d"
+  },
+  "nome": "Tesouro da Trilha Venenosa (Poisonous Trail)",
+  "localizacao": "Início em Cairn Lake",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Mapa 1: Encontrado em Cairn Lake",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Encontrada em Face Rock",
+      "check": false
+    },
+    {
+      "nome": "Pista 3: Encontrada em Van Horn (Mound)",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado na Caverna de Elysian Pool",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abac08bd668f5ee6ae8e"
+  },
+  "nome": "Tesouro dos Grandes Leandros (Le Tresor des Morts)",
+  "localizacao": "Início em Limpany",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Mapa 1: Encontrado na prisão de Limpany",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Encontrada nas Docas de Saint Denis",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado no Cemitério de Saint Denis",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abac08bd668f5ee6ae8f"
+  },
+  "nome": "Tesouro do Marco Superior (High Stakes)",
+  "localizacao": "Início com explorador aleatório",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Mapa 1: Roubado do explorador velho",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Encontrada em Cumberland Falls",
+      "check": false
+    },
+    {
+      "nome": "Pista 3: Encontrada em Barrow Lagoon",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado no Monte Shann",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abf408bd668f5ee6ae91"
+  },
+  "nome": "Tesouro dos Elementos (Elemental Trail)",
+  "localizacao": "Início em Sea of Coronado",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Mapa 1: Saqueado de um corpo em Sea of Coronado",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Encontrada em San Luis River",
+      "check": false
+    },
+    {
+      "nome": "Pista 3: Encontrada em Benedict Point",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado em Tumbleweed (Cemitério)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abf408bd668f5ee6ae92"
+  },
+  "nome": "Tesouro de Mended Cache (Mapa Rasgado)",
+  "localizacao": "Extremos do Mapa",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Metade 1: Cabana de Hermit (Manito Glade)",
+      "check": false
+    },
+    {
+      "nome": "Metade 2: Cabana de Hermit Woman (Little Creek River)",
+      "check": false
+    },
+    {
+      "nome": "Recompensa: Revólver do Otis Miller (Cholla Springs)",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951abf408bd668f5ee6ae93"
+  },
+  "nome": "Ouro da Trilha da Landmark",
+  "localizacao": "Obelisco em West Elizabeth",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Pista 1: Obelisco ao norte de Owanjila",
+      "check": false
+    },
+    {
+      "nome": "Pista 2: Tiny Church (Lakay)",
+      "check": false
+    },
+    {
+      "nome": "Pista 3: Estátua do Hobbit (Bacchus Station)",
+      "check": false
+    },
+    {
+      "nome": "Pista 4: Braithwaite Manor (Cerca)",
+      "check": false
+    },
+    {
+      "nome": "Ouro: Coletado em Mount Shann (Relógio de Sol)",
+      "check": false
+    }
+  ]
+}]

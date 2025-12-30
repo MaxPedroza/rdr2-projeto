@@ -1,0 +1,13 @@
+/* ===================================================== */
+/* SEÇÃO 1 - RESET GLOBAL DE ESTILOS */
+/* ===================================================== */
+/* Estilos globais para html e body */
+
+/* No arquivo src/styles.css */
+html, body {
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: #0d0d0d !important;
+  overflow-x: hidden;
+  width: 100%;
+}

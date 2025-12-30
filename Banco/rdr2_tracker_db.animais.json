@@ -1,0 +1,364 @@
+[{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae98"
+  },
+  "nome": "Urso Pardo Bharati Lendário",
+  "localizacao": "Grizzlies East",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Talismã de Garra de Urso",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae99"
+  },
+  "nome": "Cervo Lendário (Buck)",
+  "localizacao": "Big Valley",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Chifre de Cervo",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9a"
+  },
+  "nome": "Bisão Branco Lendário",
+  "localizacao": "Lake Isabella",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Talismã de Dente de Bisão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9b"
+  },
+  "nome": "Lobo Lendário",
+  "localizacao": "Cotto Springs",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Coração de Lobo",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9c"
+  },
+  "nome": "Alce Macho Lendário (Elk)",
+  "localizacao": "Bacchus Station",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Dente de Alce",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9d"
+  },
+  "nome": "Coiote Lendário",
+  "localizacao": "Scarlett Meadows",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Presa de Coiote",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9e"
+  },
+  "nome": "Raposa Lendária",
+  "localizacao": "Mattock Pond",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Pata de Raposa",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6ae9f"
+  },
+  "nome": "Carneiro-Selvagem Lendário",
+  "localizacao": "Cattail Pond",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Chifre de Carneiro",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea0"
+  },
+  "nome": "Javali Lendário",
+  "localizacao": "Bluewater Marsh",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Talismã de Canino de Javali",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea1"
+  },
+  "nome": "Castor Lendário",
+  "localizacao": "Elysian Pool",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Dente de Castor",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea2"
+  },
+  "nome": "Jacaré Gigante Lendário",
+  "localizacao": "Lagras",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Talismã de Dente de Jacaré",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea3"
+  },
+  "nome": "Pantera Giaguaro Lendária",
+  "localizacao": "Bolger Glade",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar (Mestre Caçador 10)",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Olho de Pantera",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea4"
+  },
+  "nome": "Alce Lendário (Moose)",
+  "localizacao": "Roanoke Ridge",
+  "personagem": "Arthur/John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea5"
+  },
+  "nome": "Bisão Tatanka Lendário",
+  "localizacao": "Hennigan's Stead",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Talismã de Chifre de Bisão",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea6"
+  },
+  "nome": "Antílope Lendário (Pronghorn)",
+  "localizacao": "Rio Del Lobo",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Chifre de Antílope",
+      "check": false
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6951aee108bd668f5ee6aea7"
+  },
+  "nome": "Puma Lendário (Cougar)",
+  "localizacao": "Gaptooth Ridge",
+  "personagem": "John",
+  "obtido": false,
+  "materiais": [
+    {
+      "nome": "Abater e Esfolar",
+      "check": false
+    },
+    {
+      "nome": "Vender Pele no Armadilheiro",
+      "check": false
+    },
+    {
+      "nome": "Criar Amuleto de Garra de Puma",
+      "check": false
+    }
+  ]
+}]
