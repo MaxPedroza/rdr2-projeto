@@ -1,0 +1,100 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed0"},
+    "nome": "Tônico Fortificante",
+    "categoria": "Receitas",
+    "subcategoria": "SAÚDE",
+    "tipo": "Remédio",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Óleo de cobra",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Flor de Baunilha",
+        "quantidade": 1,
+        "tipo": "Planta"
+      }
+    ],
+    "resultado": {
+      "nome": "Tônico Fortificante",
+      "quantidade": 1
+    },
+    "descricao": "Remédio que restaura saúde e aumenta resistência",
+    "uso": "Saúde - restauração",
+    "efeito": "Restaura saúde",
+    "aprendido": false,
+    "tags": ["saude", "receita", "tonico"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed1"},
+    "nome": "Óleo de Cobra Milagroso",
+    "categoria": "Receitas",
+    "subcategoria": "SAÚDE",
+    "tipo": "Remédio",
+    "fonte_panfleto": "Encontrado em vários locais do mapa",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Óleo de cobra",
+        "quantidade": 2,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Sálvia",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Alcatrão Animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Óleo de Cobra Milagroso",
+      "quantidade": 1
+    },
+    "descricao": "Óleo medicinal que restaura saúde completamente",
+    "uso": "Saúde - restauração total",
+    "efeito": "Restaura saúde total",
+    "aprendido": false,
+    "tags": ["saude", "receita", "oleo"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed2"},
+    "nome": "Remédio para Fôlego",
+    "categoria": "Receitas",
+    "subcategoria": "SAÚDE",
+    "tipo": "Remédio",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Menta",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Verbena",
+        "quantidade": 1,
+        "tipo": "Planta"
+      }
+    ],
+    "resultado": {
+      "nome": "Remédio para Fôlego",
+      "quantidade": 1
+    },
+    "descricao": "Remédio que restaura resistência física",
+    "uso": "Saúde - restauração de resistência",
+    "efeito": "Restaura fôlego",
+    "aprendido": false,
+    "tags": ["saude", "receita", "foelego"],
+    "prioridade": 2
+  }
+]

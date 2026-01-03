@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae9e"},
+    "nome": "Carneiro-selvagem Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Próximo de Cattail Pond, a oeste da cidade de Valentine",
+    "regiao": "West Elizabeth",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "West Elizabeth",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Cattail Pond"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "carneiro", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea1"},
+    "nome": "Cervo Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Região oeste de West Elizabeth, ao sul da Black Bone Forest, a noroeste da cidade de Strawberry",
+    "regiao": "West Elizabeth",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "West Elizabeth",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Strawberry"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "cervo", "arthurjohn"],
+    "prioridade": 2
+  }
+]

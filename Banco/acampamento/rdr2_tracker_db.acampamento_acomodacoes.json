@@ -1,0 +1,81 @@
+[
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea36"},
+    "nome": "Acomodações Arthur",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Acomodações",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur",
+    "disponibilidade": {
+      "personagem": "Arthur",
+      "acessivel_arthur": true,
+      "acessivel_john": false,
+      "notas": "Apenas para Arthur"
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Jacaré",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Carcaça de Carneiro",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Suçuaruna",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      },
+      {
+        "nome": "Pele de Javali",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Boi",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "acomodações", "arthur-only"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea37"},
+    "nome": "Acomodações John",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Acomodações",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "John",
+    "disponibilidade": {
+      "personagem": "John",
+      "acessivel_arthur": false,
+      "acessivel_john": true,
+      "fase_john": true,
+      "notas": "Apenas para John na Fase 2"
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Javali",
+        "tipo": "ANIMAL",
+        "quantidade": 4,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "acomodações", "john-only"],
+    "prioridade": 1
+  }
+]

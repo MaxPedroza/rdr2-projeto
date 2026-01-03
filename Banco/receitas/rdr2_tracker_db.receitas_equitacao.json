@@ -1,0 +1,95 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed3"},
+    "nome": "Sela Reforçada para Equitação",
+    "categoria": "Receitas",
+    "subcategoria": "EQUITAÇÃO",
+    "tipo": "Equipamento Cavalo",
+    "fonte_panfleto": "Apresentado no Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Sela",
+        "quantidade": 1,
+        "tipo": "Equipamento"
+      },
+      {
+        "nome": "Couro Perfeito",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Sela Reforçada",
+      "quantidade": 1
+    },
+    "descricao": "Sela reforçada que aumenta resistência do cavalo",
+    "uso": "Equitação - equipamento",
+    "efeito": "Aumenta resistência do cavalo",
+    "aprendido": false,
+    "tags": ["equitacao", "receita", "cavalo", "sela"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed4"},
+    "nome": "Rédea Aprimorada para Cavalo",
+    "categoria": "Receitas",
+    "subcategoria": "EQUITAÇÃO",
+    "tipo": "Equipamento Cavalo",
+    "fonte_panfleto": "Encontrado em vários locais",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Rédea",
+        "quantidade": 1,
+        "tipo": "Equipamento"
+      },
+      {
+        "nome": "Pele de Cavalo Perfeita",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Rédea Aprimorada",
+      "quantidade": 1
+    },
+    "descricao": "Rédea aprimorada que melhora o controle do cavalo",
+    "uso": "Equitação - controle",
+    "efeito": "Melhora controle do cavalo",
+    "aprendido": false,
+    "tags": ["equitacao", "receita", "cavalo", "redea"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aed5"},
+    "nome": "Óleo de Selim para Cavalo",
+    "categoria": "Receitas",
+    "subcategoria": "EQUITAÇÃO",
+    "tipo": "Cuidado Cavalo",
+    "fonte_panfleto": "Apresentado no Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Óleo de arma",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Lanolina Animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Óleo de Selim",
+      "quantidade": 1
+    },
+    "descricao": "Óleo que mantém o selim e equipamento do cavalo em bom estado",
+    "uso": "Equitação - manutenção",
+    "efeito": "Mantém equipamento do cavalo",
+    "aprendido": false,
+    "tags": ["equitacao", "receita", "cavalo", "selim"],
+    "prioridade": 2
+  }
+]

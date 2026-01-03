@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b1"},
+    "subcategoria": "Apostador",
+    "nivel": 1,
+    "descricao": "Vença 5 mãos de pôquer.",
+    "recompensas": "Coldre de Apostador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b2"},
+    "subcategoria": "Apostador",
+    "nivel": 2,
+    "descricao": "No blackjack, dobre a aposta e vença a mão 5 vezes.",
+    "recompensas": "25 XP de Olhos da Morte e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b3"},
+    "subcategoria": "Apostador",
+    "nivel": 3,
+    "descricao": "Vença 3 jogos da faca.",
+    "recompensas": "Cartucheira de Apostador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b4"},
+    "subcategoria": "Apostador",
+    "nivel": 4,
+    "descricao": "Vença um jogador no pôquer em todos os locais (Estação Flatneck, Saint Denis e Valentine).",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b5"},
+    "subcategoria": "Apostador",
+    "nivel": 5,
+    "descricao": "Vença 3 rodadas de dominó sem comprar pedras contra 2 oponentes ou menos.",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b6"},
+    "subcategoria": "Apostador",
+    "nivel": 6,
+    "descricao": "Vença o crupiê de blackjack em todos os locais (Rhodes e Van Horn).",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b7"},
+    "subcategoria": "Apostador",
+    "nivel": 7,
+    "descricao": "Vença o jogador do jogo da faca em todos os locais (Strawberry, Valentine e Van Horn).",
+    "recompensas": "Cinto de Apostador com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b8"},
+    "subcategoria": "Apostador",
+    "nivel": 8,
+    "descricao": "Vença 3 mãos de blackjack com 3 acertos ou mais.",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01b9"},
+    "subcategoria": "Apostador",
+    "nivel": 9,
+    "descricao": "Vença 3 jogos de dominó em sequência.",
+    "recompensas": "150 XP de Olhos da Morte e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01ba"},
+    "subcategoria": "Apostador",
+    "nivel": 10,
+    "descricao": "Vença 3 mãos de pôquer em sequência.",
+    "recompensas": "Coldre Secundário de Apostador",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

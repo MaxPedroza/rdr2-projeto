@@ -1,0 +1,333 @@
+[
+  {
+    "_id": {"$oid": "6951a95e08bd668f5ee6ae6d"},
+    "nome": "Ossos de Dinossauro - Heartlands & Cumberland Forest (Grupo 1)",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "OSSOS_DINOSSAUROS",
+    "tipo": "Coleção",
+    "grupo": 1,
+    "total_ossos": 4,
+    "obtido": false,
+    "recompensa": "Cavalo Branco Exclusivo, $100",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "regiao_principal": "Heartlands e Cumberland Forest",
+    "ossos": [
+      {
+        "numero": 1,
+        "nome": "Osso do Crânio",
+        "localizacao": "Heartlands Cliff Face",
+        "regiao": "Heartlands",
+        "coordenadas": "Próximo a The Heartlands, no penhasco voltado para o norte",
+        "descricao": "Em um penhasco rochoso, visível de longe"
+      },
+      {
+        "numero": 2,
+        "nome": "Osso da Vértebra",
+        "localizacao": "Heartlands Oil Well",
+        "regiao": "Heartlands",
+        "coordenadas": "Próximo ao poço de petróleo, a leste de Emerald Ranch",
+        "descricao": "Embaixo de uma estrutura de madeira velha"
+      },
+      {
+        "numero": 3,
+        "nome": "Osso da Costela",
+        "localizacao": "Heartlands Grassy Hill",
+        "regiao": "Heartlands",
+        "coordenadas": "Em uma colina gramada entre Emerald Ranch e Strawberry",
+        "descricao": "Em um campo aberto, próximo a uma árvore isolada"
+      },
+      {
+        "numero": 4,
+        "nome": "Osso do Fêmur",
+        "localizacao": "Cumberland Forest - Six Mile Point",
+        "regiao": "Cumberland Forest",
+        "coordenadas": "Ao norte, próximo ao rio em Six Mile Point",
+        "descricao": "Perto de um acampamento antigo de exploradores"
+      }
+    ],
+    "tags": ["colecionavel", "ossos-dinossauros", "paleontologia"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951a98108bd668f5ee6ae70"},
+    "nome": "Ossos de Dinossauro - Ambarino & Grizzlies (Grupo 2)",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "OSSOS_DINOSSAUROS",
+    "tipo": "Coleção",
+    "grupo": 2,
+    "total_ossos": 4,
+    "obtido": false,
+    "recompensa": "Arqueólogo Reconhecimento, $100",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "regiao_principal": "Ambarino e Grizzlies",
+    "ossos": [
+      {
+        "numero": 5,
+        "nome": "Osso da Bacia",
+        "localizacao": "Dakota River Rock Ledge",
+        "regiao": "Ambarino",
+        "coordenadas": "Ao norte, próximo ao rio Dakota em um platô rochoso",
+        "descricao": "Em uma saliência de rocha com vista para o rio"
+      },
+      {
+        "numero": 6,
+        "nome": "Osso da Tíbia",
+        "localizacao": "Cumberland Forest - Bacchus Station",
+        "regiao": "Cumberland Forest",
+        "coordenadas": "Próximo à Estação Bacchus, em um esconderijo natural",
+        "descricao": "Escondido entre rochas e vegetação densa"
+      },
+      {
+        "numero": 7,
+        "nome": "Osso da Omoplata",
+        "localizacao": "Grizzlies North - O'Creagh's Run",
+        "regiao": "Grizzlies",
+        "coordenadas": "Ao norte, em um vale montanhoso",
+        "descricao": "Junto a um riacho que corre entre as montanhas"
+      },
+      {
+        "numero": 8,
+        "nome": "Osso do Úmero",
+        "localizacao": "Grizzlies West - Deadboot Creek",
+        "regiao": "Grizzlies",
+        "coordenadas": "Oeste das Grizzlies, próximo ao riacho",
+        "descricao": "Em um depósito de minerais antigos"
+      }
+    ],
+    "tags": ["colecionavel", "ossos-dinossauros", "paleontologia"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951a98108bd668f5ee6ae71"},
+    "nome": "Ossos de Dinossauro - Roanoke Ridge & Lemoyne (Grupo 3)",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "OSSOS_DINOSSAUROS",
+    "tipo": "Coleção",
+    "grupo": 3,
+    "total_ossos": 5,
+    "obtido": false,
+    "recompensa": "Pedra da Sorte Fósil, $150",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "regiao_principal": "Roanoke Ridge e Lemoyne",
+    "ossos": [
+      {
+        "numero": 9,
+        "nome": "Osso da Mandíbula",
+        "localizacao": "Roanoke Ridge - Overlook",
+        "regiao": "Roanoke Ridge",
+        "coordenadas": "Em um ponto de vista elevado com vistas para o vale",
+        "descricao": "Em uma formação rochosa com vista panorâmica"
+      },
+      {
+        "numero": 10,
+        "nome": "Osso da Maxila",
+        "localizacao": "Roanoke Ridge - Vale Central",
+        "regiao": "Roanoke Ridge",
+        "coordenadas": "No coração do vale, próximo a um riacho",
+        "descricao": "Entre cristais e formações minerais"
+      },
+      {
+        "numero": 11,
+        "nome": "Osso da Patela",
+        "localizacao": "Roanoke Ridge - Kamassa River",
+        "regiao": "Roanoke Ridge",
+        "coordenadas": "Próximo ao rio Kamassa, em uma margem baixa",
+        "descricao": "Junto às águas de um antigo leito de rio"
+      },
+      {
+        "numero": 12,
+        "nome": "Osso do Tarso",
+        "localizacao": "Dewberry Creek",
+        "regiao": "Lemoyne",
+        "coordenadas": "No riacho, próximo a formações rochosas",
+        "descricao": "Embaixo de cascalhos em água morna"
+      },
+      {
+        "numero": 13,
+        "nome": "Osso do Fibular",
+        "localizacao": "Scarlett Meadows - Sul",
+        "regiao": "Lemoyne",
+        "coordenadas": "Na parte sul das pradarias vermelhas",
+        "descricao": "Enterrado em solo avermelhado"
+      }
+    ],
+    "tags": ["colecionavel", "ossos-dinossauros", "paleontologia"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951a98108bd668f5ee6ae72"},
+    "nome": "Ossos de Dinossauro - Big Valley & West Elizabeth (Grupo 4)",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "OSSOS_DINOSSAUROS",
+    "tipo": "Coleção",
+    "grupo": 4,
+    "total_ossos": 4,
+    "obtido": false,
+    "recompensa": "Lentes de Arqueólogo, $100",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "regiao_principal": "Big Valley e West Elizabeth",
+    "ossos": [
+      {
+        "numero": 14,
+        "nome": "Osso da Falange",
+        "localizacao": "Big Valley - Northern Cave",
+        "regiao": "Big Valley",
+        "coordenadas": "Dentro de uma caverna ao norte de Tall Trees",
+        "descricao": "No fundo da caverna, iluminada por penhascos reflexivos"
+      },
+      {
+        "numero": 15,
+        "nome": "Osso da Carpal",
+        "localizacao": "Big Valley - Rocky Slope",
+        "regiao": "Big Valley",
+        "coordenadas": "Em uma encosta rochosa com vista para o vale",
+        "descricao": "Entre pedras grandes e vegetação rasteira"
+      },
+      {
+        "numero": 16,
+        "nome": "Osso do Esterno",
+        "localizacao": "West Elizabeth - Beryl's Dream",
+        "regiao": "West Elizabeth",
+        "coordenadas": "Próximo à casa de Beryl, em uma área rochosa",
+        "descricao": "Sob uma saliência de rocha natural"
+      },
+      {
+        "numero": 17,
+        "nome": "Osso da Clavícula",
+        "localizacao": "West Elizabeth - Owanjila",
+        "regiao": "West Elizabeth",
+        "coordenadas": "Próximo ao Lago Owanjila, em formação mineral",
+        "descricao": "Em uma formação de quartzo e feldspato"
+      }
+    ],
+    "tags": ["colecionavel", "ossos-dinossauros", "paleontologia"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951a98108bd668f5ee6ae73"},
+    "nome": "Ossos de Dinossauro - New Austin (Grupo 5 - Exclusivo John)",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "OSSOS_DINOSSAUROS",
+    "tipo": "Coleção",
+    "grupo": 5,
+    "total_ossos": 13,
+    "obtido": false,
+    "recompensa": "Chapéu do Arqueólogo, $200",
+    "personagem": "John",
+    "disponibilidade": {"personagem": "John", "acessivel_arthur": false, "acessivel_john": true},
+    "regiao_principal": "New Austin",
+    "descricao": "Coleção exclusiva para John Marston no Epílogo, disponível apenas em New Austin",
+    "ossos": [
+      {
+        "numero": 18,
+        "nome": "Osso do Rádio",
+        "localizacao": "Gaptooth Ridge - Norte",
+        "regiao": "New Austin",
+        "coordenadas": "Na parte norte da crista rochosa",
+        "descricao": "Entre formações de arenito vermelho"
+      },
+      {
+        "numero": 19,
+        "nome": "Osso da Ulna",
+        "localizacao": "Gaptooth Ridge - Sul",
+        "regiao": "New Austin",
+        "coordenadas": "Na parte sul, próximo a uma caverna",
+        "descricao": "Em uma caverna parcialmente visível"
+      },
+      {
+        "numero": 20,
+        "nome": "Osso do Calcâneo",
+        "localizacao": "Rio Bravo - San Luis River",
+        "regiao": "New Austin",
+        "coordenadas": "Próximo ao rio San Luis",
+        "descricao": "Na margem do rio, entre rochas"
+      },
+      {
+        "numero": 21,
+        "nome": "Osso do Metatarso",
+        "localizacao": "Rio Bravo - Del Lobo Rock",
+        "regiao": "New Austin",
+        "coordenadas": "Perto da Rocha Del Lobo",
+        "descricao": "Embaixo de uma saliência de rocha escura"
+      },
+      {
+        "numero": 22,
+        "nome": "Osso da Costela Secundária",
+        "localizacao": "Cholla Springs - High Desert",
+        "regiao": "New Austin",
+        "coordenadas": "No deserto elevado próximo a Cholla Springs",
+        "descricao": "Em areia seca próximo a um monumento de pedra"
+      },
+      {
+        "numero": 23,
+        "nome": "Osso da Vértebra Cervical",
+        "localizacao": "Cholla Springs - Jorge's Gap",
+        "regiao": "New Austin",
+        "coordenadas": "No gap rochoso entre os penhascos",
+        "descricao": "Entre dois penhascos altos"
+      },
+      {
+        "numero": 24,
+        "nome": "Osso da Vértebra Torácica",
+        "localizacao": "Hennigan's Stead - Pike's Basin",
+        "regiao": "New Austin",
+        "coordenadas": "Na bacia rochosa próxima a Hennigan's",
+        "descricao": "Em uma formação de rocha marrom avermelhada"
+      },
+      {
+        "numero": 25,
+        "nome": "Osso da Vértebra Lombar",
+        "localizacao": "Hennigan's Stead - Norte",
+        "regiao": "New Austin",
+        "coordenadas": "Ao norte da área de Hennigan's",
+        "descricao": "Próximo a uma árvore morta"
+      },
+      {
+        "numero": 26,
+        "nome": "Osso da Vértebra Sacral",
+        "localizacao": "Jorge's Gap - Leste",
+        "regiao": "New Austin",
+        "coordenadas": "Na parte leste do gap",
+        "descricao": "Em uma caverna rasa"
+      },
+      {
+        "numero": 27,
+        "nome": "Osso do Escafoide",
+        "localizacao": "Armadillo - Arredores",
+        "regiao": "New Austin",
+        "coordenadas": "Próximo aos arredores de Armadillo",
+        "descricao": "Em solo arenoso próximo a rochas isoladas"
+      },
+      {
+        "numero": 28,
+        "nome": "Osso do Semilunado",
+        "localizacao": "Tumbleweed - Sul",
+        "regiao": "New Austin",
+        "coordenadas": "Na parte sul de Tumbleweed",
+        "descricao": "Entre as ruínas da cidade fantasma"
+      },
+      {
+        "numero": 29,
+        "nome": "Osso do Piramidal",
+        "localizacao": "San Luis River - Leste",
+        "regiao": "New Austin",
+        "coordenadas": "Próximo ao rio San Luis, lado leste",
+        "descricao": "Em uma formação rochosa junto ao rio"
+      },
+      {
+        "numero": 30,
+        "nome": "Osso do Pisiforme",
+        "localizacao": "Stillwater Creek",
+        "regiao": "New Austin",
+        "coordenadas": "Próximo ao riacho de água parada",
+        "descricao": "Em um depósito de sedimento antigo"
+      }
+    ],
+    "tags": ["colecionavel", "ossos-dinossauros", "paleontologia", "john-exclusivo"],
+    "prioridade": 1
+  }
+]

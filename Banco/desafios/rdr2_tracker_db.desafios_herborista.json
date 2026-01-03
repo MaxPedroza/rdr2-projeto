@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d1"},
+    "subcategoria": "Herborista",
+    "nivel": 1,
+    "descricao": "Colha 6 mil-folhas.",
+    "recompensas": "Coldre Secundário de Herborista",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d2"},
+    "subcategoria": "Herborista",
+    "nivel": 2,
+    "descricao": "Colha e coma 4 espécies de frutas silvestres.",
+    "recompensas": "25 XP de Vida e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d3"},
+    "subcategoria": "Herborista",
+    "nivel": 3,
+    "descricao": "Crie 7 itens usando sálvia como ingrediente.",
+    "recompensas": "Cinto de Herborista com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d4"},
+    "subcategoria": "Herborista",
+    "nivel": 4,
+    "descricao": "Colha 5 cogumelos e dê para o seu cavalo.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d5"},
+    "subcategoria": "Herborista",
+    "nivel": 5,
+    "descricao": "Crie 9 itens usando tabaco indiano como ingrediente.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d6"},
+    "subcategoria": "Herborista",
+    "nivel": 6,
+    "descricao": "Colha 15 espécies de ervas.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d7"},
+    "subcategoria": "Herborista",
+    "nivel": 7,
+    "descricao": "Crie e use 5 tônicos miraculosos especiais.",
+    "recompensas": "Coldre de Herborista",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d8"},
+    "subcategoria": "Herborista",
+    "nivel": 8,
+    "descricao": "Use oleandro para criar 6 armas envenenadas.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01d9"},
+    "subcategoria": "Herborista",
+    "nivel": 9,
+    "descricao": "Colha uma erva de cada espécie.",
+    "recompensas": "150 XP de Vida e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01da"},
+    "subcategoria": "Herborista",
+    "nivel": 10,
+    "descricao": "Tempere e cozinhe todos os 11 tipos de carne.",
+    "recompensas": "Cartucheira de Herborista",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

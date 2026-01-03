@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f1"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 1,
+    "descricao": "Esfole 3 veados.",
+    "recompensas": "Coldre Secundário de Mestre Caçador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f2"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 2,
+    "descricao": "Obtenha 3 peles de coelho de qualidade perfeita.",
+    "recompensas": "25 XP de Vida e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f3"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 3,
+    "descricao": "Rastreie 10 espécies de animais usando o binóculo.",
+    "recompensas": "Cartucheira de Mestre Caçador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f4"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 4,
+    "descricao": "Chame um animal e consiga um abate limpo 5 vezes.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f5"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 5,
+    "descricao": "Esfole 3 ursos-negros ou ursos-cinzentos.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f6"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 6,
+    "descricao": "Mate 5 suçuaranas com seu arco e as esfole.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f7"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 7,
+    "descricao": "Use uma isca para atrair e matar um predador e um herbívoro consecutivamente.",
+    "recompensas": "Cinto de Mestre Caçador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f8"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 8,
+    "descricao": "Apanhe 3 peixes pequenos sem usar uma vara de pescar.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01f9"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 9,
+    "descricao": "Mate um gambá-saruê se fingindo de morto.",
+    "recompensas": "150 XP de Vida e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01fa"},
+    "subcategoria": "Mestre Caçador",
+    "nivel": 10,
+    "descricao": "Encontre e mate \"Giaguaro\", a pantera lendária.",
+    "recompensas": "Coldre de Mestre Caçador",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

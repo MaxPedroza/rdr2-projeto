@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d0"},
+    "nome": "Stalker Vest",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Urso Negro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["armadilheiro", "roupas", "colete", "stalker"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d1"},
+    "nome": "Scavenger Vest",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["armadilheiro", "roupas", "colete", "scavenger"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d2"},
+    "nome": "Pioneer Vest",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["armadilheiro", "roupas", "colete", "pioneer"],
+    "prioridade": 1
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec8"},
+    "nome": "Tomahawk teleguiado",
+    "categoria": "Receitas",
+    "subcategoria": "ARMAS",
+    "tipo": "Arma branca",
+    "fonte_panfleto": "Em um baú dentro da cabana ao sul do Lago da Pedra da Lua. Também vendido pelo receptador a partir do Capítulo 2",
+    "localizacao": "Ao sul do Lago da Pedra da Lua",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Tomahawk",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Pena de coruja",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Tomahawk teleguiado",
+      "quantidade": 1
+    },
+    "descricao": "Tomahawk aprimorado com penas de coruja para melhor aereodinâmica",
+    "uso": "Combate - arma de arremesso",
+    "dano": "Alto",
+    "aprendido": false,
+    "tags": ["arma", "receita", "tomahawk"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec9"},
+    "nome": "Faca de arremesso aprimorada",
+    "categoria": "Receitas",
+    "subcategoria": "ARMAS",
+    "tipo": "Arma branca",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Palheta para faca de arremesso",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Pena de águia",
+        "quantidade": 2,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Pena de falcão",
+        "quantidade": 2,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Faca de arremesso aprimorada",
+      "quantidade": 1
+    },
+    "descricao": "Faca de arremesso com penas de aves para maior precisão",
+    "uso": "Combate - arma de arremesso",
+    "dano": "Médio",
+    "precisao": "Alta",
+    "aprendido": false,
+    "tags": ["arma", "receita", "faca"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aeca"},
+    "nome": "Tomahawk aprimorado",
+    "categoria": "Receitas",
+    "subcategoria": "ARMAS",
+    "tipo": "Arma branca",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Tomahawk",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Pena de águia",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Pena de gavião",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Tomahawk aprimorado",
+      "quantidade": 1
+    },
+    "descricao": "Tomahawk com penas de aves rápidas para melhor desempenho",
+    "uso": "Combate - arma de arremesso",
+    "dano": "Alto",
+    "velocidade": "Alta",
+    "aprendido": false,
+    "tags": ["arma", "receita", "tomahawk", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aecb"},
+    "nome": "Faca de arremesso envenenada",
+    "categoria": "Receitas",
+    "subcategoria": "ARMAS",
+    "tipo": "Arma branca",
+    "fonte_panfleto": "Debaixo do piso do barraco a nordeste de Saint Denis. Também vendido junto à cerca após 'Derramando Óleo'",
+    "localizacao": "Nordeste de Saint Denis",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Faca de arremesso",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Oleandro",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Sálvia",
+        "quantidade": 1,
+        "tipo": "Planta"
+      }
+    ],
+    "resultado": {
+      "nome": "Faca de arremesso envenenada",
+      "quantidade": 1
+    },
+    "descricao": "Faca de arremesso revestida com veneno",
+    "uso": "Combate - arma de arremesso com veneno",
+    "dano": "Médio + Veneno",
+    "efeito_especial": "Envenenamento",
+    "aprendido": false,
+    "tags": ["arma", "receita", "faca", "veneno"],
+    "prioridade": 2
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea30"},
+    "nome": "Bolsa de Veterano",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Veado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "bolsa"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea31"},
+    "nome": "Tonicos do Acampamento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Tonicos",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Cariacu",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "tonicos"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea32"},
+    "nome": "Provisões do Acampamento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Provisoes",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Veado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Bisão",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Guaxinim",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "provisoes"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea33"},
+    "nome": "Materiais do Acampamento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Materiais",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Veado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Javali",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Iguana",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "materiais"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea34"},
+    "nome": "Itens de Valor do Acampamento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Itens de Valor",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Acomodações",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Veado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Castor",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Coelho",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "itens-valor"],
+    "prioridade": 2
+  }
+]

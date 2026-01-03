@@ -1,0 +1,132 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a1"},
+    "nome": "Adaga Ornada",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Saint Denis",
+    "obtencao": "Encontre e elimine o vampiro de Saint Denis para poder coletar a arma.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a2"},
+    "nome": "Espada de Pirata Quebrada",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Bayou Nwa, Lemoyne",
+    "obtencao": "Ao lado de um esqueleto dentro de um barco destruído nas ilhas ao nordeste de Lagostins Willies, no sul de Bayou Nwa, Lemoyne.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a3"},
+    "nome": "Faca da Guerra Civil",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Forte Brennand, Serra Roanoke",
+    "obtencao": "No andar inferior da cabana encostada na parede oeste do Forte Brennand, na Serra Roanoke, Nova Hanover. Desça pela escada de madeira no canto noroeste da cabana e a faca fica em cima de uma caixa no centro do local.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a4"},
+    "nome": "Faca de Galhada",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Rancho Hanging Dog, Elizabeth do Oeste",
+    "obtencao": "Cravada na carcaça de um urso sobre um cadáver humano ao noroeste do Rancho Hanging Dog, em Big Valley, Elizabeth do Oeste.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a5"},
+    "nome": "Faca de Lâmina Larga",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Sonho de Berillo, Elizabeth do Oeste",
+    "obtencao": "Também denominada como Faca do Minerador no jogo, esta arma fica dentro da mina em Sonho de Berillo. Acione o detonador na entrada da mina e entre pela passagem estreita usando o lampião. A faca fica em cima de um cadáver com a faca cravada nas costas.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a6"},
+    "nome": "Faca de Mandíbula",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Complete a missão secundária Um Teste de Fé, que consiste em encontrar 30 ossos de dinossauro e enviar as localizações para a paleontóloga Deborah MacGuiness.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a7"},
+    "nome": "Machadinha de Caçador",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Rochedo de Dodd, Ambarino",
+    "obtencao": "Cravada em um toco de madeira ao lado da cabana em Rochedo de Dodd, em Grizzlies do Oeste, Ambarino.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a8"},
+    "nome": "Machadinha de Caçador Corroída",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Pretendente da Martha, Ambarino",
+    "obtencao": "Cravada em um toco de madeira ao lado da cabana em Pretendente da Martha, Grizzlies do Leste, Ambarino.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01a9"},
+    "nome": "Machadinha Dupla",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Estação Wallace, Elizabeth do Oeste",
+    "obtencao": "Cravada em um toco de madeira em uma clareia ao noroeste da Estação Wallace, em Big Valley, Elizabeth do Oeste.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01aa"},
+    "nome": "Machadinha Dupla Corroída",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Mina de Carvão de Annesburg, Nova Hanover",
+    "obtencao": "Cravada em um toco da madeira bem na frente do galpão vermelho ao norte da mina de carvão de Annesburg, na Serra Roanoke, Nova Hanover.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01ab"},
+    "nome": "Machadinha de Corte",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Cabana Destruída, Ambarino",
+    "obtencao": "Cravada em um toco de madeira perto da Cabana Destruída, que fica ao sul da Lagoa Moonstone, em Grizzlies do Leste, Ambarino.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01ac"},
+    "nome": "Machadinha Viking",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Velha Tumba, Nova Hanover",
+    "obtencao": "Cravada em um crânio ao lado de uma pedra de sacrifício na Velha Tumba (Ponto de Interesse). O local fica em Vale Roanoke, Serra Roanoke, Nova Hanover.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d01ad"},
+    "nome": "Tomahawk Antigo",
+    "categoria": "Armas Brancas",
+    "tipo": "Arma Única",
+    "localizacao": "Ravina Camulet, Ambarino",
+    "obtencao": "Cravado em um alvo de madeira no canto nordeste da Ravina Camulet, em Grizzlies do Leste, Ambarino.",
+    "obtido": false,
+    "prioridade": 2
+  }
+]

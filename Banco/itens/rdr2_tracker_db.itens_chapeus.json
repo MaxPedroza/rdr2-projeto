@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a1"},
+    "nome": "Chapéu Hardee da Guerra Civil",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Forte Brennand, Nova Hanover",
+    "obtencao": "No canto sudoeste do mesmo local onde você encontra a Faca da Guerra Civil (Forte Brennand).",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a2"},
+    "nome": "Chapéu Espantalho",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Fazenda Guthrie, Nova Hanover",
+    "obtencao": "Há vários espantalhos no mundo do jogo, mas apenas o da Fazenda Guthrie, em Heartlands, Nova Hanover, usa chapéu. Atire nele para poder coletá-lo.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a3"},
+    "nome": "Chapéu Exótico",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Complete a missão secundária Duquesas e Outros Animais para ganhar o chapéu.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a4"},
+    "nome": "Chapéu do Minerador",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Sonho de Berillo, Elizabeth do Oeste",
+    "obtencao": "Ao lado do corpo onde você obtém a Faca de Lâmina Larga. O chapéu facilita a exploração de locais escuros sem a necessidade de equipar o lampião.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a5"},
+    "nome": "Chapéu Nevada",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Estreito Whinyard, Ambarino",
+    "obtencao": "Sobre uma pedra atrás da cachoeira no Estreito Whinyard, em Grizzlies do Oeste, Ambarino. Para chegar ao local, siga de cavalo pelo trilho do trem.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a6"},
+    "nome": "Chapéu Pescador",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Complete a missão secundária Pescando como Peixe para poder coletar o chapéu de Jeremy Gill.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a7"},
+    "nome": "Chapéu Tricórnio",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Lago Flat Iron, Lemoyne",
+    "obtencao": "Este chapéu de pirata fica dentro dos destroços de um navio localizado no centro da grande ilha no Lago Flat Iron, ao oeste da Península Clemens, em Scarlett Meadows, Lemoyne.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a8"},
+    "nome": "Elmo Morrião",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Monte Hagen, Ambarino",
+    "obtencao": "No topo do Monte Hagen, em Grizzlies do Oeste, Ambarino. No final do caminho indicado no mapa, desça do cavalo e ande alguns metros em direção ao norte para encontrar um cadáver.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d03a9"},
+    "nome": "Elmo Viking",
+    "categoria": "Chapéus Únicos",
+    "tipo": "Chapéu Único",
+    "localizacao": "Velha Tumba, Nova Hanover",
+    "obtencao": "Ao lado de alguns crânios na parte coberta da Velha Tumba, onde você encontra a Machadinha Viking. Ative a habilidade Olhos de Águia para enxergá-lo facilmente.",
+    "obtido": false,
+    "prioridade": 2
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "_id": {"$oid": "6951a95e08bd668f5ee6ae6e"},
+    "nome": "Rochas Entalhadas - Geologia para Principiantes",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ROCHAS_ENTALHADAS",
+    "tipo": "Coleção",
+    "total_rochas": 10,
+    "obtido": false,
+    "recompensa": "Livro de Geologia Raro, $100",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "regiao_principal": "Distribuído por todo o mapa",
+    "descricao": "Coleção de 10 rochas entalhadas com formações geológicas únicas espalhadas pelo mapa de Red Dead Redemption 2",
+    "rochas": [
+      {
+        "numero": 1,
+        "nome": "Rocha do Monte Hagen",
+        "localizacao": "Mount Hagen",
+        "regiao": "Grizzlies",
+        "coordenadas": "No topo da montanha norte",
+        "descricao": "Formação rochosa com padrões cristalinos únicos em altitude elevada",
+        "dificuldade": "Alta - Requer escalar montanha",
+        "tipo_rocha": "Quartzo com estratos minerais"
+      },
+      {
+        "numero": 2,
+        "nome": "Rocha do Estreito Whinyard",
+        "localizacao": "Whinyard Strait",
+        "regiao": "Grizzlies",
+        "coordenadas": "Em um desfiladeiro entre montanhas",
+        "descricao": "Rocha com fósseis marinhos visíveis, indicando antigo leito de mar",
+        "dificuldade": "Média - Acesso por caminho de montanha",
+        "tipo_rocha": "Xisto com fósseis marinhos"
+      },
+      {
+        "numero": 3,
+        "nome": "Rocha das Cataratas Cumberland",
+        "localizacao": "Cumberland Falls",
+        "regiao": "Floresta Cumberland",
+        "coordenadas": "Próximo às cataratas, na margem norte",
+        "descricao": "Rocha erodida pela ação das águas, com padrões de laminação visíveis",
+        "dificuldade": "Baixa - Fácil acesso",
+        "tipo_rocha": "Arenito com estratificação"
+      },
+      {
+        "numero": 4,
+        "nome": "Rocha da Estação Bacchus",
+        "localizacao": "Bacchus Station",
+        "regiao": "Floresta Cumberland",
+        "coordenadas": "Próximo à estação de trem, em área rochosa",
+        "descricao": "Formação de feldspato com inclusões de mica brilhante",
+        "dificuldade": "Baixa - Próximo à civilização",
+        "tipo_rocha": "Granito com mica"
+      },
+      {
+        "numero": 5,
+        "nome": "Rocha da Lagoa Moonstone",
+        "localizacao": "Moonstone Pond",
+        "regiao": "West Elizabeth",
+        "coordenadas": "Na margem da lagoa, em área aberta",
+        "descricao": "Rocha com feldspato lunar que brilha sob luz lunar",
+        "dificuldade": "Baixa - Localização acessível",
+        "tipo_rocha": "Feldspato com adularescência"
+      },
+      {
+        "numero": 6,
+        "nome": "Rocha da Cabana de Veados",
+        "localizacao": "Deer Cottage",
+        "regiao": "Roanoke Ridge",
+        "coordenadas": "Próximo à cabana abandonada",
+        "descricao": "Formação de rocha com padrões sedimentares bem definidos",
+        "dificuldade": "Média - Requer viagem ao norte",
+        "tipo_rocha": "Sedimentar estratificado"
+      },
+      {
+        "numero": 7,
+        "nome": "Rocha da Piscina Elysian",
+        "localizacao": "Elysian Pool",
+        "regiao": "Roanoke Ridge",
+        "coordenadas": "Na piscina de água natural, na margem",
+        "descricao": "Rocha lisa polida pela água e tempo, com minerais coloridos",
+        "dificuldade": "Média - Acesso por montanha",
+        "tipo_rocha": "Rocha polida com veios minerais"
+      },
+      {
+        "numero": 8,
+        "nome": "Rocha do Lago Owanjila",
+        "localizacao": "Owanjila Lake",
+        "regiao": "West Elizabeth",
+        "coordenadas": "Na margem do lago, em formação rochosa",
+        "descricao": "Formação de basalto com colunas hexagonais características",
+        "dificuldade": "Média - Viagem ao oeste",
+        "tipo_rocha": "Basalto colunado"
+      },
+      {
+        "numero": 9,
+        "nome": "Rocha do Monte Shann",
+        "localizacao": "Mount Shann",
+        "regiao": "Grizzlies",
+        "coordenadas": "No topo da montanha, em área rochosa",
+        "descricao": "Rocha de origem vulcânica com cristais de obsidiana",
+        "dificuldade": "Alta - Altitude muito elevada",
+        "tipo_rocha": "Obsidiana vulcânica"
+      },
+      {
+        "numero": 10,
+        "nome": "Rocha da Estação Flatneck",
+        "localizacao": "Flatneck Station",
+        "regiao": "Heartlands",
+        "coordenadas": "Próximo à estação de trem, em terreno aberto",
+        "descricao": "Formação de calcário com fósseis de moluscos e corais antigos",
+        "dificuldade": "Baixa - Fácil acesso pela estação",
+        "tipo_rocha": "Calcário fossilífero"
+      }
+    ],
+    "tags": ["colecionavel", "rochas-entalhadas", "geologia", "paleontologia"],
+    "prioridade": 2,
+    "notas": "Coleção de interesse geológico e paleontológico. Alguns locais requerem escalada de montanha ou viagens longas. Melhor explorar durante o dia para melhor visualização."
+  }
+]

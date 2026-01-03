@@ -1,0 +1,353 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a1"},
+    "nome": "Beaver Tooth Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Dente de Castor Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "moeda": "USD",
+    "efeito": "Retarda a degradação de todas as armas em 10%",
+    "tags": ["bugiganga", "arma"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a2"},
+    "nome": "Buck Antler Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Galhada de Gamo Lendária",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 22.00,
+    "moeda": "USD",
+    "efeito": "Receive higher quality skinned animal parts",
+    "tags": ["trinket", "hunting"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a3"},
+    "nome": "Cougar Fang Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Fang de Pantera Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 20.50,
+    "moeda": "USD",
+    "efeito": "Increases stamina exp bonus by 10%",
+    "tags": ["trinket", "stamina"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a4"},
+    "nome": "Coyote Fang Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Fang de Coiote Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 21.25,
+    "moeda": "USD",
+    "efeito": "Increases Dead Eye exp bonus by 10%",
+    "tags": ["trinket", "deadeye"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a5"},
+    "nome": "Elk Antler Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Galhada de Alce Lendária",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 22.75,
+    "moeda": "USD",
+    "efeito": "Increases looted money by 10%",
+    "tags": ["bugiganga", "dinheiro"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a6"},
+    "nome": "Fox Claw Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Garra de Raposa Lendária",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 23.50,
+    "moeda": "USD",
+    "efeito": "Increases Eagle Eye duration by 5 seconds",
+    "tags": ["bugiganga", "percepção"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a7"},
+    "nome": "Lion's Paw Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pata de Leão Lendária",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 19.75,
+    "moeda": "USD",
+    "efeito": "Increases stamina exp bonus by 10%",
+    "tags": ["trinket", "stamina"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a8"},
+    "nome": "Moose Antler Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Galhada de Alce Lendária",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 19.00,
+    "moeda": "USD",
+    "efeito": "Increases health exp bonus by 10%",
+    "tags": ["bugiganga", "saúde"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a9"},
+    "nome": "Panther's Eye Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Olho de Pantera Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 25.00,
+    "moeda": "USD",
+    "efeito": "Decreases Dead Eye drain by 10% for 3 seconds",
+    "tags": ["trinket", "deadeye"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51aa"},
+    "nome": "Pronghorn Horn Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Chifre de Antilocapra Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 24.50,
+    "moeda": "USD",
+    "efeito": "Stops animals on horseback from spoiling",
+    "tags": ["trinket", "hunting"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51ab"},
+    "nome": "Ram Horn Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Chifre de Carneiro Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "moeda": "USD",
+    "efeito": "Picking Creeping thyme, Oregano, and Wild mint yields 2x more herbs",
+    "tags": ["trinket", "foraging"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51ac"},
+    "nome": "Wolf Heart Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Coração de Lobo Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 16.00,
+    "moeda": "USD",
+    "efeito": "Double resistance to negative effects of alcohol",
+    "tags": ["trinket", "resistance"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51ad"},
+    "nome": "Tatanka Bison Horn Trinket",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Trinket",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Chifre de Bisão Tatanka Lendário",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 16.75,
+    "moeda": "USD",
+    "efeito": "Decreases melee damage received by 10%",
+    "tags": ["trinket", "defense"],
+    "prioridade": 1
+  }
+]

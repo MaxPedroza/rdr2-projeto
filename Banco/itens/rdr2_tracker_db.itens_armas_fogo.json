@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a1"},
+    "nome": "Rifle Rolling Block Raro",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Mansão Braithwaite, Capítulo 3",
+    "obtencao": "Esta arma rara só pode ser obtida durante a missão principal Mágicos nas Horas Vagas, no Capítulo 3. Ela é usada por um inimigo que atira em você de dentro de um grande celeiro na Mansão Braithwaite.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a2"},
+    "nome": "Escopeta Rara",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Manito Glade, Nova Hanover",
+    "obtencao": "Elimine o ermitão hostil que vive na cabana em Manito Glade, ao norte de Annesburg, na região nordeste da Serra Roanoke, Nova Hanover.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a3"},
+    "nome": "Pistola do Midnight",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Encontre e derrote Billy Midnight em um duelo como parte da missão secundária O Mais Nobre dos Homens e uma Mulher para pegar a arma ao lado do corpo.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a4"},
+    "nome": "Revólver do Emmet Granger",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Encontre e derrote Emmet Granger em um duelo como parte da missão secundária O Mais Nobre dos Homens e uma Mulher para pegar a arma ao lado do corpo.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a5"},
+    "nome": "Revólver do Flaco",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Encontre e derrote Flaco Hernandez em um duelo como parte da missão secundária O Mais Nobre dos Homens e uma Mulher para pegar a arma ao lado do corpo.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a6"},
+    "nome": "Revólver do Calloway",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Derrote Jim Calloway para completar a missão secundária O Mais Nobre dos Homens e uma Mulher e pegue a arma ao lado do corpo.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a7"},
+    "nome": "Revólver do Algernon",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Missão Secundária",
+    "obtencao": "Complete a missão secundária Duquesas e Outros Animais para receber a arma como recompensa.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a8"},
+    "nome": "Revólver do Otis Miller",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Mapa Rasgado",
+    "obtencao": "Desvende o segredo do Mapa Rasgado para obter a arma.",
+    "obtido": false,
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d02a9"},
+    "nome": "Revólver do Micah",
+    "categoria": "Armas de Fogo",
+    "tipo": "Arma Única",
+    "localizacao": "Monte Hagen, Ambarino",
+    "obtencao": "Após completar a história, colete a arma ao lado do cadáver de Micah próximo à cabana na região leste do Monte Hagen, em Grizzlies do Oeste, Ambarino.",
+    "obtido": false,
+    "prioridade": 2
+  }
+]

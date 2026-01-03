@@ -1,0 +1,108 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec5"},
+    "nome": "Dinamite volátil",
+    "categoria": "Receitas",
+    "subcategoria": "EXPLOSIVOS",
+    "tipo": "Explosivo",
+    "fonte_panfleto": "Em um baú sob uma carroça quebrada em Hani's Bethel. Também vendido perto da cerca após 'American Distillation'",
+    "localizacao": "Hani's Bethel",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Cartucho de alta velocidade",
+        "quantidade": 1,
+        "tipo": "Munição"
+      },
+      {
+        "nome": "Dinamite",
+        "quantidade": 1,
+        "tipo": "Explosivo"
+      },
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Dinamite volátil",
+      "quantidade": 1
+    },
+    "descricao": "Dinamite com maior potencial de explosão",
+    "uso": "Combate e destruição",
+    "poder_explosao": "Muito Alto",
+    "aprendido": false,
+    "tags": ["explosivo", "receita", "dinamite"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec6"},
+    "nome": "Garrafa de fogo",
+    "categoria": "Receitas",
+    "subcategoria": "EXPLOSIVOS",
+    "tipo": "Explosivo",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Bebida alcoólica (Gin/Rum/Bourbon/Brandy)",
+        "quantidade": 1,
+        "tipo": "Bebida",
+        "opcoes": ["Gin", "Guarma Rum", "Kentucky Bourbon", "Fine Brandy"]
+      }
+    ],
+    "resultado": {
+      "nome": "Garrafa de fogo",
+      "quantidade": 1
+    },
+    "descricao": "Garrafa incendiária que causa dano de fogo",
+    "uso": "Combate - dano de fogo",
+    "poder_explosao": "Médio",
+    "aprendido": false,
+    "tags": ["explosivo", "receita", "fogo", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec7"},
+    "nome": "Garrafa de fogo volátil",
+    "categoria": "Receitas",
+    "subcategoria": "EXPLOSIVOS",
+    "tipo": "Explosivo",
+    "fonte_panfleto": "Em um baú em um acampamento abandonado a noroeste do Mirante da Ferradura. Também vendido perto do receptador após 'Derramando Óleo'",
+    "localizacao": "Noroeste do Mirante da Ferradura",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Aguardente",
+        "quantidade": 1,
+        "tipo": "Bebida"
+      },
+      {
+        "nome": "Bebida alucinógena",
+        "quantidade": 1,
+        "tipo": "Bebida"
+      }
+    ],
+    "resultado": {
+      "nome": "Garrafa de fogo volátil",
+      "quantidade": 1
+    },
+    "descricao": "Garrafa incendiária de maior potência com efeitos alucinógenos",
+    "uso": "Combate - dano de fogo avançado",
+    "poder_explosao": "Alto",
+    "aprendido": false,
+    "tags": ["explosivo", "receita", "fogo", "alucinógeno"],
+    "prioridade": 2
+  }
+]

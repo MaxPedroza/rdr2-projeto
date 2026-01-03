@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a1"},
+    "nome": "Dente de Castor",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Armas",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Dente de Castor Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 0,
+    "moeda": "USD",
+    "efeito": "Retarda a degradação de todas as armas em 10%",
+    "tags": ["bugiganga", "arma"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a4"},
+    "nome": "Fang de Coiote",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Armas",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Fang de Coiote Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 21.25,
+    "moeda": "USD",
+    "efeito": "Aumenta bônus de experiência de Olhos da Morte em 10%",
+    "tags": ["bugiganga", "olhos-da-morte"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a9"},
+    "nome": "Olho de Pantera",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Armas",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Olho de Pantera Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 25.00,
+    "moeda": "USD",
+    "efeito": "Diminui consumo de Olhos da Morte em 10% por 3 segundos",
+    "tags": ["bugiganga", "olhos-da-morte"],
+    "prioridade": 1
+  }
+]

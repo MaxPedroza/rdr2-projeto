@@ -1,0 +1,52 @@
+Peles e animais,,,,,,,,,,,,,
+Acampamento,,,,,,,,TOTAL,,,,,
+Tipo1,Tipo 2,Qnt,Animais,Obs,OK,,,Animais,Qnt,Pele,Carcaça,Galhada,OK
+Bolsas,Tonicos,1,Veado,Pele,ok,ok,, Antilocapra,2,0,0,0,ok
+,,1,Cariacu,Pele,ok,,,Alce,1,0,0,0,ok
+,,1,Uapiti,Pele,ok,,,Bisão,1,0,0,0,ok
+,ingredientes,1,Veado,Pele,ok,ok,,Boi,2,2,0,0,
+,,1,Texugo ,Pele,ok,,,Cabra,2,2,0,0,
+,,1,Esquilo,Pele,ok,,,Cariacu,2,0,0,0,ok
+,Kit,1,Veado,Pele,ok,ok,,Carneiro,1,1,0,0,
+,,1,Uapiti,Pele,ok,,,Castor,2,1,0,0,
+,,1,Pantera,Pele,ok,,,cobra,2,2,0,0,
+,Provisoes,1,Veado,Pele,ok,ok,,Coellho,1,0,0,0,ok
+,,1,Bisão,Pele,ok,,,Esquilo,1,0,0,0,ok
+,,1,Guaxinin,Pele,ok,,,Guaxinin,1,0,0,0,ok
+,Materiais,1,Veado,Pele,ok,ok,,Iguana,1,0,0,0,ok
+,,1,Javali,Pele,ok,,,Jacare,1,1,0,0,
+,,1,Iguana,Pele,ok,,,Javali,6,0,0,0,ok
+,Itens de Valor,1,Veado,Pele,ok,ok,,Lobo,4,0,0,0,ok
+,,1,Castor,Pele,ok,,,Pantera,1,0,0,0,ok
+,,1,Coellho,Pele,ok,,,Raposa,1,1,0,0,
+,Lenda do Oeste,1,Veado,Pele,ok,ok,,Rato almiscarado,1,1,0,0,
+,,1,Suçuaruna,Pele,ok,,,Suçuaruna,2,2,0,0,
+,,1,Lobo,Pele,ok,,,Texugo ,1,0,0,0,ok
+Acomodações,Arthur,1,Jacare,Pele,,,,Uapiti,3,0,0,0,ok
+,,1,Carneiro,Carcaça,,,,Vaca,1,1,0,0,
+,,2,Suçuaruna,Pele,,,,Veado,7,0,0,0,ok
+,,, Suçuaruna,Pele,,,,Total de Animais ,47,,0,0,
+,,1,Javali,Pele,ok,,,Faltam,14,,,,
+,,2,Boi,Pele,,,,,,,,,
+,,,Boi,Pele,,,,,,,,,
+,John,4,javali,Pele,ok,ok,,,,,,,
+,,,javali,Pele,ok,,,,,,,,
+,,,javali,Pele,ok,,,,,,,,
+,,,javali,Pele,ok,,,,,,,,
+Mesa de Acampamento,,2, Antilocapra,Pele,ok,ok,,,,,,,
+,,, Antilocapra,Pele,ok,,,,,,,,
+Chuckwagon,,1,Antilocapra,Carcaça,ok,,,,,,,,
+Fogueira Principal,Galhada de Alce,1,Alce,Galhada,ok,,,,,,,,
+,Cranio de Lobo,1,Lobo,Carcaça,,,,,,,,,
+,Banjo,2,cobra,pele,,,,,,,,,
+,,,cobra,pele,,,,,,,,,
+,Manta de Assento a fogueira,1,Castor,pele,,,,,,,,,
+,,1,Rato almiscarado,pele,,,,,,,,,
+,,1,Raposa,pele,,,,,,,,,
+,Manta de Tronco a Fogueira,2,Lobo,pele,ok,ok,,,,,,,
+,,,Lobo,pele,ok,,,,,,,,
+,Tapete de Couro de Vaca,1,Vaca,pele,,,,,,,,,
+Fogueira do vigia,,2,Cabra,pele,,,,,,,,,
+,,,Cabra,pele,,,,,,,,,
+,,1,Uapiti,Galhada,ok,,,,,,,,
+,,1,Cariacu,Galhada,ok,,,,,,,,

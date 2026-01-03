@@ -1,0 +1,109 @@
+[
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae9c"},
+    "nome": "Javali Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Bluewater Marsh, ao norte de Legras",
+    "regiao": "Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Lemoyne",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Encontrado em Bluewater Marsh"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "javali", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea2"},
+    "nome": "Coiote Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Região norte de Scarlett Meadows, próximo ao \"L\" de Lemoyne no mapa",
+    "regiao": "Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Lemoyne",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Scarlett Meadows"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "coiote", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea4"},
+    "nome": "Raposa Lendária",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Em Mattock Pond, entre Southfield Flats e o Rio Kamassa, ao norte da cidade de Rhodes",
+    "regiao": "Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Lemoyne",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Rhodes"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "raposa", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea5"},
+    "nome": "Jacaré Gigante Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Pântanos de Lemoyne",
+    "regiao": "Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Lemoyne",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "capitulo_arthur": 4,
+      "notas": "Liberado após completar a missão 'Um Passeio pelo Pântano' no Capítulo 4"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "jacaré", "arthurjohn"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea9"},
+    "nome": "Pantera Lendária Giaguaro",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "A sudoeste de Boulber Blade e a leste de Braithwaite Manor, próximo da costa",
+    "regiao": "Lemoyne",
+    "personagem": "John",
+    "disponibilidade": {
+      "personagem": "John",
+      "regiao": "Lemoyne",
+      "acessivel_arthur": false,
+      "acessivel_john": true,
+      "fase_john": true,
+      "notas": "Apenas disponível após completar o jogo (Fase 2 - Epilog). Liberada ao completar os 9 primeiros desafios do Mestre Caçador"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "pantera", "john-only"],
+    "prioridade": 3
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a1"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 1,
+    "descricao": "Mate 3 pássaros em voo.",
+    "recompensas": "Cartucheira de Atirador de Elite",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a2"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 2,
+    "descricao": "Mate 2 espécies diferentes de animais durante o mesmo uso dos Olhos da Morte.",
+    "recompensas": "25 XP de Olhos da Morte e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a3"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 3,
+    "descricao": "Mate 5 pássaros em voo de um trem em movimento.",
+    "recompensas": "Coldre de Atirador de Elite",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a4"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 4,
+    "descricao": "Mate um inimigo a pelo menos 80 pés (25 metros) de distância arremessando um tomahawk.",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a5"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 5,
+    "descricao": "Mate 6 animais sem trocar ou recarregar sua arma.",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a6"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 6,
+    "descricao": "Mate uma pessoa a pelo menos 660 pés (202 metros) de distância usando um rifle de precisão.",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a7"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 7,
+    "descricao": "Acerte 7 tiros na cabeça em sequência.",
+    "recompensas": "Coldre de Atirador de Elite",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a8"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 8,
+    "descricao": "Desarme 3 inimigos sem recarregar ou trocar sua arma.",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02a9"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 9,
+    "descricao": "Acerte os chapéus de 3 pessoas durante o mesmo uso dos Olhos da Morte.",
+    "recompensas": "150 XP de Olhos da Morte e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02aa"},
+    "subcategoria": "Atirador de Elite",
+    "nivel": 10,
+    "descricao": "Abata 3 pássaros em voo em sequência com 3 tiros de rifle de precisão.",
+    "recompensas": "Cinto de Atirador de Elite com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

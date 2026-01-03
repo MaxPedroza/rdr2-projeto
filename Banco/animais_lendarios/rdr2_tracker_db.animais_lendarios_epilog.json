@@ -1,0 +1,68 @@
+[
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea6"},
+    "nome": "Bisão Lendário Tatanka",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Região de Hennigan's Stead, ao sul da cidade de Blackwater e a leste de McFarlane's Ranch",
+    "regiao": "Blackwater",
+    "personagem": "John",
+    "disponibilidade": {
+      "personagem": "John",
+      "regiao": "Blackwater",
+      "acessivel_arthur": false,
+      "acessivel_john": true,
+      "fase_john": true,
+      "notas": "Blackwater - Arthur não tem acesso. Apenas disponível após completar o jogo (Fase 2 - Epilog)"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "bisão", "john-only", "blackwater"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea7"},
+    "nome": "Antilocapra Lendária",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "A sudoeste de Blackwater, próximo da marcação de Rio Del Lobo Rock no mapa",
+    "regiao": "Blackwater",
+    "personagem": "John",
+    "disponibilidade": {
+      "personagem": "John",
+      "regiao": "Blackwater",
+      "acessivel_arthur": false,
+      "acessivel_john": true,
+      "fase_john": true,
+      "notas": "Blackwater - Arthur não tem acesso. Apenas disponível após completar o jogo (Fase 2 - Epilog)"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "antilocapra", "john-only", "blackwater"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea8"},
+    "nome": "Suçuaruna Lendária",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "No extremo oeste do mapa, a oeste da cidade de Tumbleweed, e próximo do primeiro \"T\" de Gaptooth Ridge",
+    "regiao": "New Austin",
+    "personagem": "John",
+    "disponibilidade": {
+      "personagem": "John",
+      "regiao": "New Austin",
+      "acessivel_arthur": false,
+      "acessivel_john": true,
+      "fase_john": true,
+      "notas": "New Austin/Gaptooth Ridge - Apenas disponível após completar o jogo (Fase 2 - Epilog)"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "suçuaruna", "john-only"],
+    "prioridade": 3
+  }
+]

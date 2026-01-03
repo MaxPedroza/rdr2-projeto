@@ -1,0 +1,19 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145e51a4"},
+    "nome": "Boca-de-Jacaré Lendário",
+    "categoria_principal": "Peixes Lendários",
+    "tipo": "Peixe Lendário",
+    "obtido": false,
+    "localizacao": "Pântano entre Lakay e Lagras, Bayou Nwa",
+    "regiao": "Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true, "fase_john": false},
+    "tipo_agua": "Pântano",
+    "iscas": ["Isca de Pântano Especial"],
+    "periodo": "Qualquer hora",
+    "condicao_climatica": "Qualquer",
+    "tags": ["peixe", "lendário", "pântano"],
+    "prioridade": 1
+  }
+]

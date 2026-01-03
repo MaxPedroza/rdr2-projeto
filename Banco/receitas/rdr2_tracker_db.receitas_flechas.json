@@ -1,0 +1,179 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aebd"},
+    "nome": "Flecha de dinamite",
+    "categoria": "Receitas",
+    "subcategoria": "FLECHAS",
+    "tipo": "Flecha",
+    "fonte_panfleto": "Em um baú na base da ponte, no extremo sul da Reserva Indígena de Wapiti. Também vendido perto da cerca após 'Uma Breve Caminhada em uma Cidade Bonita'",
+    "localizacao": "Reserva Indígena de Wapiti",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flecha",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Dinamite",
+        "quantidade": 1,
+        "tipo": "Explosivo"
+      },
+      {
+        "nome": "Pena de voo",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Flecha de dinamite",
+      "quantidade": 1
+    },
+    "descricao": "Flecha com carga de dinamite para detonação à distância",
+    "uso": "Combate e destruição",
+    "aprendido": false,
+    "tags": ["flecha", "receita", "explosivo", "dinamite"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aebe"},
+    "nome": "Flecha de fogo",
+    "categoria": "Receitas",
+    "subcategoria": "FLECHAS",
+    "tipo": "Flecha",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flecha",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Pena de voo",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Flecha de fogo",
+      "quantidade": 1
+    },
+    "descricao": "Flecha inflamável que causa dano de fogo",
+    "uso": "Combate - dano de fogo",
+    "aprendido": false,
+    "tags": ["flecha", "receita", "fogo", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aebf"},
+    "nome": "Flecha aprimorada",
+    "categoria": "Receitas",
+    "subcategoria": "FLECHAS",
+    "tipo": "Flecha",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flecha",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Pena de voo",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Flecha aprimorada",
+      "quantidade": 1
+    },
+    "descricao": "Flecha com melhor aerodinâmica e dano aumentado",
+    "uso": "Caça e combate",
+    "aprendido": false,
+    "tags": ["flecha", "receita", "aprimorada", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec0"},
+    "nome": "Flecha envenenada",
+    "categoria": "Receitas",
+    "subcategoria": "FLECHAS",
+    "tipo": "Flecha",
+    "fonte_panfleto": "Em um baú do lado de fora da casa, a nordeste da Estação Bacchus. Também vendido pelo receptador a partir do Capítulo 2",
+    "localizacao": "Nordeste da Estação Bacchus",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flecha",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Oleandro",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Sálvia",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Pena de voo",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Flecha envenenada",
+      "quantidade": 1
+    },
+    "descricao": "Flecha revestida com veneno para efeito tóxico",
+    "uso": "Caça - causa envenenamento",
+    "aprendido": false,
+    "tags": ["flecha", "receita", "veneno", "bacchus-station"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec1"},
+    "nome": "Flecha para caça de pequeno porte",
+    "categoria": "Receitas",
+    "subcategoria": "FLECHAS",
+    "tipo": "Flecha",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flecha",
+        "quantidade": 1,
+        "tipo": "Arma"
+      },
+      {
+        "nome": "Cartucho de espingarda",
+        "quantidade": 1,
+        "tipo": "Munição"
+      },
+      {
+        "nome": "Pena de voo - Regular",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Flecha para caça pequeno porte",
+      "quantidade": 1
+    },
+    "descricao": "Flecha otimizada para caça de pequenos animais",
+    "uso": "Caça - pequenos animais",
+    "aprendido": false,
+    "tags": ["flecha", "receita", "caça", "capítulo-2"],
+    "prioridade": 2
+  }
+]

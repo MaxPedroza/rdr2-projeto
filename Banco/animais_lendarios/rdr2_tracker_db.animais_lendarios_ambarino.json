@@ -1,0 +1,23 @@
+[
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae9f"},
+    "nome": "Bisão Branco Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Margem nordeste do Lago Isabella, próximo do \"A\" de Ambarino",
+    "regiao": "Ambarino",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Ambarino",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Região noroeste do mapa"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "bisão", "arthurjohn"],
+    "prioridade": 2
+  }
+]

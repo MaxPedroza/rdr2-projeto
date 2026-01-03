@@ -1,0 +1,466 @@
+[
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aecc"},
+    "nome": "Pedido de Abigail Roberts",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Abigail Roberts",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Dinheiro",
+        "quantidade": 5,
+        "tipo": "$",
+        "localizacao": "Na sua carteira",
+        "descricao": "Basta doar $5 para Abigail",
+        "recompensa": "Nenhuma",
+        "completado": false
+      }
+    ],
+    "tags": ["abigail", "dinheiro", "pedido-membro"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aecd"},
+    "nome": "Pedido de Bill Williamson",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Bill Williamson",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Brilhantina",
+        "quantidade": 1,
+        "localizacao": "Residências ou Armazém Geral",
+        "descricao": "Pode ser obtido saqueando residências ou comprado no armazém geral",
+        "formas_obtencao": ["Saque de residências", "Armazém Geral"],
+        "recompensa": "Munição Ligeira",
+        "completado": false
+      }
+    ],
+    "tags": ["bill", "brilhantina", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aece"},
+    "nome": "Pedidos de Charles Smith",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Charles Smith",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Moonshine",
+        "quantidade": 1,
+        "localizacao": "Residências ou Lojas Clandestinas",
+        "descricao": "Pode ser obtido saqueando residências ou comprado em lojas clandestinas",
+        "formas_obtencao": ["Saque de residências", "Lojas Clandestinas"],
+        "recompensa": "Flecha Incendiária",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "item": "Sálvia Oleandro",
+        "quantidade": 1,
+        "localizacao": "Pântano Bluewater, Lemoyne",
+        "regiao": "Lemoyne",
+        "descricao": "Procure nos arredores do Pântano Bluewater, em Lemoyne",
+        "tipo_planta": "Vegetal",
+        "recompensa": "Flecha Envenenada",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "item": "Pena de Águia",
+        "quantidade": 1,
+        "localizacao": "Penhascos ou Pontes",
+        "regiao": "Heartlands/Nova Hanover",
+        "descricao": "Procure no alto de penhascos ou empoleiradas em pontes, como na Travessia do Bardo, em Heartlands",
+        "tipo_material": "Pena",
+        "recompensa": "Reanimador Equino",
+        "completado": false
+      }
+    ],
+    "tags": ["charles", "moonshine", "sálvia", "pena-águia", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aecf"},
+    "nome": "Pedido de Dutch van der Linde",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Dutch van der Linde",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Cachimbo",
+        "quantidade": 1,
+        "localizacao": "Eco de Vetter, Big Valley, West Elizabeth",
+        "regiao": "West Elizabeth",
+        "descricao": "Ao lado da máquina de escrever na cabana em Eco de Vetter. Não é recomendado entrar no local desarmado",
+        "aviso": "Local pode ser perigoso - não entre desarmado",
+        "recompensa": "Esporas",
+        "completado": false
+      }
+    ],
+    "tags": ["dutch", "cachimbo", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed0"},
+    "nome": "Pedidos de Hosea Matthews",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Hosea Matthews",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Livro",
+        "quantidade": 1,
+        "localizacao": "Pomares Hagen, Bayou Nwa, Lemoyne",
+        "regiao": "Lemoyne",
+        "descricao": "Na mesinha de centro na sala da casa em Pomares Hagen",
+        "recompensa": "Isca de Predadores",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "item": "Ginseng Americano",
+        "quantidade": 2,
+        "localizacao": "Floresta Cumberland, Nova Hanover",
+        "regiao": "Nova Hanover",
+        "descricao": "Procure ao leste da Cabana Six Point, na Floresta Cumberland",
+        "tipo_planta": "Vegetal/Erva",
+        "recompensa": "Remédio Potente",
+        "completado": false
+      }
+    ],
+    "tags": ["hosea", "livro", "ginseng", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed1"},
+    "nome": "Pedidos de Jack Marston",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Jack Marston",
+    "status": "Não completado",
+    "disponibilidade": "Capítulos 2-4",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Dedal",
+        "quantidade": 1,
+        "localizacao": "Corpos de inimigos",
+        "descricao": "Obtido aleatoriamente saqueando corpos de inimigos",
+        "formas_obtencao": ["Saque de inimigos"],
+        "recompensa": "Desenho feito por Jack",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "item": "Livro",
+        "quantidade": 1,
+        "localizacao": "Múltiplas localizações",
+        "descricao": "É possível encontrar o item solicitado em 4 locais diferentes",
+        "locais_opcao": [
+          {
+            "numero": 1,
+            "local": "Bosque Osman, Serra Roanoke, Nova Hanover",
+            "detalhe": "Diretamente ao leste do Rancho Emerald"
+          },
+          {
+            "numero": 2,
+            "local": "Escola do vilarejo Serenidade, Scarlett Meadows, Lemoyne"
+          },
+          {
+            "numero": 3,
+            "local": "Repouso de Clawson, Grizzlies do Oeste, Ambarino",
+            "detalhe": "Ao nordeste da Lagoa Cattail"
+          },
+          {
+            "numero": 4,
+            "local": "Rancho Downes, Heartlands, Nova Hanover"
+          }
+        ],
+        "recompensa": "Barra de chocolate",
+        "completado": false
+      }
+    ],
+    "tags": ["jack", "dedal", "livro", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed2"},
+    "nome": "Pedido de Javier Escuella",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Javier Escuella",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Sálvia Oleandro",
+        "quantidade": 1,
+        "localizacao": "Pântano Bluewater, Lemoyne",
+        "regiao": "Lemoyne",
+        "descricao": "Procure nos arredores do Pântano Bluewater, em Lemoyne",
+        "tipo_planta": "Vegetal",
+        "recompensa": "Faca de Arremesso Envenenada",
+        "completado": false
+      }
+    ],
+    "tags": ["javier", "sálvia", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed3"},
+    "nome": "Pedido de Kieran Duffy",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Kieran Duffy",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Bardana",
+        "quantidade": 2,
+        "localizacao": "Rios de Nova Hanover",
+        "regiao": "Nova Hanover",
+        "descricao": "Pode ser encontrado em diferentes pontos de Nova Hanover, geralmente perto de rios",
+        "tipo_planta": "Vegetal",
+        "recompensa": "Estimulante Equino e Panfleto Ração Equina",
+        "completado": false
+      }
+    ],
+    "tags": ["kieran", "bardana", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed4"},
+    "nome": "Pedido de Lenny Summers",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Lenny Summers",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Relógio de Bolso",
+        "quantidade": 1,
+        "localizacao": "Eco de Vetter, Big Valley, West Elizabeth",
+        "regiao": "West Elizabeth",
+        "descricao": "Na escrivaninha da cabana em Eco de Vetter. O mesmo local onde você encontra o cachimbo para o Dutch",
+        "formas_alternativas": ["Saque aleatório de casas", "Saque de corpos em esconderijos de gangues"],
+        "recompensa": "Dinamite",
+        "completado": false
+      }
+    ],
+    "tags": ["lenny", "relógio", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed5"},
+    "nome": "Pedido de Mary-Beth Gaskill",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Mary-Beth Gaskill",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Caneta-Tinteiro",
+        "quantidade": 1,
+        "localizacao": "Bosque Osman, Serra Roanoke, Nova Hanover",
+        "regiao": "Nova Hanover",
+        "descricao": "Na gaveta da mesa de canto da cabana no Bosque Osman. O mesmo local onde você encontra um livro para o Jack",
+        "recompensa": "Anel de Ouro",
+        "completado": false
+      }
+    ],
+    "tags": ["mary-beth", "caneta", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed6"},
+    "nome": "Pedido de Molly O'Shea",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Molly O'Shea",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Espelho de Bolso",
+        "quantidade": 1,
+        "localizacao": "Pretendente de Martha, Grizzlies do Leste, Ambarino",
+        "regiao": "Ambarino",
+        "descricao": "Sobre o criado-mudo no quarto da cabana em Pretendente de Martha",
+        "recompensa": "Charuto",
+        "completado": false
+      }
+    ],
+    "tags": ["molly", "espelho", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed7"},
+    "nome": "Pedidos de Pearson",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Pearson",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Bússola Naval",
+        "quantidade": 1,
+        "localizacao": "Mansão Braithwaite, Scarlett Meadows, Lemoyne",
+        "regiao": "Lemoyne",
+        "descricao": "Sobre uma mesa de trabalho no galpão do píer na Mansão Braithwaite, diretamente ao oeste da mansão",
+        "recompensa": "Rum de Guarma",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "item": "Coelho",
+        "quantidade": 1,
+        "localizacao": "Nova Hanover (vários locais)",
+        "regiao": "Nova Hanover",
+        "descricao": "É possível encontrar coelhos para caçar em praticamente todo o estado de Nova Hanover",
+        "tipo_atividade": "Caça",
+        "recompensa": "Jaqueta de Batedor",
+        "completado": false
+      }
+    ],
+    "tags": ["pearson", "bússola", "coelho", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed8"},
+    "nome": "Pedido de Sadie Adler",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Sadie Adler",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Gaita",
+        "quantidade": 1,
+        "localizacao": "Estação Flatneck, Heartlands, Nova Hanover",
+        "regiao": "Nova Hanover",
+        "descricao": "Na estante atrás da porta na cabana diretamente ao leste da Estação Flatneck. O mesmo lugar onde você obtém o Revólver do Emmet Granger",
+        "recompensa": "Óleo para armas",
+        "completado": false
+      }
+    ],
+    "tags": ["sadie", "gaita", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aed9"},
+    "nome": "Pedido de Sean MacGuire",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Sean MacGuire",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Kentucky Bourbon",
+        "quantidade": 1,
+        "localizacao": "Residências ou Armazém Geral",
+        "descricao": "Pode ser obtido saqueando residências ou comprado no armazém geral",
+        "formas_obtencao": ["Saque de residências", "Armazém Geral"],
+        "recompensa": "Garrafa Incendiária",
+        "completado": false
+      }
+    ],
+    "tags": ["sean", "bourbon", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aeda"},
+    "nome": "Pedido de Susan Grimshaw",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Susan Grimshaw",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Ervas",
+        "quantidade": 2,
+        "localizacao": "Vários locais",
+        "descricao": "Basta coletar duas unidades de ervas usadas como tempero: tomilho, orégano ou menta-silvestre",
+        "opcoes_erba": ["Tomilho", "Orégano", "Menta-silvestre"],
+        "tipo_atividade": "Coleta",
+        "recompensa": "Tônico Miraculoso Potente",
+        "completado": false
+      }
+    ],
+    "tags": ["susan", "ervas", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aedb"},
+    "nome": "Pedido de Tilly Jackson",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Tilly Jackson",
+    "status": "Não completado",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Colar",
+        "quantidade": 1,
+        "localizacao": "Casas ou esconderijos de gangues",
+        "descricao": "Encontrado aleatoriamente saqueando casas ou corpos de inimigos em esconderijos de gangues",
+        "formas_obtencao": ["Saque de casas", "Saque de corpos em esconderijos"],
+        "recompensa": "Remédio (2x)",
+        "completado": false
+      }
+    ],
+    "tags": ["tilly", "colar", "pedido-membro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951af0108bd668f5ee6aedc"},
+    "nome": "Pedido de Tio",
+    "categoria": "Pedidos de Membros",
+    "personagem": "Tio",
+    "status": "Não completado",
+    "disponibilidade": "Epílogo",
+    "pedidos": [
+      {
+        "numero": 1,
+        "item": "Múltiplos itens",
+        "quantidade": 5,
+        "localizacao": "Vários locais",
+        "itens_pedidos": [
+          {
+            "item": "Asclépia",
+            "tipo": "Planta",
+            "localizacao": "Coleta em vários locais"
+          },
+          {
+            "item": "Bala de Hortelã",
+            "tipo": "Doce",
+            "localizacao": "Estábulos (menos óbvio)",
+            "observacao": "Único disponível em estábulos"
+          },
+          {
+            "item": "Brilhantina",
+            "tipo": "Material",
+            "localizacao": "Armazém ou saque"
+          },
+          {
+            "item": "Gambá",
+            "tipo": "Animal",
+            "localizacao": "Caça - noturno"
+          },
+          {
+            "item": "Kentucky Bourbon",
+            "tipo": "Bebida",
+            "localizacao": "Armazém ou saque"
+          }
+        ],
+        "recompensa": "Botas Tornado, Sobrecasaca Clássica, Chapéu Errante e Colete de Fronteira",
+        "completado": false
+      }
+    ],
+    "tags": ["tio", "múltiplos", "epílogo", "pedido-membro"],
+    "prioridade": 1,
+    "notas": "Pedido do Epílogo - disponível apenas no final do jogo"
+  }
+]

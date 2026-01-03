@@ -1,0 +1,53 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51a6"},
+    "nome": "Garra de Raposa",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Outros",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Garra de Raposa Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 23.50,
+    "moeda": "USD",
+    "efeito": "Aumenta duração de Visão de Águia em 5 segundos",
+    "tags": ["bugiganga", "percepção"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51aa"},
+    "nome": "Chifre de Antilocapra",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Outros",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Chifre de Antilocapra Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 24.50,
+    "moeda": "USD",
+    "efeito": "Impede animais a cavalo de estragar",
+    "tags": ["bugiganga", "caça"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145d51ab"},
+    "nome": "Chifre de Carneiro",
+    "categoria_principal": "Bugigangas",
+    "tipo": "Bugiganga",
+    "categoria_efeito": "Outros",
+    "obtido": false,
+    "localizacao": "Loja do Vendedor de Roubos",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Chifre de Carneiro Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "custo": 0,
+    "moeda": "USD",
+    "efeito": "Colher Tomilho Rastejante, Orégano e Hortelã selvagem rende 2x mais ervas",
+    "tags": ["bugiganga", "coleta"],
+    "prioridade": 1
+  }
+]

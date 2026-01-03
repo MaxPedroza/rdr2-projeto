@@ -1,0 +1,128 @@
+[
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea1d"},
+    "nome": "Talismã de Dente de Jacaré",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 40.0,
+    "moeda": "USD",
+    "efeito": "Diminui permanentemente a velocidade de drenagem do núcleo do Dead Eye em 10%",
+    "materiais": [
+      {"nome": "Algemas da Guerra Civil Vintage", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Pulseira com Junta de Ouro", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Dente de Jacaré Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["talismã", "lendário", "jacaré", "deadeye"],
+    "notas": "Requer 3 ingredientes para crafting",
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea1e"},
+    "nome": "Talismã de Garra de Urso",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 34.75,
+    "moeda": "USD",
+    "efeito": "Diminui permanentemente a velocidade de drenagem do núcleo de saúde em 10%",
+    "materiais": [
+      {"nome": "Pulseira com Corrente de Prata", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Quartzo", "tipo": "ITEM", "quantidade": 1, "check": false, "notas": "Encontrado em locais de osso de dinossauro"},
+      {"nome": "Garra de Urso Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["talismã", "lendário", "urso", "saúde"],
+    "notas": "Requer 3 ingredientes para crafting",
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea1f"},
+    "nome": "Talismã de Presa de Javali",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 31.0,
+    "moeda": "USD",
+    "efeito": "Diminui permanentemente a velocidade que os núcleos de saúde e resistência do cavalo drenam em 10%",
+    "materiais": [
+      {"nome": "Brinco de Ouro", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Madeira Petrificada de Cobalto", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Presa de Javali Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["talismã", "lendário", "javali", "cavalo"],
+    "notas": "Requer 3 ingredientes para crafting",
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea20"},
+    "nome": "Talismã de Bisão",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 38.50,
+    "moeda": "USD",
+    "efeito": "Diminui permanentemente a velocidade que o núcleo de resistência drena em 10%",
+    "materiais": [
+      {"nome": "Fragmento de Carapaça de Abalone", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Brinco de Prata", "tipo": "ITEM", "quantidade": 1, "check": false},
+      {"nome": "Chifre de Bisão Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["talismã", "lendário", "bisão", "resistência"],
+    "notas": "Requer 3 ingredientes para crafting",
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea21"},
+    "nome": "Talismã de Garra de Corvo",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 29.0,
+    "moeda": "USD",
+    "efeito": "Retarda permanentemente a degradação de todas as armas em 20%",
+    "materiais": [
+      {"nome": "Bússola de Latão Antigo", "tipo": "ITEM", "quantidade": 1, "check": false, "notas": "Encontrado em locais de escultura em pedra"}
+    ],
+    "tags": ["talismã", "lendário", "corvo", "armas"],
+    "notas": "Melhor proteção de armas entre os talismãs",
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951ab0108bd668f5ee6aea22"},
+    "nome": "Talismã de Olho de Águia",
+    "categoria_principal": "Talismã",
+    "tipo_item": "TALISMÃ",
+    "classificacao": "EXCLUSIVO",
+    "obtido": false,
+    "localizacao": "Edição Especial/Final",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "custo": 0,
+    "moeda": "N/A",
+    "efeito": "Aumenta a duração do Eagle Eye em cinco segundos",
+    "materiais": [],
+    "tags": ["talismã", "exclusivo", "águia", "eagleeye"],
+    "notas": "Apenas em edições especiais/finais do jogo",
+    "prioridade": 3
+  }
+]

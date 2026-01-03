@@ -1,0 +1,103 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec2"},
+    "nome": "Isca para predadores",
+    "categoria": "Receitas",
+    "subcategoria": "ISCAS",
+    "tipo": "Isca",
+    "fonte_panfleto": "Informação tradicional",
+    "disponibilidade": "Durante o jogo",
+    "ingredientes": [
+      {
+        "nome": "Carne fibrosa",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Frutas silvestres (Amora/Mirtilo/Framboesa/Hortelã-verde)",
+        "quantidade": 1,
+        "tipo": "Planta",
+        "opcoes": ["Amora", "Mirtilo", "Framboesa", "Hortelã-verde"]
+      }
+    ],
+    "resultado": {
+      "nome": "Isca para predadores",
+      "quantidade": 1
+    },
+    "descricao": "Isca básica para atrair predadores",
+    "uso": "Caça - atração de predadores",
+    "efetividade": "Predadores (Leões, Pumas, Ursos)",
+    "aprendido": false,
+    "tags": ["isca", "receita", "caça", "predador"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec3"},
+    "nome": "Isca potente para herbívoros",
+    "categoria": "Receitas",
+    "subcategoria": "ISCAS",
+    "tipo": "Isca",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Flor de Baunilha",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Violeta Campânula",
+        "quantidade": 1,
+        "tipo": "Planta"
+      },
+      {
+        "nome": "Cogumelos (Bolete Baio/Cantarelo/Guarda-Chuva/Cabeça de Carneiro)",
+        "quantidade": 1,
+        "tipo": "Planta",
+        "opcoes": ["Bolete Baio", "Cantarelo", "Cogumelo Guarda-Chuva", "Cabeça de Carneiro"]
+      }
+    ],
+    "resultado": {
+      "nome": "Isca potente para herbívoros",
+      "quantidade": 1
+    },
+    "descricao": "Isca potente para atrair herbívoros de forma eficaz",
+    "uso": "Caça - atração de herbívoros",
+    "efetividade": "Herbívoros (Veados, Antílopes, Búfalos, Alces)",
+    "aprendido": false,
+    "tags": ["isca", "receita", "caça", "herbívoro", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aec4"},
+    "nome": "Isca potente para predadores",
+    "categoria": "Receitas",
+    "subcategoria": "ISCAS",
+    "tipo": "Isca",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Carne de peixe granulada",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Frutas silvestres (Amora/Mirtilo/Framboesa/Hortelã-verde)",
+        "quantidade": 1,
+        "tipo": "Planta",
+        "opcoes": ["Amora", "Mirtilo", "Framboesa", "Hortelã-verde"]
+      }
+    ],
+    "resultado": {
+      "nome": "Isca potente para predadores",
+      "quantidade": 1
+    },
+    "descricao": "Isca potente para atrair predadores de forma muito eficaz",
+    "uso": "Caça - atração de predadores",
+    "efetividade": "Predadores (Leões, Pumas, Ursos, Jacarés)",
+    "aprendido": false,
+    "tags": ["isca", "receita", "caça", "predador", "capítulo-2"],
+    "prioridade": 2
+  }
+]

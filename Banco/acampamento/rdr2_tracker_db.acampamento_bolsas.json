@@ -1,0 +1,124 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a1"},
+    "nome": "Bolsa de Tônicos",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a2"},
+    "nome": "Bolsa de Ingredientes",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Texugo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Esquilo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a3"},
+    "nome": "Bolsa de Kit",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Pantera Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a4"},
+    "nome": "Bolsa de Provisões",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Bisão Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Guaxinim Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a5"},
+    "nome": "Bolsa de Materiais",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Iguana Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a6"},
+    "nome": "Bolsa de Itens Valiosos",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bolsa", "cartucheira", "acampamento"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145b51a7"},
+    "nome": "Bolsa Lendária do Leste",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Bolsas",
+    "tipo": "Craftável",
+    "obtido": false,
+    "localizacao": "Acampamento - Pearson",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Craft all other Satchels", "tipo": "AÇÃO", "quantidade": 1, "check": false}],
+    "tags": ["bolsa", "cartucheira", "acampamento", "lendário"],
+    "prioridade": 1
+  }
+]

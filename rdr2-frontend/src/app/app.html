@@ -22,7 +22,7 @@
       <!-- Ícones das categorias principais para trocar colecções -->
       
       <nav class="icon-menu">
-  <div class="menu-item" [class.active]="colecaoAtiva === 'animais'" (click)="carregar('animais')">
+  <div class="menu-item" [class.active]="colecaoAtiva === 'animais_lendarios'" (click)="carregar('animais_lendarios')">
     <div class="circle-icon"><i class="fas fa-paw"></i></div>
     <span class="menu-label-main">ANIMAIS</span>
   </div>
@@ -38,11 +38,11 @@
     <div class="circle-icon"><i class="fas fa-clover"></i></div>
     <span class="menu-label-main">AMULETOS</span>
   </div>
-  <div class="menu-item" [class.active]="colecaoAtiva === 'equipamentos'" (click)="carregar('equipamentos')">
+  <div class="menu-item" [class.active]="colecaoAtiva === 'itens'" (click)="carregar('itens')">
     <div class="circle-icon"><i class="fas fa-briefcase"></i></div>
     <span class="menu-label-main">ITENS</span>
   </div>
-  <div class="menu-item" [class.active]="colecaoAtiva === 'pearson'" (click)="carregar('pearson')">
+  <div class="menu-item" [class.active]="colecaoAtiva === 'acampamento'" (click)="carregar('acampamento')">
     <div class="circle-icon"><i class="fas fa-campground"></i></div>
     <span class="menu-label-main">PEARSON</span>
   </div>
@@ -50,11 +50,11 @@
     <div class="circle-icon"><i class="fas fa-search-location"></i></div>
     <span class="menu-label-main">COLETAS</span>
   </div>
-  <div class="menu-item" [class.active]="colecaoAtiva.includes('trapper')" (click)="carregarTrapperTipo('conjuntos')">
+  <div class="menu-item" [class.active]="colecaoAtiva.includes('armadilheiro')" (click)="carregarTrapperTipo('conjuntos')">
     <div class="circle-icon"><i class="fas fa-hat-cowboy"></i></div>
     <span class="menu-label-main">ARMADILHEIRO</span>
   </div>
-  <div class="menu-item" [class.active]="colecaoAtiva === 'missoes_mundo'" (click)="carregar('missoes_mundo')">
+  <div class="menu-item" [class.active]="colecaoAtiva === 'missoes_secundarias'" (click)="carregar('missoes_secundarias')">
     <div class="circle-icon"><i class="fas fa-globe-americas"></i></div>
     <span class="menu-label-main">MUNDO</span>
   </div>
@@ -92,7 +92,7 @@
           <!-- Abas do armadilheiro e filtro de personagem -->
           
           <!-- ABAS DO ARMADILHEIRO -->
-          <div class="trapper-tabs" *ngIf="colecaoAtiva.includes('trapper')">
+          <div class="trapper-tabs" *ngIf="colecaoAtiva.includes('armadilheiro')">
             <button class="trapper-tab" [class.active]="trapperTipo === 'conjuntos'" (click)="carregarTrapperTipo('conjuntos')">
               <i class="fas fa-shirt"></i> CONJUNTOS
             </button>
@@ -114,7 +114,7 @@
         <!-- ========================================= -->
         <!-- Abas de subcategorias com botões de ação em massa -->
 
-        <div class="sub-menu-row" *ngIf="getGrupos().length > 1 && !colecaoAtiva.includes('trapper')">
+        <div class="sub-menu-row" *ngIf="getGrupos().length > 1 && !colecaoAtiva.includes('armadilheiro')">
           <div class="sub-tab" [class.active]="subFiltroAtivo === 'Todos'" (click)="subFiltroAtivo = 'Todos'">
             <i class="fas fa-list"></i>
             <span>TODOS</span>
@@ -134,8 +134,8 @@
         <!-- ========================================= -->
         <!-- Botões para marcar/desmarcar em massa e campo de busca -->
 
-        <!-- Botões para categorias sem subcategorias (animais, peixes_lendarios, missoes_mundo) -->
-        <div class="subcat-actions" *ngIf="!temSubcategorias() && !colecaoAtiva.includes('trapper')" style="margin-top: 12px; margin-left: 0;">
+        <!-- Botões para categorias sem subcategorias (animais_lendarios, peixes_lendarios, missoes_secundarias) -->
+        <div class="subcat-actions" *ngIf="!temSubcategorias() && !colecaoAtiva.includes('armadilheiro')" style="margin-top: 12px; margin-left: 0;">
           <button class="btn-marcar" (click)="marcarTodosCategoria()" title="Marcar todos os itens"><i class="fas fa-check-double"></i></button>
           <button class="btn-remover" (click)="removerTodosCategoria()" title="Desmarcar todos os itens"><i class="fas fa-times"></i></button>
         </div>
@@ -160,8 +160,8 @@
         <!-- ========================================= -->
         <!-- Lista em grupos expansíveis para Armadilheiro -->
 
-        <!-- MODO GRUPOS (TRAPPER) -->
-        <ng-container *ngIf="colecaoAtiva.includes('trapper')">
+        <!-- MODO GRUPOS (ARMADILHEIRO) -->
+        <ng-container *ngIf="colecaoAtiva.includes('armadilheiro')">
           <div *ngFor="let grupo of getGrupos()" class="grupo-container">
             <!-- HEADER DO GRUPO -->
             <div class="grupo-header" (click)="alternarGrupo(grupo)">
@@ -169,7 +169,7 @@
                 <i class="fas" [class.fa-chevron-down]="gruposExpandidos.has(grupo)" [class.fa-chevron-right]="!gruposExpandidos.has(grupo)"></i>
               </div>
               <div class="grupo-info">
-                <h3 class="grupo-titulo">{{ grupo }}</h3>
+                <h3 class="grupo-titulo"><i class="fas" [ngClass]="getIconeSub(grupo)"></i> {{ grupo }}</h3>
                 <span class="grupo-contador" [class.completo]="isConjuntoCompleto(grupo)">
                   {{ getContagemGrupo(grupo).completos }} / {{ getContagemGrupo(grupo).total }}
                 </span>
@@ -212,13 +212,22 @@
                 <div class="materials-container" *ngIf="item.materiais">
                   <div *ngFor="let m of item.materiais" class="material-row" (click)="alternarSubItem(item, m, $event)">
                     <i class="far" [class.fa-check-circle]="m.check" [class.fa-circle]="!m.check" [class.gold-text]="m.check"></i>
+                    <i class="fas" [ngClass]="'fa-paw'" style="margin-left: 4px; margin-right: 4px; font-size: 0.85em;"></i>
                     <span [class.text-strikethrough]="m.check">{{ m.nome }}</span>
                   </div>
                 </div>
                 
-                <div class="item-details" *ngIf="!item.obtido">
-                  <p *ngIf="item.localizacao"><i class="fas fa-map-marker-alt"></i> {{ item.localizacao }}</p>
-                  <p *ngIf="item.dica || item.isca"><i class="fas fa-circle-info"></i> {{ item.dica || item.isca }}</p>
+                <div class="item-details" *ngIf="!item.obtido && getDetalhesItem(item).length > 0">
+                  <div *ngFor="let detalhe of getDetalhesItem(item)" class="detail-row">
+                    <i class="fas" [ngClass]="'fa-' + detalhe.icone"></i>
+                    <span class="detail-label">{{ detalhe.label }}:</span>
+                    <span class="detail-value" *ngIf="!isArrayDeStrings(detalhe.valor)">{{ detalhe.valor }}</span>
+                    <span class="detail-value" *ngIf="isArrayDeStrings(detalhe.valor)">
+                      <span *ngFor="let val of getArrayValue(detalhe.valor); let last = last">
+                        {{ val }}<span *ngIf="!last">, </span>
+                      </span>
+                    </span>
+                  </div>
                 </div>
               </div>
             </div>
@@ -228,10 +237,52 @@
         <!-- ========================================= -->
         <!-- SEÇÃO 3.5.2 - MODO NORMAL (outras coleções) -->
         <!-- ========================================= -->
-        <!-- Lista simples de itens para categorias não-TRAPPER -->
+        <!-- Lista simples de itens para categorias não-ARMADILHEIRO -->
+
+        <!-- MODO GRUPOS (COLECIONÁVEIS) -->
+        <ng-container *ngIf="colecaoAtiva === 'colecionaveis'">
+          <div *ngFor="let item of itensFiltrados" class="item-card" [class.item-obtained]="item.obtido">
+            <div class="item-main-info" (click)="alternarStatus(item)">
+              <div class="item-identity">
+                <span class="item-icon-indicator">
+                  <i class="fas" [ngClass]="getIconeSub(extrairSubcategoria(item))"></i>
+                </span>
+                <span class="item-name">
+                  {{ formatarNomeExibicao(item) }}
+                  <span class="character-tag" *ngIf="item.personagem">{{ item.personagem }}</span>
+                </span>
+              </div>
+              <div class="item-status">
+                <div class="custom-checkbox" [class.checked]="item.obtido">
+                  <i class="fas fa-check" *ngIf="item.obtido"></i>
+                </div>
+              </div>
+            </div>
+
+            <div class="materials-container" *ngIf="item.materiais">
+              <div *ngFor="let m of item.materiais" class="material-row" (click)="alternarSubItem(item, m, $event)">
+                <i class="far" [class.fa-check-circle]="m.check" [class.fa-circle]="!m.check" [class.gold-text]="m.check"></i>
+                <span [class.text-strikethrough]="m.check">{{ m.nome }}</span>
+              </div>
+            </div>
+
+            <div class="item-details" *ngIf="!item.obtido && getDetalhesItem(item).length > 0">
+              <div *ngFor="let detalhe of getDetalhesItem(item)" class="detail-row">
+                <i class="fas" [ngClass]="'fa-' + detalhe.icone"></i>
+                <span class="detail-label">{{ detalhe.label }}:</span>
+                <span class="detail-value" *ngIf="!isArrayDeStrings(detalhe.valor)">{{ detalhe.valor }}</span>
+                <span class="detail-value" *ngIf="isArrayDeStrings(detalhe.valor)">
+                  <span *ngFor="let val of getArrayValue(detalhe.valor); let last = last">
+                    {{ val }}<span *ngIf="!last">, </span>
+                  </span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </ng-container>
 
         <!-- MODO NORMAL (OUTRAS COLEÇÕES) -->
-        <ng-container *ngIf="!colecaoAtiva.includes('trapper')">
+        <ng-container *ngIf="!colecaoAtiva.includes('armadilheiro') && colecaoAtiva !== 'colecionaveis'">
           <div *ngFor="let item of itensFiltrados" class="item-card" [class.item-obtained]="item.obtido">
             <div class="item-main-info" (click)="alternarStatus(item)">
               <div class="item-identity">
@@ -257,9 +308,17 @@
               </div>
             </div>
             
-            <div class="item-details" *ngIf="!item.obtido">
-              <p *ngIf="item.localizacao"><i class="fas fa-map-marker-alt"></i> {{ item.localizacao }}</p>
-              <p *ngIf="item.dica || item.isca"><i class="fas fa-circle-info"></i> {{ item.dica || item.isca }}</p>
+            <div class="item-details" *ngIf="!item.obtido && getDetalhesItem(item).length > 0">
+              <div *ngFor="let detalhe of getDetalhesItem(item)" class="detail-row">
+                <i class="fas" [ngClass]="'fa-' + detalhe.icone"></i>
+                <span class="detail-label">{{ detalhe.label }}:</span>
+                <span class="detail-value" *ngIf="!isArrayDeStrings(detalhe.valor)">{{ detalhe.valor }}</span>
+                <span class="detail-value" *ngIf="isArrayDeStrings(detalhe.valor)">
+                  <span *ngFor="let val of getArrayValue(detalhe.valor); let last = last">
+                    {{ val }}<span *ngIf="!last">, </span>
+                  </span>
+                </span>
+              </div>
             </div>
           </div>
         </ng-container>

@@ -1,0 +1,124 @@
+[
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aeb8"},
+    "nome": "Cartucho de ponta dividida",
+    "categoria": "Receitas",
+    "subcategoria": "MUNIÇÃO",
+    "tipo": "Munição",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Faca de caça",
+        "quantidade": 1,
+        "tipo": "Ferramenta"
+      },
+      {
+        "nome": "Cartucho comum (exceto espingarda)",
+        "quantidade": 1,
+        "tipo": "Munição"
+      }
+    ],
+    "resultado": {
+      "nome": "Cartucho de ponta dividida",
+      "quantidade": 1
+    },
+    "descricao": "Munição com ponta dividida para maior dano e dispersão",
+    "uso": "Caça e combate",
+    "aprendido": false,
+    "tags": ["munição", "receita", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aeb9"},
+    "nome": "Cartucho explosivo",
+    "categoria": "Receitas",
+    "subcategoria": "MUNIÇÃO",
+    "tipo": "Munição",
+    "fonte_panfleto": "Apresentado no início do Capítulo 2",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      },
+      {
+        "nome": "Cartucho expresso (exceto espingarda)",
+        "quantidade": 1,
+        "tipo": "Munição"
+      }
+    ],
+    "resultado": {
+      "nome": "Cartucho explosivo",
+      "quantidade": 1
+    },
+    "descricao": "Munição com propriedades explosivas",
+    "uso": "Combate - dano de explosão",
+    "aprendido": false,
+    "tags": ["munição", "receita", "explosivo", "capítulo-2"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aeba"},
+    "nome": "Chumbo incendiário",
+    "categoria": "Receitas",
+    "subcategoria": "MUNIÇÃO",
+    "tipo": "Munição",
+    "fonte_panfleto": "Escondido sob o assoalho da cabana em Copperhead Landing. Também vendido por cerca após 'Derramamento de Óleo'",
+    "localizacao": "Copperhead Landing",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Cartucho de Espingarda",
+        "quantidade": 1,
+        "tipo": "Munição"
+      },
+      {
+        "nome": "Aguardente Clandestina",
+        "quantidade": 1,
+        "tipo": "Bebida"
+      }
+    ],
+    "resultado": {
+      "nome": "Chumbo incendiário",
+      "quantidade": 1
+    },
+    "descricao": "Munição de espingarda com propriedades incendiárias",
+    "uso": "Combate - dano de fogo",
+    "aprendido": false,
+    "tags": ["munição", "receita", "fogo", "espingarda"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951ae1808bd668f5ee6aebc"},
+    "nome": "Projétil explosivo",
+    "categoria": "Receitas",
+    "subcategoria": "MUNIÇÃO",
+    "tipo": "Munição",
+    "fonte_panfleto": "Em um baú do lado de fora de uma casa incendiada perto da linha férrea entre Gaptooth Ridge e Cholla Springs. Também vendido perto da cerca após 'Uma curta caminhada em uma cidade bonita'",
+    "localizacao": "Entre Gaptooth Ridge e Cholla Springs",
+    "disponibilidade": "Capítulo 2+",
+    "ingredientes": [
+      {
+        "nome": "Cartucho de espingarda",
+        "quantidade": 1,
+        "tipo": "Munição"
+      },
+      {
+        "nome": "Gordura animal",
+        "quantidade": 1,
+        "tipo": "Material"
+      }
+    ],
+    "resultado": {
+      "nome": "Projétil explosivo",
+      "quantidade": 1
+    },
+    "descricao": "Projétil de espingarda com carga explosiva",
+    "uso": "Combate - dano de explosão para espingarda",
+    "aprendido": false,
+    "tags": ["munição", "receita", "explosivo", "espingarda"],
+    "prioridade": 2
+  }
+]

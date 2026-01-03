@@ -1,0 +1,44 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51dd"},
+    "nome": "Beaver Fowler Boots",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}],
+    "tags": ["armadilheiro", "roupas", "bota", "castor"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51de"},
+    "nome": "Boar Fowler Boots",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "tags": ["armadilheiro", "roupas", "bota", "javali"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51df"},
+    "nome": "Bull Fowler Boots",
+    "categoria_principal": "Armadilheiro",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "materiais": [{"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false}],
+    "tags": ["armadilheiro", "roupas", "bota", "touro"],
+    "prioridade": 1
+  }
+]

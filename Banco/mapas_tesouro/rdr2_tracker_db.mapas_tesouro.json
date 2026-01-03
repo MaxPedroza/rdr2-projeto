@@ -1,0 +1,366 @@
+[
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aedd"},
+    "nome": "Tesouro da Gangue Jack Hall",
+    "categoria": "Mapas de Tesouro",
+    "subcategoria": "JACK_HALL",
+    "tipo": "Sequência de Tesouro",
+    "total_mapas": 3,
+    "recompensa_final": "3 Barras de Ouro",
+    "dificuldade": "Fácil",
+    "personagem": "Arthur/John",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa do Tesouro da Gangue Jack Hall 1",
+        "localizacao_compra": "Estação Flatneck",
+        "vendedor": "Maximo (Caçador de Tesouros)",
+        "preco": "$5 (Recusável - pode matar e sacar)",
+        "disponibilidade": "Capítulo 2+",
+        "localizacao_tesouro": "Assento de Caliban",
+        "regiao": "Heartlands",
+        "descricao": "Formação rochosa singular ao sul de Valentine",
+        "passos": [
+          "Suba a colina pelo lado leste para chegar ao topo",
+          "Siga uma trilha entre as rochas a partir do topo",
+          "Avance pela borda, saltando sobre vãos e escalando saliências",
+          "Chegue a uma grande faixa de granito branco com um pequeno buraco",
+          "Encontre o tesouro e outro mapa dentro"
+        ],
+        "recompensa": "Barra de Ouro + Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa do Tesouro da Gangue Jack Hall 2",
+        "localizacao_obtencao": "Primeiro esconderijo de Jack Hall",
+        "localizacao_tesouro": "Cotorra Springs",
+        "regiao": "Ambarino",
+        "descricao": "A leste da linha divisória entre reservas E e W Grizzlies",
+        "aviso": "Lobo Lendário na área - proceder com cautela",
+        "passos": [
+          "Dirija-se à extremidade oeste da área das nascentes",
+          "Procure um pequeno círculo de formações rochosas únicas",
+          "O tesouro está escondido dentro da pilha de pedras central"
+        ],
+        "recompensa": "Barra de Ouro + Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "nome": "Mapa do Tesouro da Gangue Jack Hall 3",
+        "localizacao_obtencao": "Cotorra Springs",
+        "localizacao_tesouro": "O'Creagh's Run",
+        "regiao": "Ambarino - Grizzlies East",
+        "descricao": "Lago ao norte de Three Sisters, perto de Emerald Ranch",
+        "passos": [
+          "Siga diretamente para o norte em direção às colinas a partir de Emerald Ranch",
+          "Procure a pequena ilha rochosa no meio do lago",
+          "O tesouro está embaixo de uma pedra na ilha"
+        ],
+        "recompensa": "2 Barras de Ouro (Final)",
+        "completado": false
+      }
+    ],
+    "tags": ["tesouro", "jack-hall", "gangue", "ouro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aedf"},
+    "nome": "Tesouro de Alto Risco (High Stakes)",
+    "categoria": "Mapas de Tesouro",
+    "subcategoria": "HIGH_STAKES",
+    "tipo": "Sequência de Tesouro",
+    "total_mapas": 3,
+    "recompensa_final": "3 Barras de Ouro (Último mapa tem 3)",
+    "dificuldade": "Médio",
+    "personagem": "Arthur/John",
+    "obtencao": "Encontro aleatório com caçador de tesouros ou compra com receptador",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa do Tesouro de Alto Risco 1",
+        "localizacao_obtencao": "Encontro aleatório ou compra",
+        "npc": "Caçador de tesouros velho",
+        "locais_encontro": [
+          "Topo de rocha a nordeste de Riggs Station",
+          "Vários locais entre Strawberry e Valentine"
+        ],
+        "forma_obtencao": "Roubo, assassinato, imobilização ou colisão",
+        "localizacao_tesouro": "Cumberland Falls",
+        "regiao": "Heartlands",
+        "descricao": "Oeste de Valentine, próximo à cachoeira",
+        "passos": [
+          "Aproxime-se da base da cachoeira pelo oeste",
+          "Nade até as rochas no lado sul da cachoeira",
+          "Suba pela árvore caída até a lateral da cachoeira",
+          "Suba por trás da queda d'água para coletar o tesouro"
+        ],
+        "recompensa": "Barra de Ouro + Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa do Tesouro de Alto Risco 2",
+        "localizacao_obtencao": "Cumberland Falls",
+        "localizacao_tesouro": "Lagoa Barrow",
+        "regiao": "Ambarino - Grizzlies Oeste",
+        "descricao": "Águas congeladas entre Lago Isabelle e Rocha da Viúva",
+        "passos": [
+          "Siga em direção ao lago congelado",
+          "Procure uma árvore que faça a ponte entre a ilha coberta de gelo",
+          "O tesouro está escondido no nó da ponte de madeira"
+        ],
+        "recompensa": "Barra de Ouro + Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "nome": "Mapa do Tesouro de Alto Risco 3",
+        "localizacao_obtencao": "Lagoa Barrow",
+        "localizacao_tesouro": "Fort Wallace",
+        "regiao": "Floresta Cumberland",
+        "descricao": "Grande formação rochosa diretamente ao lado de Fort Wallace, a nordeste",
+        "dificuldade_escalada": "Alta - Escalada de penhascos complexa",
+        "passos": [
+          "Siga o caminho que leva para leste, contornando a frente do forte",
+          "Vire para subir a colina na parte de trás da grande parede rochosa",
+          "No topo, encontre uma trilha que desce entre os dois picos",
+          "Siga a encosta do penhasco abaixo e vire à esquerda",
+          "Siga a borda e suba a rampa estreita, agachando-se",
+          "Pule sobre o pequeno declive e desça para a próxima plataforma",
+          "Dê um salto para a próxima saliência e agache-se",
+          "Encontre as três barras de ouro no final da saliência"
+        ],
+        "recompensa": "3 Barras de Ouro (Final)",
+        "completado": false
+      }
+    ],
+    "tags": ["tesouro", "alto-risco", "high-stakes", "ouro"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aee1"},
+    "nome": "A Trilha Venenosa (Poisonous Trail)",
+    "subcategoria": "POISONOUS_TRAIL",
+    "categoria": "Mapas de Tesouro",
+    "tipo": "Sequência de Tesouro",
+    "total_mapas": 3,
+    "recompensa_final": "4 Barras de Ouro ($2000)",
+    "dificuldade": "Difícil - Exploração de caverna",
+    "personagem": "Arthur/John",
+    "obtencao": "Encontro aleatório - Não pode ser comprado",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa da Trilha Venenosa 1",
+        "localizacao_obtencao": "Cairn Lake Lodge",
+        "regiao": "Ambarino - Grizzlies Oeste",
+        "descricao": "Sudeste de Colter, até o pequeno Lago Cairn",
+        "local_especifico": "Debaixo da cama em uma caixa trancada saqueável",
+        "passos": [
+          "Vá até West Grizzles",
+          "Siga para sudeste a partir de Colter",
+          "Entre no Cairn Lake Lodge",
+          "Procure debaixo da cama por uma caixa trancada"
+        ],
+        "recompensa": "Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa da Trilha Venenosa 2",
+        "localizacao_obtencao": "Face Rock",
+        "localizacao_tesouro": "Geoglifo da Serpente",
+        "regiao": "Lemoyne - Roanoke Ridge",
+        "descricao": "Formação rochosa que lembra uma cabeça, ao norte de Rhodes e Rancho Hill Haven",
+        "passos": [
+          "Procure pela Face Rock no lado esquerdo da estrada noroeste de Hill Haven Ranch",
+          "Consulte o mapa e siga à direita a partir da parede rochosa",
+          "Passando por uma árvore e descendo a encosta",
+          "Procure atrás do tronco seco da árvore",
+          "Encontre um buraco na base que você pode inspecionar"
+        ],
+        "recompensa": "Próximo Mapa",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "nome": "Mapa da Trilha Venenosa 3",
+        "localizacao_obtencao": "Geoglifo da Serpente",
+        "localizacao_tesouro": "Piscina Elísia - Caverna Secreta",
+        "regiao": "Roanoke Ridge - New Hanover",
+        "descricao": "Caverna escondida com cachoeira e passagem secreta",
+        "dificuldade_exploração": "Muito Difícil - Navegação em caverna com múltiplos caminhos",
+        "passos": [
+          "Siga para o norte do Geoglifo da Serpente até a Piscina Elísia",
+          "Na extremidade norte da piscina, encontre uma grande cachoeira",
+          "Mergulhe de cabeça na cachoeira para encontrar passagem secreta",
+          "Avance além do túnel inicial e ignore o resto da caverna",
+          "Olhe para baixo à direita no primeiro corredor grande",
+          "Encontre uma pequena rampa que desce até um fosso",
+          "No fundo, rastejar por um pequeno buraco na parede à direita",
+          "No próximo cruzamento, siga pela direita (conforme o mapa)",
+          "Passe pelo acampamento abandonado com cofre de valores",
+          "Chegue a uma saliência com um buraco abaixo",
+          "Corra e pule para aterrissar em segurança na saliência mais baixa",
+          "Encontre uma longa encosta que leva a um beco com água",
+          "Suba e inspecione o grande monte de pedras"
+        ],
+        "recompensa": "4 Barras de Ouro (Final)",
+        "recompensa_venda": "$2000 cada barra no receptador",
+        "completado": false
+      }
+    ],
+    "tags": ["tesouro", "trilha-venenosa", "poisonous", "caverna"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aee3"},
+    "nome": "Mapas do Tesouro Rasgados (Eremitas)",
+    "subcategoria": "TORN_MAPS",
+    "categoria": "Mapas de Tesouro",
+    "tipo": "Sequência de Tesouro - Dois Mapas",
+    "total_mapas": 2,
+    "recompensa_final": "Revólver de Otis Miller (Raro) + 6 Fotografias Eróticas",
+    "dificuldade": "Médio - Requer matar eremitas",
+    "personagem": "John Marston (Epílogo)",
+    "disponibilidade": "Apenas no Epílogo",
+    "aviso": "Spoilers da história - Melhor coletar após terminar o jogo",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa do Tesouro Rasgado 1 (Eremita Masculino)",
+        "localizacao": "Manito Glade",
+        "regiao": "Ambarino - Nordeste",
+        "descricao": "Ao norte de Annesburg, seguindo a estrada à direita",
+        "npc": "Eremita Masculino",
+        "caracteristicas": "Casa cercada por cerca e placas de 'Proibida a Entrada'",
+        "passos": [
+          "Vá ao norte de Annesburg",
+          "Siga pela estrada à direita até Manito Glade",
+          "Aproxime-se da casa cercada",
+          "O eremita gritará e ameaçará atirar",
+          "Mate-o para entrar na casa",
+          "Pegue a Espingarda Rara (única chance - não disponível depois)",
+          "Procure em uma gaveta por metade do Mapa do Tesouro Rasgado"
+        ],
+        "itens_adicionais": "Espingarda Rara",
+        "recompensa": "Metade do Mapa (combinar com Mapa 2)",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa do Tesouro Rasgado 2 (Eremita Feminina)",
+        "localizacao": "Lado oeste de West Elizabeth",
+        "regiao": "West Elizabeth",
+        "descricao": "A noroeste de Wallace Station, ao longo do rio Little Creek",
+        "npc": "Eremita Feminina",
+        "caracteristicas": "Casa na mata à direita do rio",
+        "passos": [
+          "Vá para o oeste de West Elizabeth",
+          "Siga o rio Little Creek em direção às montanhas",
+          "A casa estará na mata à direita",
+          "A eremita soltará três cães contra você",
+          "Mate os cães e a eremita",
+          "Procure em uma gaveta por metade do Mapa do Tesouro Rasgado"
+        ],
+        "inimigos": "3 Cães + Eremita Feminina",
+        "recompensa": "Metade do Mapa (combinar com Mapa 1)",
+        "completado": false
+      }
+    ],
+    "localizacao_tesouro": "Caverna perto de Rattlesnake Hollow",
+    "regiao_tesouro": "Armadillo",
+    "descricao_tesouro": "Caverna secreta a noroeste de Armadillo, na divisa do estado",
+    "passos_tesouro": [
+      "Combine as duas metades do mapa",
+      "Siga para a cidade de Armadillo",
+      "A noroeste da cidade, perto de Rattlesnake Hollow",
+      "Encontre a entrada de uma pequena caverna",
+      "Dentro da caverna está o tesouro de Otis Miller",
+      "Abra o tesouro para coletar"
+    ],
+    "recompensa_final": "Revólver de Otis Miller (Raro) + 6 Fotografias Eróticas",
+    "tags": ["tesouro", "rasgado", "eremita", "otis-miller", "revólver"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aee5"},
+    "nome": "Marcos das Riquezas (Landmark of Riches)",
+    "subcategoria": "LANDMARK_OF_RICHES",
+    "categoria": "Mapas de Tesouro",
+    "tipo": "Sequência de Tesouro",
+    "total_mapas": 4,
+    "recompensa_final": "Barras de Ouro",
+    "dificuldade": "Variável",
+    "personagem": "Arthur/John",
+    "descricao": "Série de mapas baseados em marcos geográficos e estruturas antigas",
+    "notas": "Informações limitadas no CSV - Seguir pistas geográficas marcantes",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa do Tesouro Landmark of Riches 1",
+        "status": "Dados limitados",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa do Tesouro Landmark of Riches 2",
+        "status": "Dados limitados",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "nome": "Mapa do Tesouro Landmark of Riches 3",
+        "status": "Dados limitados",
+        "completado": false
+      },
+      {
+        "numero": 4,
+        "nome": "Mapa do Tesouro Landmark of Riches 4",
+        "status": "Dados limitados",
+        "completado": false
+      }
+    ],
+    "tags": ["tesouro", "marcos", "landmark", "riquezas"],
+    "prioridade": 2,
+    "aviso": "Informações incompletas - Buscar fontes adicionais para detalhes completos"
+  },
+  {
+    "_id": {"$oid": "6951afb008bd668f5ee6aee7"},
+    "subcategoria": "ELEMENTAL_TRAIL",
+    "nome": "A Trilha Elemental (Elemental Trail)",
+    "categoria": "Mapas de Tesouro",
+    "tipo": "Sequência de Tesouro",
+    "total_mapas": 3,
+    "recompensa_final": "Barras de Ouro",
+    "dificuldade": "Variável",
+    "personagem": "Potencialmente John (Epílogo)",
+    "descricao": "Série de mapas temáticos baseados em elementos e características naturais",
+    "notas": "Informações limitadas no CSV - Títulos indicam conexão com elementos naturais",
+    "mapas": [
+      {
+        "numero": 1,
+        "nome": "Mapa do Tesouro da Trilha Elemental 1",
+        "status": "Dados limitados",
+        "completado": false
+      },
+      {
+        "numero": 2,
+        "nome": "Mapa do Tesouro da Trilha Elemental 2",
+        "status": "Dados limitados",
+        "completado": false
+      },
+      {
+        "numero": 3,
+        "nome": "Mapa do Tesouro da Trilha Elemental 3",
+        "status": "Dados limitados",
+        "completado": false
+      }
+    ],
+    "tags": ["tesouro", "elemental", "trilha", "elementos"],
+    "prioridade": 2,
+    "aviso": "Informações incompletas - Buscar fontes adicionais para detalhes completos"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae99"},
+    "nome": "Urso-cinzento Lendário Bharati",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Grizzlies East",
+    "regiao": "Grizzlies",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Grizzlies",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "capitulo_arthur": 2,
+      "notas": "Faz parte da história principal, liberado no Capítulo 2"
+    },
+    "materiais": [
+      {"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false},
+      {"nome": "Vender Pele no Armadilheiro", "tipo": "AÇÃO", "check": false},
+      {"nome": "Criar Talismã de Garra de Urso", "tipo": "AÇÃO", "check": false}
+    ],
+    "tags": ["animal-lendário", "urso", "arthurjohn"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae9b"},
+    "nome": "Lobo Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Cotorra Springs, a oeste de Bacchus Station",
+    "regiao": "Grizzlies",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Grizzlies",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Encontrado em Cotorra Springs"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "lobo", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6ae9d"},
+    "nome": "Alce Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Roanoke Valley, a leste de Doverhill",
+    "regiao": "Grizzlies",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Grizzlies",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Região nordeste do mapa"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "alce", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea0"},
+    "nome": "Castor Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "Em uma represa de castores a oeste de Van Horn Trading Post, na margem leste do rio",
+    "regiao": "Grizzlies",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Grizzlies",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Van Horn Trading Post"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "castor", "arthurjohn"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aee108bd668f5ee6aea3"},
+    "nome": "Uapiti Lendário",
+    "categoria_principal": "Animal",
+    "tipo_item": "ANIMAL_LENDÁRIO",
+    "classificacao": "LENDÁRIO",
+    "obtido": false,
+    "localizacao": "A leste de Fort Wallace e ao sul de Bacchus Station",
+    "regiao": "Grizzlies",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "regiao": "Grizzlies",
+      "acessivel_arthur": true,
+      "acessivel_john": true,
+      "notas": "Próximo a Fort Wallace"
+    },
+    "materiais": [{"nome": "Abater e Esfolar", "tipo": "AÇÃO", "check": false}],
+    "tags": ["animal-lendário", "uapiti", "arthurjohn"],
+    "prioridade": 2
+  }
+]

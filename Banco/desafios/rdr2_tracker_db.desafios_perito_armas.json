@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c1"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 1,
+    "descricao": "Mate 3 inimigos com uma faca.",
+    "recompensas": "Coldre de Perito em Armas",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c2"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 2,
+    "descricao": "Mate 3 inimigos em 10 segundos usando apenas facas de arremesso.",
+    "recompensas": "25 XP de Vida e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c3"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 3,
+    "descricao": "Mate 3 aves de rapina usando um tomahawk.",
+    "recompensas": "Cinto de Perito em Armas com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c4"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 4,
+    "descricao": "Mate 10 inimigos com uma escopeta com munição criada.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c5"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 5,
+    "descricao": "Mate 5 inimigos montados usando uma única faca de arremesso por morte.",
+    "recompensas": "50 XP de Vida e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c6"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 6,
+    "descricao": "Mate 4 inimigos ao mesmo tempo com uma única banana de dinamite.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c7"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 7,
+    "descricao": "Mate 4 inimigos consecutivos arremessando e recuperando o mesmo tomahawk.",
+    "recompensas": "Coldre Secundário de Perito em Armas",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c8"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 8,
+    "descricao": "Mate 15 inimigos usando uma arma curta com cano longo.",
+    "recompensas": "100 XP de Vida e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02c9"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 9,
+    "descricao": "Mate, por trás, 9 inimigos distraídos usando o arco.",
+    "recompensas": "150 XP de Vida e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02ca"},
+    "subcategoria": "Perito em Armas",
+    "nivel": 10,
+    "descricao": "Mate um urso-cinzento usando apenas facas de arremesso e sem sofrer dano.",
+    "recompensas": "Cartucheira de Perito em Armas",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

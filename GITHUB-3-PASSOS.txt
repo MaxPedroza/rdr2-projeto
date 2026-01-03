@@ -1,0 +1,52 @@
+═══════════════════════════════════════════════════════════════════════════════
+                    ⚡ ÚLTIMAS 3 LINHAS DE COMANDO ⚡
+═══════════════════════════════════════════════════════════════════════════════
+
+SEU REPOSITÓRIO LOCAL JÁ ESTÁ CRIADO E COMMITADO!
+
+Agora é só fazer upload para GitHub em 3 passos:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+1️⃣  CRIAR REPOSITÓRIO NO GITHUB
+
+    Acesse: https://github.com/new
+    
+    Preenchimento:
+    ┌────────────────────────────────┐
+    │ Repository name: rdr2-projeto   │
+    │ Visibility: Public              │
+    │ Clique em "Create repository"   │
+    └────────────────────────────────┘
+    
+    → Copie a URL que aparecer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+2️⃣  CONECTAR SEU REPOSITÓRIO LOCAL
+
+    No PowerShell (substitua SEU-USUARIO):
+
+    git remote add origin https://github.com/SEU-USUARIO/rdr2-projeto.git
+
+    EXEMPLO:
+    git remote add origin https://github.com/MaxwellPedroza/rdr2-projeto.git
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+3️⃣  FAZER PUSH PARA GITHUB
+
+    git branch -M main
+    git push -u origin main
+
+    Pronto! ✅
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Depois, acesse:
+
+    https://github.com/SEU-USUARIO/rdr2-projeto
+
+E veja seu código lá! 🎉
+
+═══════════════════════════════════════════════════════════════════════════════

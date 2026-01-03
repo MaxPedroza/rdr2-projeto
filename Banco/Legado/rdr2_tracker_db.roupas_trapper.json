@@ -1,0 +1,625 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c1"},
+    "nome": "Badger Mountain Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Texugo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "texugo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c2"},
+    "nome": "Beaver Mountain Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "castor"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c3"},
+    "nome": "Fox Mountain Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Raposa Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "raposa"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c4"},
+    "nome": "Squirrel Flat Cap",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Esquilo Perfeita", "tipo": "ANIMAL", "quantidade": 6, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "esquilo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c5"},
+    "nome": "Rabbit Flat Cap",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "coelho"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c6"},
+    "nome": "Rat Infantry Hardee Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Rato Almiscarado Perfeita", "tipo": "ANIMAL", "quantidade": 10, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "rato"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c7"},
+    "nome": "Bear Grenadier Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Urso Negro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "urso"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c8"},
+    "nome": "Deer Cavalry Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "gamo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51c9"},
+    "nome": "Bison Gambler's Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Bisão Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "bisão"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ca"},
+    "nome": "Wolf Cavalry Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "lobo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51cb"},
+    "nome": "Iguana Big Valley Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Iguana Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "iguana"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51cc"},
+    "nome": "Gila Monster Gambler's Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Monstro de Gila Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "gila-monster"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51cd"},
+    "nome": "Snake Bulldogger Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Cobra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "cobra"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ce"},
+    "nome": "Coyote Stalker Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Coiote Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "coiote"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51cf"},
+    "nome": "Pronghorn Mountain Hat",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Chapéus",
+    "tipo": "Chapéu",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["chapéu", "trapper", "antilocapra"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d0"},
+    "nome": "Stalker Vest",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Urso Negro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["colete", "trapper", "stalker"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d1"},
+    "nome": "Scavenger Vest",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["colete", "trapper", "scavenger"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d2"},
+    "nome": "Pioneer Vest",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Coletes",
+    "tipo": "Colete",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["colete", "trapper", "pioneer"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d3"},
+    "nome": "Wolf Batwing Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "lobo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d4"},
+    "nome": "Elk Batwing Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "alce"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d5"},
+    "nome": "Cougar Half Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Pantera Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "pantera"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d6"},
+    "nome": "Bison Batwing Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Bisão Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "bisão"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d7"},
+    "nome": "Ram Half Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Carneiro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "carneiro"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d8"},
+    "nome": "Moose Half Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "alce"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51d9"},
+    "nome": "Deer Half Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "gamo"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51da"},
+    "nome": "Coyote Fringed Shotgun Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Coiote Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "coiote"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51db"},
+    "nome": "Boar Fringed Shotgun Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "javali"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51dc"},
+    "nome": "Bull Fringed Shotgun Chaps",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Perneiras",
+    "tipo": "Perneira",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["perneira", "trapper", "touro"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51dd"},
+    "nome": "Beaver Fowler Boots",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["bota", "trapper", "castor"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51de"},
+    "nome": "Boar Fowler Boots",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bota", "trapper", "javali"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51df"},
+    "nome": "Bull Fowler Boots",
+    "categoria_principal": "Roupas Trapper",
+    "subcategoria": "Botas",
+    "tipo": "Bota",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["bota", "trapper", "touro"],
+    "prioridade": 1
+  }
+]

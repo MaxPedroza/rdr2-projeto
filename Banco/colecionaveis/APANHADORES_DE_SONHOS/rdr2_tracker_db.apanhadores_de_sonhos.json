@@ -1,0 +1,170 @@
+[
+  {
+    "_id": {"$oid": "6951aa5208bd668f5ee6ae83"},
+    "nome": "Apanhadores de Sonhos - NOVA HANOVER",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "APANHADORES_DE_SONHOS",
+    "tipo": "Coleção",
+    "regiao": "Nova Hanover",
+    "obtido": false,
+    "localizacao": "Heartlands e Roanoke Ridge",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "numero": 1,
+        "descricao": "Ao oeste da letra 'N' da palavra Heartlands no mapa",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 2,
+        "descricao": "Pouco antes da bifurcação da estrada, ao sudoeste de Limpany",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 3,
+        "descricao": "Ao oeste do Leito de Caliban. A árvore fica do lado norte da estrada que beira o Rio Dakota",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 4,
+        "descricao": "Ao leste da Cabana do Lucky e ao sul do primeiro 'E' de Valentine",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 5,
+        "descricao": "Diretamente ao leste de Valentine e ao nordeste de Citadel Rock. Entre o trilho e a estrada",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 6,
+        "descricao": "Ao nordeste do Mirante Horseshoe e ao leste da letra 'E' de New",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 7,
+        "descricao": "Ao nordeste da Fazenda Guthrie e ao leste do menor corpo d'água de Heartlands",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 8,
+        "descricao": "No interior da letra 'O' da palavra Hanover no mapa",
+        "localizacao": "Heartlands",
+        "check": false
+      },
+      {
+        "numero": 9,
+        "descricao": "Perto da estrada que leva à Fazenda Aberdeen pelo sul, ao norte da letra 'B' de Bluewater",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      },
+      {
+        "numero": 10,
+        "descricao": "Ao sul da Lagoa Elysian, perto da letra 'E' de Hanover",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      },
+      {
+        "numero": 11,
+        "descricao": "Ao nordeste da Lagoa Elysian e ao sul da letra 'S' de Annesburg, no lado leste da estrada",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      },
+      {
+        "numero": 12,
+        "descricao": "Ao nordeste da localização anterior e ao sul da letra 'U' de Annesburg",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      },
+      {
+        "numero": 13,
+        "descricao": "Na bifurcação da estrada acima do segundo 'N' de Annesburg",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      },
+      {
+        "numero": 14,
+        "descricao": "Na região norte do Vale Roanoke, ao sudoeste do Chalé do Cervo, ao leste do Rio Kamassa",
+        "localizacao": "Roanoke Ridge",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "apanhadores-sonhos", "nova-hanover", "heartlands", "roanoke-ridge"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aa5208bd668f5ee6ae84"},
+    "nome": "Apanhadores de Sonhos - LEMOYNE",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "APANHADORES_DE_SONHOS",
+    "tipo": "Coleção",
+    "regiao": "Lemoyne",
+    "obtido": false,
+    "localizacao": "Scarlett Meadows",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "numero": 15,
+        "descricao": "Ao oeste da Fazenda Aberdeen e ao sul da Estação Emerald",
+        "localizacao": "Scarlett Meadows",
+        "check": false
+      },
+      {
+        "numero": 16,
+        "descricao": "Ao sudoeste do local anterior e ao noroeste da Cabana Lonnie, perto da estrada",
+        "localizacao": "Scarlett Meadows",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "apanhadores-sonhos", "lemoyne", "scarlett-meadows"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aa5208bd668f5ee6ae85"},
+    "nome": "Apanhadores de Sonhos - AMBARINO",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "APANHADORES_DE_SONHOS",
+    "tipo": "Coleção",
+    "regiao": "Ambarino",
+    "obtido": false,
+    "localizacao": "Grizzlies Oeste e Leste",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "numero": 17,
+        "descricao": "Ao nordeste da Lagoa Cattail e ao oeste de Clawson's Rest",
+        "localizacao": "Grizzlies Oeste",
+        "check": false
+      },
+      {
+        "numero": 18,
+        "descricao": "No meio do caminho entre Clawson's Rest e Chez Porter, ao sul da letra 'B' de Ambarino",
+        "localizacao": "Grizzlies Oeste",
+        "check": false
+      },
+      {
+        "numero": 19,
+        "descricao": "Ao leste da Fonte Cotorra, cruzando a estrada antes da bifurcação, ao norte do trilho",
+        "localizacao": "Grizzlies Leste",
+        "check": false
+      },
+      {
+        "numero": 20,
+        "descricao": "Ao oeste d'O Bastião, no canto nordeste de Ambarino. A árvore tem galhos secos",
+        "localizacao": "Grizzlies Leste",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "apanhadores-sonhos", "ambarino", "grizzlies"],
+    "prioridade": 2
+  }
+]

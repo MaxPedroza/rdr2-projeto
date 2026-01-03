@@ -1,0 +1,480 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a1"},
+    "nome": "The Bear Hunter",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Bear Head Hat",
+      "Legendary Bear Coat",
+      "Legendary Bear Roper",
+      "Boar Riding Gloves"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Urso Lendária", "tipo": "ANIMAL", "quantidade": 3, "check": false},
+      {"nome": "Pele de Bisão Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "bear"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a2"},
+    "nome": "The Trophy Buck",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Raccoon Mountain Hat",
+      "Legendary Buck Vest",
+      "Legendary Fox Moccasins",
+      "Legendary Buck & Fox Range Gloves"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Guaxinim Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pena de Gavião", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Gamo Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Carneiro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Raposa Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "buck"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a3"},
+    "nome": "The Dreamcatcher",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Beaver Flop Hat",
+      "Legendary Bison Vest",
+      "Legendary Bison Batwing Chaps",
+      "Legendary Boar & Bison Fowlers"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Castor Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pena de Cardeal", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Bisão Tatanka Lendária", "tipo": "ANIMAL", "quantidade": 3, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "dreamcatcher"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a4"},
+    "nome": "The Beast of Prey",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Cougar Flop Hat",
+      "Legendary Cougar & Wolf Vest",
+      "Legendary Wolf Batwing Chaps",
+      "Bull Fowler Boots"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Pantera Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pena de Peru", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Lobo Lendário", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cabra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "cougar"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a5"},
+    "nome": "The Huntsman",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Coyote Mountain Hat",
+      "Legendary Pronghorn Coat",
+      "Legendary Coyote Half Chaps",
+      "Workman's Pride Boots"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Coiote Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pena de Águia", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Antilocapra Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Raposa Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Vaca Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cabra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Rato Almiscarado Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "huntsman"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a6"},
+    "nome": "The Death Roll",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Alligator Gambler's Hat",
+      "Legendary Panther Cloak",
+      "Legendary Alligator Vest",
+      "Legendary Alligator Fowlers"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Jacaré Lendária", "tipo": "ANIMAL", "quantidade": 3, "check": false},
+      {"nome": "Pele de Cobra Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Pantera Lendária", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Monstro de Gila Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "alligator"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a7"},
+    "nome": "The Stalker",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary Ram Hat",
+      "Legendary Moose Hunting Jacket",
+      "Legendary Ram Batwing Chaps",
+      "Legendary Moose Moccasins"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Carneiro Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Alce Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Vaca Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "stalker"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a8"},
+    "nome": "The Ghost Bison",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Legendary White Bison Hat",
+      "Legendary White Bison Coat",
+      "Legendary Elk Half Chaps",
+      "Legendary Elk Moccasins"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Bisão Branco Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Alce Lendária", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Ovelha Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cabra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "bison"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51a9"},
+    "nome": "The Rattler",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Ram Sombrero",
+      "Outdoorsman Vest",
+      "Javelina Half Chaps",
+      "Iguana Range Gloves"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Carneiro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Caititu Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cobra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Iguana Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "rattler"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51aa"},
+    "nome": "The Wrangler",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Goat Flop Hat",
+      "Trapper's Coat",
+      "No-Man's Vest",
+      "Two Toned Moccasins"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cabra Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Ovelha Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Pantera Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "wrangler"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ab"},
+    "nome": "The Bronco Buster",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Elk Flop Hat",
+      "Coyote Scout Jacket",
+      "Huntsman Vest",
+      "Boar Fringed Shotgun Chaps"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Couro de Boi Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Coiote Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Ovelha Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Porco Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "bronco"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ac"},
+    "nome": "The Marauder",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Muskrat Cavalry Hat",
+      "Principal Vest",
+      "Bull Fringed Shotgun Chaps",
+      "Snake Skin Cavalry Gloves"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 4, "check": false},
+      {"nome": "Pele de Rato Almiscarado Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Vaca Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cervo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Couro de Touro Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Cobra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "marauder"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ad"},
+    "nome": "The Bounty Hunter",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Plantation Slouch Hat",
+      "Beaver Hunting Jacket",
+      "Sheepskin Vest",
+      "Pronghorn Half Chaps"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Bisão Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Vaca Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Ovelha Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Antilocapra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "bounty-hunter"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51ae"},
+    "nome": "The Desperado",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Beaver Drifter Hat",
+      "Wolf Coat",
+      "Billy Vest",
+      "Boar & Bull Fowler Boots"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Carneiro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Tatu Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Cabra Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Couro de Boi Perfeito", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Javali Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Coelho Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Rato Almiscarado Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "desperado"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51af"},
+    "nome": "The Night Wrangler",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Coyote Gambler's Hat",
+      "Cougar Cutaway Coat",
+      "Wilderness Vest",
+      "Moose Half Chaps"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Coiote Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Pantera Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Urso Negro Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Lobo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Texugo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "night-wrangler"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145f51b0"},
+    "nome": "The Mountain Man",
+    "categoria_principal": "Conjuntos Trapper",
+    "tipo": "Outfit Set",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "itens": [
+      "Grenadier Hat",
+      "Ram Shotgun Coat",
+      "Country Vest",
+      "Elk Riding Gloves"
+    ],
+    "materiais_totais": [
+      {"nome": "Pele de Rato Almiscarado Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Castor Perfeita", "tipo": "ANIMAL", "quantidade": 2, "check": false},
+      {"nome": "Pele de Carneiro Perfeita", "tipo": "ANIMAL", "quantidade": 3, "check": false},
+      {"nome": "Pele de Gamo Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false},
+      {"nome": "Pele de Alce Perfeita", "tipo": "ANIMAL", "quantidade": 1, "check": false}
+    ],
+    "tags": ["conjunto", "trapper", "mountain"],
+    "prioridade": 1
+  }
+]

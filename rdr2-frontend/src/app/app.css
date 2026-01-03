@@ -372,6 +372,47 @@
   color: var(--text-dim);
   border-top: 1px solid #222;
   padding-top: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.detail-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  color: #aaa;
+}
+
+.detail-row i {
+  color: var(--gold);
+  width: 14px;
+  text-align: center;
+  font-size: 0.75rem;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.detail-label {
+  font-weight: 500;
+  color: #888;
+  min-width: 85px;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.detail-value {
+  color: #ccc;
+  flex: 1;
+  word-break: break-word;
+  line-height: 1.4;
+  font-size: 0.8rem;
+}
+
+.item-details .detail-value i {
+  margin-right: 4px;
 }
 
 /* ===================================================== */

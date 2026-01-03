@@ -1,0 +1,197 @@
+[
+  {
+    "_id": {"$oid": "6951aaef08bd668f5ee6ae86"},
+    "nome": "Artigos Exóticos - Lista 1",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ARTIGOS_EXOTICOS",
+    "tipo": "Coleção",
+    "lista": 1,
+    "obtido": false,
+    "localizacao": "Bayou Nwa, Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "nome": "Plumas de Garcinha-Branca",
+        "quantidade": 5,
+        "localizacao": "Rio Kamassa (oeste de Pomares Hagen), trilho do trem (norte de Baygall), pântano leste de Shady Belle",
+        "check": false
+      },
+      {
+        "nome": "Plumas de Garça-Vermelha",
+        "quantidade": 5,
+        "localizacao": "Mesmas áreas da Garcinha-Branca",
+        "check": false
+      },
+      {
+        "nome": "Plumas de Garça-Branca-Pequena",
+        "quantidade": 5,
+        "localizacao": "Mesmas áreas da Garcinha-Branca",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Dama-da-Noite",
+        "quantidade": 15,
+        "localizacao": "Troncos de árvores ao norte da Fazenda Caliga, entre Rio Kamassa e Pomares Hagen",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "exotico", "lista-1", "lemoyne", "bayou"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aaef08bd668f5ee6ae87"},
+    "nome": "Artigos Exóticos - Lista 2",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ARTIGOS_EXOTICOS",
+    "tipo": "Coleção",
+    "lista": 2,
+    "obtido": false,
+    "localizacao": "West Elizabeth e Nova Hanover",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "nome": "Plumas de Garça-Grande",
+        "quantidade": 20,
+        "localizacao": "Entre Saint Denis e Pântano Bluewater, Lemoyne",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Sapatinhos-de-Vênus",
+        "quantidade": 7,
+        "localizacao": "Big Valley, West Elizabeth. Entre Floresta dos Ossos Negros e Rancho Pronghorn",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Sapatinho",
+        "quantidade": 10,
+        "localizacao": "Serra Roanoke, Nova Hanover. Ao redor de Butcher Strait e sul de Lagoa Elysian",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "exotico", "lista-2", "west-elizabeth", "nova-hanover"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aaef08bd668f5ee6ae88"},
+    "nome": "Artigos Exóticos - Lista 3",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ARTIGOS_EXOTICOS",
+    "tipo": "Coleção",
+    "lista": 3,
+    "obtido": false,
+    "localizacao": "Bayou Nwa, Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "nome": "Ovos de Jacaré",
+        "quantidade": 25,
+        "localizacao": "Ninhos em Lagras e pântano leste de Shady Belle, Bayou Nwa",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Cometa",
+        "quantidade": 3,
+        "localizacao": "Troncos de árvores sul da Mansão Canebreak e leste de Lagras",
+        "check": false
+      },
+      {
+        "nome": "Bisturis-do-Mato",
+        "quantidade": 7,
+        "localizacao": "Leste do Pântano Bluewater, em troncos de árvores",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Fantasma",
+        "quantidade": 5,
+        "localizacao": "Troncos de árvores pântano leste de Shady Belle",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "exotico", "lista-3", "lemoyne", "bayou"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aaef08bd668f5ee6ae89"},
+    "nome": "Artigos Exóticos - Lista 4",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ARTIGOS_EXOTICOS",
+    "tipo": "Coleção",
+    "lista": 4,
+    "obtido": false,
+    "localizacao": "Bayou Nwa e Scarlett Meadows, Lemoyne",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "nome": "Plumas de Colhereiro-Americano",
+        "quantidade": 30,
+        "localizacao": "Rio Lannahechee e Pântano Bluewater leste, próximo a Baygall",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Cheiro-da-Noite",
+        "quantidade": 5,
+        "localizacao": "Troncos de árvores sudeste da Mansão Braithwaite, Scarlett Meadows",
+        "aviso": "Cuidado com pantera na região",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Cauda-de-Rato",
+        "quantidade": 10,
+        "localizacao": "Troncos de árvores ao redor de Lagras e Lakay",
+        "check": false
+      },
+      {
+        "nome": "Caladenias",
+        "quantidade": 5,
+        "localizacao": "Mesma área da Orquídea Dama-da-Noite (norte de Fazenda Caliga)",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "exotico", "lista-4", "lemoyne", "bayou"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951aaef08bd668f5ee6ae8a"},
+    "nome": "Artigos Exóticos - Lista 5",
+    "categoria_principal": "Colecionáveis",
+    "subcategoria": "ARTIGOS_EXOTICOS",
+    "tipo": "Coleção",
+    "lista": 5,
+    "obtido": false,
+    "localizacao": "Bayou Nwa e Grizzlies, múltiplas regiões",
+    "personagem": "Arthur/John",
+    "disponibilidade": {"personagem": "Arthur/John", "acessivel_arthur": true, "acessivel_john": true},
+    "itens": [
+      {
+        "nome": "Orquídeas-Polvo",
+        "quantidade": 5,
+        "localizacao": "Troncos de árvores pântano leste de Shady Belle, Bayou Nwa",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Boca-de-Dragão",
+        "quantidade": 5,
+        "localizacao": "Margens e imediações da Lagoa O'Creagh, Grizzlies Leste, Ambarino",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Rainha",
+        "quantidade": 5,
+        "localizacao": "Lagras, Bayou Nwa. Várias em pequenas ilhas do pântano",
+        "check": false
+      },
+      {
+        "nome": "Orquídeas Ovo-de-Pardal",
+        "quantidade": 10,
+        "localizacao": "Serra Roanoke, Nova Hanover. Região e imediações de Annesburg",
+        "check": false
+      }
+    ],
+    "tags": ["colecionavel", "exotico", "lista-5", "lemoyne", "ambarino"],
+    "prioridade": 2
+  }
+]

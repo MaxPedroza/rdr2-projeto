@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c1"},
+    "subcategoria": "Explorador",
+    "nivel": 1,
+    "descricao": "Encontre um mapa do tesouro.",
+    "recompensas": "Coldre de Explorador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c2"},
+    "subcategoria": "Explorador",
+    "nivel": 2,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "25 XP de Fôlego e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c3"},
+    "subcategoria": "Explorador",
+    "nivel": 3,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "Cartucheira de Explorador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c4"},
+    "subcategoria": "Explorador",
+    "nivel": 4,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "50 XP de Fôlego e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c5"},
+    "subcategoria": "Explorador",
+    "nivel": 5,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "50 XP de Fôlego e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c6"},
+    "subcategoria": "Explorador",
+    "nivel": 6,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "100 XP de Fôlego e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c7"},
+    "subcategoria": "Explorador",
+    "nivel": 7,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "Cinto de Explorador",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c8"},
+    "subcategoria": "Explorador",
+    "nivel": 8,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "100 XP de Fôlego e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01c9"},
+    "subcategoria": "Explorador",
+    "nivel": 9,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "150 XP de Fôlego e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01ca"},
+    "subcategoria": "Explorador",
+    "nivel": 10,
+    "descricao": "Encontre um tesouro.",
+    "recompensas": "Coldre Secundário de Explorador",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

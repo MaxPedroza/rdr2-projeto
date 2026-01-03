@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a1"},
+    "subcategoria": "Bandido",
+    "nivel": 1,
+    "descricao": "Assalte 5 habitantes.",
+    "recompensas": "Cartucheira de Bandido",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a2"},
+    "subcategoria": "Bandido",
+    "nivel": 2,
+    "descricao": "Roube 2 carruagens ou revenda 2 carruagens roubadas na loja clandestina.",
+    "recompensas": "25 XP de Olhos da Morte e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a3"},
+    "subcategoria": "Bandido",
+    "nivel": 3,
+    "descricao": "Roube a caixa registradora de quaisquer 4 lojas em um dia.",
+    "recompensas": "Coldre de Bandido",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a4"},
+    "subcategoria": "Bandido",
+    "nivel": 4,
+    "descricao": "Roube três carruagens ou revenda 3 carruagens roubadas na loja clandestina em um dia.",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a5"},
+    "subcategoria": "Bandido",
+    "nivel": 5,
+    "descricao": "Alcance uma recompensa de $250 por sua cabeça em um estado.",
+    "recompensas": "50 XP de Olhos da Morte e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a6"},
+    "subcategoria": "Bandido",
+    "nivel": 6,
+    "descricao": "Roube 5 cavalos e os venda para o revendedor de cavalos na Enseada Clemens.",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a7"},
+    "subcategoria": "Bandido",
+    "nivel": 7,
+    "descricao": "Roube $50 em dinheiro e itens de valor dos habitantes e viajantes.",
+    "recompensas": "Coldre Secundário de Bandido",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a8"},
+    "subcategoria": "Bandido",
+    "nivel": 8,
+    "descricao": "Roube 7 carroças e as venda ao revendedor no Rancho Emerald.",
+    "recompensas": "100 XP de Olhos da Morte e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01a9"},
+    "subcategoria": "Bandido",
+    "nivel": 9,
+    "descricao": "Amarre uma pessoa e a deixe nos trilhos de trem 3 vezes.",
+    "recompensas": "150 XP de Olhos da Morte e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c01aa"},
+    "subcategoria": "Bandido",
+    "nivel": 10,
+    "descricao": "Conclua 5 roubos de trem sem morrer ou ser capturado.",
+    "recompensas": "Cinto de Bandido com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

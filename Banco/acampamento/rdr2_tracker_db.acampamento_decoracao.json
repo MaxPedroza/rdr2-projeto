@@ -1,0 +1,298 @@
+[
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea35"},
+    "nome": "Lenda do Oeste - Mapa",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Decoração",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Veado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Suçuaruna",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Lobo",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "decoração", "fogueira"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea38"},
+    "nome": "Mesa de Acampamento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Mesa",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Mesa",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Antilocapra",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "mesa"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea39"},
+    "nome": "Chuckwagon",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Chuckwagon",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Chuckwagon",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Carcaça de Antilocapra",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "chuckwagon"],
+    "prioridade": 2
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3a"},
+    "nome": "Fogueira Principal - Galhada de Alce",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Galhada de Alce",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3b"},
+    "nome": "Fogueira Principal - Crânio de Lobo",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Carcaça de Lobo",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3c"},
+    "nome": "Fogueira Principal - Banjos",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Cobra",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração", "musica"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3d"},
+    "nome": "Fogueira Principal - Manta de Assento",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Castor",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Rato Almiscarado",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Pele de Raposa",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3e"},
+    "nome": "Fogueira Principal - Manta de Tronco",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Lobo",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea3f"},
+    "nome": "Fogueira Principal - Tapete de Couro de Vaca",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira Principal",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Vaca",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "decoração"],
+    "prioridade": 3
+  },
+  {
+    "_id": {"$oid": "6951acc108bd668f5ee6aea40"},
+    "nome": "Fogueira do Vigia",
+    "categoria_principal": "Acampamento",
+    "subcategoria": "Fogueira Vigia",
+    "tipo_item": "UPGRADE",
+    "classificacao": "COMUM",
+    "obtido": false,
+    "localizacao": "Acampamento - Fogueira do Vigia",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Cabra",
+        "tipo": "ANIMAL",
+        "quantidade": 2,
+        "check": false
+      },
+      {
+        "nome": "Galhada de Cariacu",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      },
+      {
+        "nome": "Galhada de Uapiti",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "tags": ["upgrade-acampamento", "fogueira", "vigia"],
+    "prioridade": 2
+  }
+]

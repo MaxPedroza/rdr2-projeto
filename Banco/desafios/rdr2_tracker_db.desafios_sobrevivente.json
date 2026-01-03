@@ -1,0 +1,92 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b1"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 1,
+    "descricao": "Apanhe 3 perca-sol de guelras azuis.",
+    "recompensas": "Cinto de Sobrevivente com Coldre",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b2"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 2,
+    "descricao": "Doe 5 animais ao Acampamento ou Armadilheiro.",
+    "recompensas": "25 XP de Fôlego e $5.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b3"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 3,
+    "descricao": "Mate 5 animais com o rifle antipragas.",
+    "recompensas": "Coldre Secundário de Sobrevivente",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b4"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 4,
+    "descricao": "Crie uma flecha explosiva, incendiária, melhorada, envenenada e para caça pequena.",
+    "recompensas": "50 XP de Fôlego e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b5"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 5,
+    "descricao": "Apanhe um peixe de barco no Bayou e um a partir dos trilhos de trem.",
+    "recompensas": "50 XP de Fôlego e $10.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b6"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 6,
+    "descricao": "Mate um animal se alimentando de um cadáver 5 vezes.",
+    "recompensas": "100 XP de Fôlego e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b7"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 7,
+    "descricao": "Mate 8 animais pequenos com disparos consecutivos de flechas para caça pequena.",
+    "recompensas": "Cartucheira de Sobrevivente",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b8"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 8,
+    "descricao": "Crie um tomahawk de precisão, tomahawk melhorado, dinamite volátil e garrafa incendiária volátil.",
+    "recompensas": "100 XP de Fôlego e $15.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02b9"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 9,
+    "descricao": "Apanhe um peixe de pelo menos 19 lb (8,7 kg).",
+    "recompensas": "150 XP de Fôlego e $20.00",
+    "obtido": false,
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c02ba"},
+    "subcategoria": "Sobrevivente",
+    "nivel": 10,
+    "descricao": "Pegue um de cada tipo de peixe pelo mundo.",
+    "recompensas": "Coldre de Sobrevivente",
+    "obtido": false,
+    "prioridade": 1
+  }
+]

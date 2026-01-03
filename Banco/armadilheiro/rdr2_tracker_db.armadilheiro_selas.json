@@ -1,0 +1,177 @@
+[
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a1"},
+    "nome": "Vaquero Cascavel",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Cobra Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 10,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a2"},
+    "nome": "McClelland Pantera",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Pantera Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a3"},
+    "nome": "Mother Hubbard Javali",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Javali Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a4"},
+    "nome": "Ranch Cutter Jacaré",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Jacaré Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a5"},
+    "nome": "Dakota Urso",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Urso Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a6"},
+    "nome": "Roping Castor",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Castor Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  },
+  {
+    "_id": {"$oid": "6951530bd7aca3b418145c51a7"},
+    "nome": "Trilha Pantera",
+    "categoria_principal": "Selas do Trapper",
+    "tipo": "Sela",
+    "obtido": false,
+    "localizacao": "Loja do Armadilheiro",
+    "personagem": "Arthur/John",
+    "disponibilidade": {
+      "personagem": "Arthur/John",
+      "acessivel_arthur": true,
+      "acessivel_john": true
+    },
+    "materiais": [
+      {
+        "nome": "Pele de Pantera Perfeita",
+        "tipo": "ANIMAL",
+        "quantidade": 1,
+        "check": false
+      }
+    ],
+    "custo": 0,
+    "tags": ["sela", "trapper"],
+    "prioridade": 1
+  }
+]
