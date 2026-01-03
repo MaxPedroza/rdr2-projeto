@@ -1,40 +1,30 @@
 # Netlify Configuration for RDR2 Tracker PWA
+# Esta configuração aponta para a pasta rdr2-frontend
 
 [build]
+  base = "rdr2-frontend"
   command = "npm run build"
   publish = "dist/rdr2-frontend"
-  functions = "functions"
 
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
 
-# Headers para PWA
 [[headers]]
   for = "/*"
   [headers.values]
     X-Content-Type-Options = "nosniff"
     X-Frame-Options = "SAMEORIGIN"
-    X-XSS-Protection = "1; mode=block"
-    Referrer-Policy = "strict-origin-when-cross-origin"
     Service-Worker-Allowed = "/"
 
-# Cache do Service Worker (sem cache)
 [[headers]]
   for = "/ngsw-worker.js"
   [headers.values]
     Cache-Control = "no-cache, no-store, must-revalidate"
-
-# Cache dos assets
-[[headers]]
-  for = "/assets/*"
-  [headers.values]
-    Cache-Control = "public, max-age=31536000"
 
 [[headers]]
   for = "/manifest.webmanifest"
   [headers.values]
     Content-Type = "application/manifest+json"
     Cache-Control = "public, max-age=86400"
-
