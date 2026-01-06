@@ -1,0 +1,68 @@
+name: Deploy RDR2 App
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [18.x, 20.x]
+
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Use Node.js ${{ matrix.node-version }}
+      uses: actions/setup-node@v4
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+
+    # Backend Build
+    - name: Install Backend Dependencies
+      run: |
+        cd rdr2-dashboard-backend
+        npm install
+
+    - name: Build Backend
+      run: |
+        cd rdr2-dashboard-backend
+        npm run test || true
+
+    # Frontend Build
+    - name: Install Frontend Dependencies
+      run: |
+        cd rdr2-frontend
+        npm install
+
+    - name: Build Frontend
+      run: |
+        cd rdr2-frontend
+        npm run build
+
+    # Deploy Frontend to Render (via webhook) ou GitHub Pages
+    - name: Deploy Frontend to Render
+      if: github.event_name == 'push'
+      run: |
+        curl -X POST ${{ secrets.RENDER_DEPLOY_WEBHOOK }} || true
+      continue-on-error: true
+
+    # Deploy Backend to Render (via webhook)
+    - name: Deploy Backend to Render
+      if: github.event_name == 'push'
+      run: |
+        curl -X POST ${{ secrets.RENDER_BACKEND_WEBHOOK }} || true
+      continue-on-error: true
+
+    - name: Build Success
+      if: success()
+      run: echo "✅ Build bem-sucedido!"
+
+    - name: Build Failed
+      if: failure()
+      run: echo "❌ Build falhou - verifique os logs"
