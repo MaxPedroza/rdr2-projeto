@@ -10,7 +10,17 @@ const PORT = process.env.PORT || 3000;
 const BANCO_DIR = path.resolve(__dirname, '../Banco');
 
 // Middlewares
-app.use(cors());
+const corsOptions = {
+  origin: process.env.CORS_ORIGIN || [
+    'http://localhost:4200',
+    'http://localhost:3000',
+    'https://rdr2-frontend.onrender.com'
+  ],
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+};
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Middleware de erro para catch erros do JSON

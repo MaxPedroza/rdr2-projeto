@@ -9,9 +9,22 @@ import { Observable } from 'rxjs';
 
 @Injectable({ providedIn: 'root' })
 export class DatabaseService {
-  private API_URL = 'http://localhost:3000/api';
+  private API_URL = this.getApiUrl();
 
   constructor(private http: HttpClient) {}
+
+  // Detecta URL da API baseado no ambiente
+  private getApiUrl(): string {
+    const hostname = window.location.hostname;
+    
+    if (hostname === 'localhost' || hostname === '127.0.0.1') {
+      // Development
+      return 'http://localhost:3000/api';
+    } else {
+      // Production (Render ou outro)
+      return 'https://rdr2-backend.onrender.com/api';
+    }
+  }
 
   // ==========================================
   // SEÇÃO 1 - LEITURA DE DADOS
